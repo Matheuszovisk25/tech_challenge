@@ -1,0 +1,2986 @@
+,uva,tipo_uva,ano,quantidade_de_uva_processada_em_kg,categoria_uva
+0,TINTAS,TINTAS,2004,447942704,Americanas e híbridas
+1,Bacarina,TINTAS,2004,17570,Americanas e híbridas
+2,Bailey,TINTAS,2004,35614,Americanas e híbridas
+3,Bordo,TINTAS,2004,70888283,Americanas e híbridas
+4,Bourdin (S),TINTAS,2004,0,Americanas e híbridas
+5,BRS Carmen,TINTAS,2004,0,Americanas e híbridas
+6,BRS Cora,TINTAS,2004,0,Americanas e híbridas
+7,BRS Magna,TINTAS,2004,0,Americanas e híbridas
+8,BRS Margot,TINTAS,2004,0,Americanas e híbridas
+9,BRS Morena,TINTAS,2004,0,Americanas e híbridas
+10,BRS Violeta,TINTAS,2004,0,Americanas e híbridas
+11,Champagnon (Champanheta),TINTAS,2004,23144,Americanas e híbridas
+12,Coleções,TINTAS,2004,5386,Americanas e híbridas
+13,Cynthiana(1),TINTAS,2004,1093197,Americanas e híbridas
+14,Concord,TINTAS,2004,36107207,Americanas e híbridas
+15,Concord clone 30,TINTAS,2004,0,Americanas e híbridas
+16,Couderc,TINTAS,2004,30938797,Americanas e híbridas
+17,Herbemont,TINTAS,2004,18289740,Americanas e híbridas
+18,IAC 138022,TINTAS,2004,0,Americanas e híbridas
+19,Isabel,TINTAS,2004,245112515,Americanas e híbridas
+20,Isabel Precoce,TINTAS,2004,0,Americanas e híbridas
+21,Jacquez,TINTAS,2004,31496317,Americanas e híbridas
+22,Kyoko,TINTAS,2004,0,Americanas e híbridas
+23,Landot,TINTAS,2004,0,Americanas e híbridas
+24,Oberlin,TINTAS,2004,4470,Americanas e híbridas
+25,Othello,TINTAS,2004,0,Americanas e híbridas
+26,Patricia,TINTAS,2004,0,Americanas e híbridas
+27,Rúbea,TINTAS,2004,230237,Americanas e híbridas
+28,Seibel,TINTAS,2004,6249764,Americanas e híbridas
+29,Seibel 2 (seibeleto),TINTAS,2004,6330118,Americanas e híbridas
+30,Seyve Willard (Tinta),TINTAS,2004,1120345,Americanas e híbridas
+31,Vênus,TINTAS,2004,0,Americanas e híbridas
+32,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2004,68479972,Americanas e híbridas
+33,Baco,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+34,Bokay,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+35,BRS Clara,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+36,BRS Lorena,BRANCAS E ROSADAS,2004,151131,Americanas e híbridas
+37,Couderc 13,BRANCAS E ROSADAS,2004,9332646,Americanas e híbridas
+38,Delaware,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+39,Dona Zillá,BRANCAS E ROSADAS,2004,51939,Americanas e híbridas
+40,Dut Chess,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+41,Goethe,BRANCAS E ROSADAS,2004,514160,Americanas e híbridas
+42,IAC,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+43,Juliana,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+44,Martha,BRANCAS E ROSADAS,2004,17610,Americanas e híbridas
+45,Moscato Embrapa,BRANCAS E ROSADAS,2004,2328928,Americanas e híbridas
+46,Niagara,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+47,Niagara Branca,BRANCAS E ROSADAS,2004,41747941,Americanas e híbridas
+48,Niagara Rosada,BRANCAS E ROSADAS,2004,12632861,Americanas e híbridas
+49,Poloske,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+50,Seleções,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+51,Seyve Villard,BRANCAS E ROSADAS,2004,1029919,Americanas e híbridas
+52,Seyve Villard 5276,BRANCAS E ROSADAS,2004,661492,Americanas e híbridas
+53,Seyve Villard 12375,BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+54,Tardia de Caxias,BRANCAS E ROSADAS,2004,11345,Americanas e híbridas
+55,Outras(2),BRANCAS E ROSADAS,2004,0,Americanas e híbridas
+56,TINTAS,TINTAS,2005,359381282,Americanas e híbridas
+57,Bacarina,TINTAS,2005,21520,Americanas e híbridas
+58,Bailey,TINTAS,2005,66503,Americanas e híbridas
+59,Bordo,TINTAS,2005,64174362,Americanas e híbridas
+60,Bourdin (S),TINTAS,2005,0,Americanas e híbridas
+61,BRS Carmen,TINTAS,2005,0,Americanas e híbridas
+62,BRS Cora,TINTAS,2005,0,Americanas e híbridas
+63,BRS Magna,TINTAS,2005,0,Americanas e híbridas
+64,BRS Margot,TINTAS,2005,0,Americanas e híbridas
+65,BRS Morena,TINTAS,2005,0,Americanas e híbridas
+66,BRS Violeta,TINTAS,2005,0,Americanas e híbridas
+67,Champagnon (Champanheta),TINTAS,2005,5643,Americanas e híbridas
+68,Coleções,TINTAS,2005,10905,Americanas e híbridas
+69,Cynthiana(1),TINTAS,2005,977034,Americanas e híbridas
+70,Concord,TINTAS,2005,37460265,Americanas e híbridas
+71,Concord clone 30,TINTAS,2005,0,Americanas e híbridas
+72,Couderc,TINTAS,2005,25596933,Americanas e híbridas
+73,Herbemont,TINTAS,2005,14772530,Americanas e híbridas
+74,IAC 138022,TINTAS,2005,0,Americanas e híbridas
+75,Isabel,TINTAS,2005,185966788,Americanas e híbridas
+76,Isabel Precoce,TINTAS,2005,0,Americanas e híbridas
+77,Jacquez,TINTAS,2005,20571911,Americanas e híbridas
+78,Kyoko,TINTAS,2005,0,Americanas e híbridas
+79,Landot,TINTAS,2005,0,Americanas e híbridas
+80,Oberlin,TINTAS,2005,2855,Americanas e híbridas
+81,Othello,TINTAS,2005,0,Americanas e híbridas
+82,Patricia,TINTAS,2005,14864,Americanas e híbridas
+83,Rúbea,TINTAS,2005,308905,Americanas e híbridas
+84,Seibel,TINTAS,2005,5824509,Americanas e híbridas
+85,Seibel 2 (seibeleto),TINTAS,2005,2559450,Americanas e híbridas
+86,Seyve Willard (Tinta),TINTAS,2005,1032585,Americanas e híbridas
+87,Vênus,TINTAS,2005,13720,Americanas e híbridas
+88,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2005,63289135,Americanas e híbridas
+89,Baco,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+90,Bokay,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+91,BRS Clara,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+92,BRS Lorena,BRANCAS E ROSADAS,2005,565303,Americanas e híbridas
+93,Couderc 13,BRANCAS E ROSADAS,2005,7870793,Americanas e híbridas
+94,Delaware,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+95,Dona Zillá,BRANCAS E ROSADAS,2005,46844,Americanas e híbridas
+96,Dut Chess,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+97,Goethe,BRANCAS E ROSADAS,2005,522887,Americanas e híbridas
+98,IAC,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+99,Juliana,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+100,Martha,BRANCAS E ROSADAS,2005,10060,Americanas e híbridas
+101,Moscato Embrapa,BRANCAS E ROSADAS,2005,2813056,Americanas e híbridas
+102,Niagara,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+103,Niagara Branca,BRANCAS E ROSADAS,2005,37394435,Americanas e híbridas
+104,Niagara Rosada,BRANCAS E ROSADAS,2005,12605714,Americanas e híbridas
+105,Poloske,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+106,Seleções,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+107,Seyve Villard,BRANCAS E ROSADAS,2005,952715,Americanas e híbridas
+108,Seyve Villard 5276,BRANCAS E ROSADAS,2005,494908,Americanas e híbridas
+109,Seyve Villard 12375,BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+110,Tardia de Caxias,BRANCAS E ROSADAS,2005,12420,Americanas e híbridas
+111,Outras(2),BRANCAS E ROSADAS,2005,0,Americanas e híbridas
+112,TINTAS,TINTAS,2006,310671646,Americanas e híbridas
+113,Bacarina,TINTAS,2006,11545,Americanas e híbridas
+114,Bailey,TINTAS,2006,94805,Americanas e híbridas
+115,Bordo,TINTAS,2006,54568468,Americanas e híbridas
+116,Bourdin (S),TINTAS,2006,0,Americanas e híbridas
+117,BRS Carmen,TINTAS,2006,0,Americanas e híbridas
+118,BRS Cora,TINTAS,2006,0,Americanas e híbridas
+119,BRS Magna,TINTAS,2006,0,Americanas e híbridas
+120,BRS Margot,TINTAS,2006,0,Americanas e híbridas
+121,BRS Morena,TINTAS,2006,0,Americanas e híbridas
+122,BRS Violeta,TINTAS,2006,0,Americanas e híbridas
+123,Champagnon (Champanheta),TINTAS,2006,10848,Americanas e híbridas
+124,Coleções,TINTAS,2006,13311,Americanas e híbridas
+125,Cynthiana(1),TINTAS,2006,932587,Americanas e híbridas
+126,Concord,TINTAS,2006,26526274,Americanas e híbridas
+127,Concord clone 30,TINTAS,2006,0,Americanas e híbridas
+128,Couderc,TINTAS,2006,23869435,Americanas e híbridas
+129,Herbemont,TINTAS,2006,11490495,Americanas e híbridas
+130,IAC 138022,TINTAS,2006,0,Americanas e híbridas
+131,Isabel,TINTAS,2006,163125701,Americanas e híbridas
+132,Isabel Precoce,TINTAS,2006,8140,Americanas e híbridas
+133,Jacquez,TINTAS,2006,21500205,Americanas e híbridas
+134,Kyoko,TINTAS,2006,0,Americanas e híbridas
+135,Landot,TINTAS,2006,0,Americanas e híbridas
+136,Oberlin,TINTAS,2006,952,Americanas e híbridas
+137,Othello,TINTAS,2006,0,Americanas e híbridas
+138,Patricia,TINTAS,2006,20310,Americanas e híbridas
+139,Rúbea,TINTAS,2006,366671,Americanas e híbridas
+140,Seibel,TINTAS,2006,4764595,Americanas e híbridas
+141,Seibel 2 (seibeleto),TINTAS,2006,2417681,Americanas e híbridas
+142,Seyve Willard (Tinta),TINTAS,2006,949623,Americanas e híbridas
+143,Vênus,TINTAS,2006,0,Americanas e híbridas
+144,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2006,56411010,Americanas e híbridas
+145,Baco,BRANCAS E ROSADAS,2006,28300,Americanas e híbridas
+146,Bokay,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+147,BRS Clara,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+148,BRS Lorena,BRANCAS E ROSADAS,2006,1366570,Americanas e híbridas
+149,Couderc 13,BRANCAS E ROSADAS,2006,7903159,Americanas e híbridas
+150,Delaware,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+151,Dona Zillá,BRANCAS E ROSADAS,2006,13660,Americanas e híbridas
+152,Dut Chess,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+153,Goethe,BRANCAS E ROSADAS,2006,491419,Americanas e híbridas
+154,IAC,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+155,Juliana,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+156,Martha,BRANCAS E ROSADAS,2006,9302,Americanas e híbridas
+157,Moscato Embrapa,BRANCAS E ROSADAS,2006,4274628,Americanas e híbridas
+158,Niagara,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+159,Niagara Branca,BRANCAS E ROSADAS,2006,32398672,Americanas e híbridas
+160,Niagara Rosada,BRANCAS E ROSADAS,2006,8736346,Americanas e híbridas
+161,Poloske,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+162,Seleções,BRANCAS E ROSADAS,2006,2360,Americanas e híbridas
+163,Seyve Villard,BRANCAS E ROSADAS,2006,915917,Americanas e híbridas
+164,Seyve Villard 5276,BRANCAS E ROSADAS,2006,260294,Americanas e híbridas
+165,Seyve Villard 12375,BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+166,Tardia de Caxias,BRANCAS E ROSADAS,2006,10383,Americanas e híbridas
+167,Outras(2),BRANCAS E ROSADAS,2006,0,Americanas e híbridas
+168,TINTAS,TINTAS,2007,430628346,Americanas e híbridas
+169,Bacarina,TINTAS,2007,12070,Americanas e híbridas
+170,Bailey,TINTAS,2007,236139,Americanas e híbridas
+171,Bordo,TINTAS,2007,76907674,Americanas e híbridas
+172,Bourdin (S),TINTAS,2007,0,Americanas e híbridas
+173,BRS Carmen,TINTAS,2007,0,Americanas e híbridas
+174,BRS Cora,TINTAS,2007,4370,Americanas e híbridas
+175,BRS Magna,TINTAS,2007,0,Americanas e híbridas
+176,BRS Margot,TINTAS,2007,0,Americanas e híbridas
+177,BRS Morena,TINTAS,2007,0,Americanas e híbridas
+178,BRS Violeta,TINTAS,2007,0,Americanas e híbridas
+179,Champagnon (Champanheta),TINTAS,2007,7130,Americanas e híbridas
+180,Coleções,TINTAS,2007,30942,Americanas e híbridas
+181,Cynthiana(1),TINTAS,2007,1705777,Americanas e híbridas
+182,Concord,TINTAS,2007,25732390,Americanas e híbridas
+183,Concord clone 30,TINTAS,2007,0,Americanas e híbridas
+184,Couderc,TINTAS,2007,32652378,Americanas e híbridas
+185,Herbemont,TINTAS,2007,18204806,Americanas e híbridas
+186,IAC 138022,TINTAS,2007,0,Americanas e híbridas
+187,Isabel,TINTAS,2007,228558808,Americanas e híbridas
+188,Isabel Precoce,TINTAS,2007,86037,Americanas e híbridas
+189,Jacquez,TINTAS,2007,32478164,Americanas e híbridas
+190,Kyoko,TINTAS,2007,0,Americanas e híbridas
+191,Landot,TINTAS,2007,0,Americanas e híbridas
+192,Oberlin,TINTAS,2007,3060,Americanas e híbridas
+193,Othello,TINTAS,2007,0,Americanas e híbridas
+194,Patricia,TINTAS,2007,38018,Americanas e híbridas
+195,Rúbea,TINTAS,2007,605247,Americanas e híbridas
+196,Seibel,TINTAS,2007,8603117,Americanas e híbridas
+197,Seibel 2 (seibeleto),TINTAS,2007,3349837,Americanas e híbridas
+198,Seyve Willard (Tinta),TINTAS,2007,1412382,Americanas e híbridas
+199,Vênus,TINTAS,2007,0,Americanas e híbridas
+200,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2007,67888444,Americanas e híbridas
+201,Baco,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+202,Bokay,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+203,BRS Clara,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+204,BRS Lorena,BRANCAS E ROSADAS,2007,3312021,Americanas e híbridas
+205,Couderc 13,BRANCAS E ROSADAS,2007,11367849,Americanas e híbridas
+206,Delaware,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+207,Dona Zillá,BRANCAS E ROSADAS,2007,57310,Americanas e híbridas
+208,Dut Chess,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+209,Goethe,BRANCAS E ROSADAS,2007,791379,Americanas e híbridas
+210,IAC,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+211,Juliana,BRANCAS E ROSADAS,2007,7000,Americanas e híbridas
+212,Martha,BRANCAS E ROSADAS,2007,6038,Americanas e híbridas
+213,Moscato Embrapa,BRANCAS E ROSADAS,2007,6621952,Americanas e híbridas
+214,Niagara,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+215,Niagara Branca,BRANCAS E ROSADAS,2007,33749294,Americanas e híbridas
+216,Niagara Rosada,BRANCAS E ROSADAS,2007,10383783,Americanas e híbridas
+217,Poloske,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+218,Seleções,BRANCAS E ROSADAS,2007,5370,Americanas e híbridas
+219,Seyve Villard,BRANCAS E ROSADAS,2007,1139845,Americanas e híbridas
+220,Seyve Villard 5276,BRANCAS E ROSADAS,2007,406600,Americanas e híbridas
+221,Seyve Villard 12375,BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+222,Tardia de Caxias,BRANCAS E ROSADAS,2007,40003,Americanas e híbridas
+223,Outras(2),BRANCAS E ROSADAS,2007,0,Americanas e híbridas
+224,TINTAS,TINTAS,2008,466504230,Americanas e híbridas
+225,Bacarina,TINTAS,2008,16780,Americanas e híbridas
+226,Bailey,TINTAS,2008,235828,Americanas e híbridas
+227,Bordo,TINTAS,2008,97644667,Americanas e híbridas
+228,Bourdin (S),TINTAS,2008,0,Americanas e híbridas
+229,BRS Carmen,TINTAS,2008,0,Americanas e híbridas
+230,BRS Cora,TINTAS,2008,59160,Americanas e híbridas
+231,BRS Magna,TINTAS,2008,0,Americanas e híbridas
+232,BRS Margot,TINTAS,2008,0,Americanas e híbridas
+233,BRS Morena,TINTAS,2008,0,Americanas e híbridas
+234,BRS Violeta,TINTAS,2008,4296,Americanas e híbridas
+235,Champagnon (Champanheta),TINTAS,2008,0,Americanas e híbridas
+236,Coleções,TINTAS,2008,27400,Americanas e híbridas
+237,Cynthiana(1),TINTAS,2008,1220666,Americanas e híbridas
+238,Concord,TINTAS,2008,44291027,Americanas e híbridas
+239,Concord clone 30,TINTAS,2008,0,Americanas e híbridas
+240,Couderc,TINTAS,2008,33179502,Americanas e híbridas
+241,Herbemont,TINTAS,2008,11962083,Americanas e híbridas
+242,IAC 138022,TINTAS,2008,0,Americanas e híbridas
+243,Isabel,TINTAS,2008,236664733,Americanas e híbridas
+244,Isabel Precoce,TINTAS,2008,576083,Americanas e híbridas
+245,Jacquez,TINTAS,2008,23447261,Americanas e híbridas
+246,Kyoko,TINTAS,2008,0,Americanas e híbridas
+247,Landot,TINTAS,2008,0,Americanas e híbridas
+248,Oberlin,TINTAS,2008,0,Americanas e híbridas
+249,Othello,TINTAS,2008,0,Americanas e híbridas
+250,Patricia,TINTAS,2008,50848,Americanas e híbridas
+251,Rúbea,TINTAS,2008,785389,Americanas e híbridas
+252,Seibel,TINTAS,2008,10059544,Americanas e híbridas
+253,Seibel 2 (seibeleto),TINTAS,2008,4276672,Americanas e híbridas
+254,Seyve Willard (Tinta),TINTAS,2008,1963751,Americanas e híbridas
+255,Vênus,TINTAS,2008,38540,Americanas e híbridas
+256,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2008,83917393,Americanas e híbridas
+257,Baco,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+258,Bokay,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+259,BRS Clara,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+260,BRS Lorena,BRANCAS E ROSADAS,2008,4861871,Americanas e híbridas
+261,Couderc 13,BRANCAS E ROSADAS,2008,10071015,Americanas e híbridas
+262,Delaware,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+263,Dona Zillá,BRANCAS E ROSADAS,2008,29246,Americanas e híbridas
+264,Dut Chess,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+265,Goethe,BRANCAS E ROSADAS,2008,324838,Americanas e híbridas
+266,IAC,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+267,Juliana,BRANCAS E ROSADAS,2008,15380,Americanas e híbridas
+268,Martha,BRANCAS E ROSADAS,2008,6586,Americanas e híbridas
+269,Moscato Embrapa,BRANCAS E ROSADAS,2008,8598555,Americanas e híbridas
+270,Niagara,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+271,Niagara Branca,BRANCAS E ROSADAS,2008,43629972,Americanas e híbridas
+272,Niagara Rosada,BRANCAS E ROSADAS,2008,14753481,Americanas e híbridas
+273,Poloske,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+274,Seleções,BRANCAS E ROSADAS,2008,4280,Americanas e híbridas
+275,Seyve Villard,BRANCAS E ROSADAS,2008,1156969,Americanas e híbridas
+276,Seyve Villard 5276,BRANCAS E ROSADAS,2008,449229,Americanas e híbridas
+277,Seyve Villard 12375,BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+278,Tardia de Caxias,BRANCAS E ROSADAS,2008,15971,Americanas e híbridas
+279,Outras(2),BRANCAS E ROSADAS,2008,0,Americanas e híbridas
+280,TINTAS,TINTAS,2009,391196306,Americanas e híbridas
+281,Bacarina,TINTAS,2009,10810,Americanas e híbridas
+282,Bailey,TINTAS,2009,559815,Americanas e híbridas
+283,Bordo,TINTAS,2009,69521354,Americanas e híbridas
+284,Bourdin (S),TINTAS,2009,0,Americanas e híbridas
+285,BRS Carmen,TINTAS,2009,0,Americanas e híbridas
+286,BRS Cora,TINTAS,2009,335038,Americanas e híbridas
+287,BRS Magna,TINTAS,2009,0,Americanas e híbridas
+288,BRS Margot,TINTAS,2009,0,Americanas e híbridas
+289,BRS Morena,TINTAS,2009,0,Americanas e híbridas
+290,BRS Violeta,TINTAS,2009,132764,Americanas e híbridas
+291,Champagnon (Champanheta),TINTAS,2009,17498,Americanas e híbridas
+292,Coleções,TINTAS,2009,27109,Americanas e híbridas
+293,Cynthiana(1),TINTAS,2009,1279382,Americanas e híbridas
+294,Concord,TINTAS,2009,39227727,Americanas e híbridas
+295,Concord clone 30,TINTAS,2009,0,Americanas e híbridas
+296,Couderc,TINTAS,2009,29388964,Americanas e híbridas
+297,Herbemont,TINTAS,2009,10968175,Americanas e híbridas
+298,IAC 138022,TINTAS,2009,0,Americanas e híbridas
+299,Isabel,TINTAS,2009,199729598,Americanas e híbridas
+300,Isabel Precoce,TINTAS,2009,1632808,Americanas e híbridas
+301,Jacquez,TINTAS,2009,24273653,Americanas e híbridas
+302,Kyoko,TINTAS,2009,5395,Americanas e híbridas
+303,Landot,TINTAS,2009,0,Americanas e híbridas
+304,Oberlin,TINTAS,2009,0,Americanas e híbridas
+305,Othello,TINTAS,2009,0,Americanas e híbridas
+306,Patricia,TINTAS,2009,20380,Americanas e híbridas
+307,Rúbea,TINTAS,2009,718461,Americanas e híbridas
+308,Seibel,TINTAS,2009,7731667,Americanas e híbridas
+309,Seibel 2 (seibeleto),TINTAS,2009,3974185,Americanas e híbridas
+310,Seyve Willard (Tinta),TINTAS,2009,1626063,Americanas e híbridas
+311,Vênus,TINTAS,2009,15460,Americanas e híbridas
+312,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2009,71110317,Americanas e híbridas
+313,Baco,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+314,Bokay,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+315,BRS Clara,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+316,BRS Lorena,BRANCAS E ROSADAS,2009,6117429,Americanas e híbridas
+317,Couderc 13,BRANCAS E ROSADAS,2009,11021450,Americanas e híbridas
+318,Delaware,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+319,Dona Zillá,BRANCAS E ROSADAS,2009,44650,Americanas e híbridas
+320,Dut Chess,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+321,Goethe,BRANCAS E ROSADAS,2009,480376,Americanas e híbridas
+322,IAC,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+323,Juliana,BRANCAS E ROSADAS,2009,4060,Americanas e híbridas
+324,Martha,BRANCAS E ROSADAS,2009,6433,Americanas e híbridas
+325,Moscato Embrapa,BRANCAS E ROSADAS,2009,11229449,Americanas e híbridas
+326,Niagara,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+327,Niagara Branca,BRANCAS E ROSADAS,2009,30822840,Americanas e híbridas
+328,Niagara Rosada,BRANCAS E ROSADAS,2009,9975809,Americanas e híbridas
+329,Poloske,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+330,Seleções,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+331,Seyve Villard,BRANCAS E ROSADAS,2009,1094276,Americanas e híbridas
+332,Seyve Villard 5276,BRANCAS E ROSADAS,2009,305108,Americanas e híbridas
+333,Seyve Villard 12375,BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+334,Tardia de Caxias,BRANCAS E ROSADAS,2009,8437,Americanas e híbridas
+335,Outras(2),BRANCAS E ROSADAS,2009,0,Americanas e híbridas
+336,TINTAS,TINTAS,2010,409514092,Americanas e híbridas
+337,Bacarina,TINTAS,2010,7850,Americanas e híbridas
+338,Bailey,TINTAS,2010,604895,Americanas e híbridas
+339,Bordo,TINTAS,2010,89066377,Americanas e híbridas
+340,Bourdin (S),TINTAS,2010,26990,Americanas e híbridas
+341,BRS Carmen,TINTAS,2010,2296,Americanas e híbridas
+342,BRS Cora,TINTAS,2010,1178530,Americanas e híbridas
+343,BRS Magna,TINTAS,2010,0,Americanas e híbridas
+344,BRS Margot,TINTAS,2010,0,Americanas e híbridas
+345,BRS Morena,TINTAS,2010,12114,Americanas e híbridas
+346,BRS Violeta,TINTAS,2010,979695,Americanas e híbridas
+347,Champagnon (Champanheta),TINTAS,2010,6000,Americanas e híbridas
+348,Coleções,TINTAS,2010,11624,Americanas e híbridas
+349,Cynthiana(1),TINTAS,2010,1151540,Americanas e híbridas
+350,Concord,TINTAS,2010,41446763,Americanas e híbridas
+351,Concord clone 30,TINTAS,2010,942685,Americanas e híbridas
+352,Couderc,TINTAS,2010,24092319,Americanas e híbridas
+353,Herbemont,TINTAS,2010,7598565,Americanas e híbridas
+354,IAC 138022,TINTAS,2010,0,Americanas e híbridas
+355,Isabel,TINTAS,2010,198927893,Americanas e híbridas
+356,Isabel Precoce,TINTAS,2010,5427981,Americanas e híbridas
+357,Jacquez,TINTAS,2010,26557467,Americanas e híbridas
+358,Kyoko,TINTAS,2010,0,Americanas e híbridas
+359,Landot,TINTAS,2010,0,Americanas e híbridas
+360,Oberlin,TINTAS,2010,0,Americanas e híbridas
+361,Othello,TINTAS,2010,0,Americanas e híbridas
+362,Patricia,TINTAS,2010,7085,Americanas e híbridas
+363,Rúbea,TINTAS,2010,876076,Americanas e híbridas
+364,Seibel,TINTAS,2010,6274394,Americanas e híbridas
+365,Seibel 2 (seibeleto),TINTAS,2010,3062997,Americanas e híbridas
+366,Seyve Willard (Tinta),TINTAS,2010,1251956,Americanas e híbridas
+367,Vênus,TINTAS,2010,0,Americanas e híbridas
+368,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2010,71589617,Americanas e híbridas
+369,Baco,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+370,Bokay,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+371,BRS Clara,BRANCAS E ROSADAS,2010,3560,Americanas e híbridas
+372,BRS Lorena,BRANCAS E ROSADAS,2010,4804262,Americanas e híbridas
+373,Couderc 13,BRANCAS E ROSADAS,2010,8001944,Americanas e híbridas
+374,Delaware,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+375,Dona Zillá,BRANCAS E ROSADAS,2010,35708,Americanas e híbridas
+376,Dut Chess,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+377,Goethe,BRANCAS E ROSADAS,2010,473521,Americanas e híbridas
+378,IAC,BRANCAS E ROSADAS,2010,650,Americanas e híbridas
+379,Juliana,BRANCAS E ROSADAS,2010,1500,Americanas e híbridas
+380,Martha,BRANCAS E ROSADAS,2010,11329,Americanas e híbridas
+381,Moscato Embrapa,BRANCAS E ROSADAS,2010,8594684,Americanas e híbridas
+382,Niagara,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+383,Niagara Branca,BRANCAS E ROSADAS,2010,35971072,Americanas e híbridas
+384,Niagara Rosada,BRANCAS E ROSADAS,2010,12553768,Americanas e híbridas
+385,Poloske,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+386,Seleções,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+387,Seyve Villard,BRANCAS E ROSADAS,2010,873170,Americanas e híbridas
+388,Seyve Villard 5276,BRANCAS E ROSADAS,2010,242528,Americanas e híbridas
+389,Seyve Villard 12375,BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+390,Tardia de Caxias,BRANCAS E ROSADAS,2010,21921,Americanas e híbridas
+391,Outras(2),BRANCAS E ROSADAS,2010,0,Americanas e híbridas
+392,TINTAS,TINTAS,2011,532937101,Americanas e híbridas
+393,Bacarina,TINTAS,2011,12930,Americanas e híbridas
+394,Bailey,TINTAS,2011,769140,Americanas e híbridas
+395,Bordo,TINTAS,2011,139754250,Americanas e híbridas
+396,Bourdin (S),TINTAS,2011,0,Americanas e híbridas
+397,BRS Carmen,TINTAS,2011,48450,Americanas e híbridas
+398,BRS Cora,TINTAS,2011,2844280,Americanas e híbridas
+399,BRS Magna,TINTAS,2011,0,Americanas e híbridas
+400,BRS Margot,TINTAS,2011,0,Americanas e híbridas
+401,BRS Morena,TINTAS,2011,0,Americanas e híbridas
+402,BRS Violeta,TINTAS,2011,2404076,Americanas e híbridas
+403,Champagnon (Champanheta),TINTAS,2011,4351,Americanas e híbridas
+404,Coleções,TINTAS,2011,33408,Americanas e híbridas
+405,Cynthiana(1),TINTAS,2011,1249033,Americanas e híbridas
+406,Concord,TINTAS,2011,44201322,Americanas e híbridas
+407,Concord clone 30,TINTAS,2011,1720732,Americanas e híbridas
+408,Couderc,TINTAS,2011,35686727,Americanas e híbridas
+409,Herbemont,TINTAS,2011,8954135,Americanas e híbridas
+410,IAC 138022,TINTAS,2011,0,Americanas e híbridas
+411,Isabel,TINTAS,2011,244626313,Americanas e híbridas
+412,Isabel Precoce,TINTAS,2011,7687712,Americanas e híbridas
+413,Jacquez,TINTAS,2011,30223434,Americanas e híbridas
+414,Kyoko,TINTAS,2011,0,Americanas e híbridas
+415,Landot,TINTAS,2011,0,Americanas e híbridas
+416,Oberlin,TINTAS,2011,0,Americanas e híbridas
+417,Othello,TINTAS,2011,0,Americanas e híbridas
+418,Patricia,TINTAS,2011,5885,Americanas e híbridas
+419,Rúbea,TINTAS,2011,1333903,Americanas e híbridas
+420,Seibel,TINTAS,2011,6922384,Americanas e híbridas
+421,Seibel 2 (seibeleto),TINTAS,2011,2839703,Americanas e híbridas
+422,Seyve Willard (Tinta),TINTAS,2011,1602693,Americanas e híbridas
+423,Vênus,TINTAS,2011,12240,Americanas e híbridas
+424,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2011,94137074,Americanas e híbridas
+425,Baco,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+426,Bokay,BRANCAS E ROSADAS,2011,32810,Americanas e híbridas
+427,BRS Clara,BRANCAS E ROSADAS,2011,4820,Americanas e híbridas
+428,BRS Lorena,BRANCAS E ROSADAS,2011,7776413,Americanas e híbridas
+429,Couderc 13,BRANCAS E ROSADAS,2011,10982813,Americanas e híbridas
+430,Delaware,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+431,Dona Zillá,BRANCAS E ROSADAS,2011,29190,Americanas e híbridas
+432,Dut Chess,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+433,Goethe,BRANCAS E ROSADAS,2011,414977,Americanas e híbridas
+434,IAC,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+435,Juliana,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+436,Martha,BRANCAS E ROSADAS,2011,3060,Americanas e híbridas
+437,Moscato Embrapa,BRANCAS E ROSADAS,2011,11200409,Americanas e híbridas
+438,Niagara,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+439,Niagara Branca,BRANCAS E ROSADAS,2011,47581756,Americanas e híbridas
+440,Niagara Rosada,BRANCAS E ROSADAS,2011,14831369,Americanas e híbridas
+441,Poloske,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+442,Seleções,BRANCAS E ROSADAS,2011,2022,Americanas e híbridas
+443,Seyve Villard,BRANCAS E ROSADAS,2011,1007735,Americanas e híbridas
+444,Seyve Villard 5276,BRANCAS E ROSADAS,2011,242415,Americanas e híbridas
+445,Seyve Villard 12375,BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+446,Tardia de Caxias,BRANCAS E ROSADAS,2011,27285,Americanas e híbridas
+447,Outras(2),BRANCAS E ROSADAS,2011,0,Americanas e híbridas
+448,TINTAS,TINTAS,2012,527332818,Americanas e híbridas
+449,Bacarina,TINTAS,2012,3820,Americanas e híbridas
+450,Bailey,TINTAS,2012,912286,Americanas e híbridas
+451,Bordo,TINTAS,2012,127378006,Americanas e híbridas
+452,Bourdin (S),TINTAS,2012,0,Americanas e híbridas
+453,BRS Carmen,TINTAS,2012,278602,Americanas e híbridas
+454,BRS Cora,TINTAS,2012,3098082,Americanas e híbridas
+455,BRS Magna,TINTAS,2012,0,Americanas e híbridas
+456,BRS Margot,TINTAS,2012,0,Americanas e híbridas
+457,BRS Morena,TINTAS,2012,0,Americanas e híbridas
+458,BRS Violeta,TINTAS,2012,4009589,Americanas e híbridas
+459,Champagnon (Champanheta),TINTAS,2012,3138,Americanas e híbridas
+460,Coleções,TINTAS,2012,39806,Americanas e híbridas
+461,Cynthiana(1),TINTAS,2012,1492979,Americanas e híbridas
+462,Concord,TINTAS,2012,44395218,Americanas e híbridas
+463,Concord clone 30,TINTAS,2012,2745160,Americanas e híbridas
+464,Couderc,TINTAS,2012,27237702,Americanas e híbridas
+465,Herbemont,TINTAS,2012,7246411,Americanas e híbridas
+466,IAC 138022,TINTAS,2012,0,Americanas e híbridas
+467,Isabel,TINTAS,2012,262942020,Americanas e híbridas
+468,Isabel Precoce,TINTAS,2012,11743388,Americanas e híbridas
+469,Jacquez,TINTAS,2012,24572149,Americanas e híbridas
+470,Kyoko,TINTAS,2012,0,Americanas e híbridas
+471,Landot,TINTAS,2012,0,Americanas e híbridas
+472,Oberlin,TINTAS,2012,0,Americanas e híbridas
+473,Othello,TINTAS,2012,0,Americanas e híbridas
+474,Patricia,TINTAS,2012,3015,Americanas e híbridas
+475,Rúbea,TINTAS,2012,1332139,Americanas e híbridas
+476,Seibel,TINTAS,2012,4056234,Americanas e híbridas
+477,Seibel 2 (seibeleto),TINTAS,2012,2491824,Americanas e híbridas
+478,Seyve Willard (Tinta),TINTAS,2012,1330096,Americanas e híbridas
+479,Vênus,TINTAS,2012,21154,Americanas e híbridas
+480,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2012,93549583,Americanas e híbridas
+481,Baco,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+482,Bokay,BRANCAS E ROSADAS,2012,56250,Americanas e híbridas
+483,BRS Clara,BRANCAS E ROSADAS,2012,4120,Americanas e híbridas
+484,BRS Lorena,BRANCAS E ROSADAS,2012,8792381,Americanas e híbridas
+485,Couderc 13,BRANCAS E ROSADAS,2012,10185486,Americanas e híbridas
+486,Delaware,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+487,Dona Zillá,BRANCAS E ROSADAS,2012,23770,Americanas e híbridas
+488,Dut Chess,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+489,Goethe,BRANCAS E ROSADAS,2012,776322,Americanas e híbridas
+490,IAC,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+491,Juliana,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+492,Martha,BRANCAS E ROSADAS,2012,22321,Americanas e híbridas
+493,Moscato Embrapa,BRANCAS E ROSADAS,2012,11303572,Americanas e híbridas
+494,Niagara,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+495,Niagara Branca,BRANCAS E ROSADAS,2012,47325170,Americanas e híbridas
+496,Niagara Rosada,BRANCAS E ROSADAS,2012,14040879,Americanas e híbridas
+497,Poloske,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+498,Seleções,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+499,Seyve Villard,BRANCAS E ROSADAS,2012,839003,Americanas e híbridas
+500,Seyve Villard 5276,BRANCAS E ROSADAS,2012,151456,Americanas e híbridas
+501,Seyve Villard 12375,BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+502,Tardia de Caxias,BRANCAS E ROSADAS,2012,28853,Americanas e híbridas
+503,Outras(2),BRANCAS E ROSADAS,2012,0,Americanas e híbridas
+504,TINTAS,TINTAS,2013,460738996,Americanas e híbridas
+505,Bacarina,TINTAS,2013,2990,Americanas e híbridas
+506,Bailey,TINTAS,2013,756000,Americanas e híbridas
+507,Bordo,TINTAS,2013,102788361,Americanas e híbridas
+508,Bourdin (S),TINTAS,2013,0,Americanas e híbridas
+509,BRS Carmen,TINTAS,2013,605728,Americanas e híbridas
+510,BRS Cora,TINTAS,2013,3697942,Americanas e híbridas
+511,BRS Magna,TINTAS,2013,0,Americanas e híbridas
+512,BRS Margot,TINTAS,2013,0,Americanas e híbridas
+513,BRS Morena,TINTAS,2013,2600,Americanas e híbridas
+514,BRS Violeta,TINTAS,2013,3561414,Americanas e híbridas
+515,Champagnon (Champanheta),TINTAS,2013,106,Americanas e híbridas
+516,Coleções,TINTAS,2013,34072,Americanas e híbridas
+517,Cynthiana(1),TINTAS,2013,1290743,Americanas e híbridas
+518,Concord,TINTAS,2013,34237661,Americanas e híbridas
+519,Concord clone 30,TINTAS,2013,2326774,Americanas e híbridas
+520,Couderc,TINTAS,2013,26722044,Americanas e híbridas
+521,Herbemont,TINTAS,2013,6142005,Americanas e híbridas
+522,IAC 138022,TINTAS,2013,0,Americanas e híbridas
+523,Isabel,TINTAS,2013,232518530,Americanas e híbridas
+524,Isabel Precoce,TINTAS,2013,11467561,Americanas e híbridas
+525,Jacquez,TINTAS,2013,24997428,Americanas e híbridas
+526,Kyoko,TINTAS,2013,0,Americanas e híbridas
+527,Landot,TINTAS,2013,0,Americanas e híbridas
+528,Oberlin,TINTAS,2013,0,Americanas e híbridas
+529,Othello,TINTAS,2013,0,Americanas e híbridas
+530,Patricia,TINTAS,2013,3575,Americanas e híbridas
+531,Rúbea,TINTAS,2013,1478269,Americanas e híbridas
+532,Seibel,TINTAS,2013,6727381,Americanas e híbridas
+533,Seibel 2 (seibeleto),TINTAS,2013,275998,Americanas e híbridas
+534,Seyve Willard (Tinta),TINTAS,2013,1087889,Americanas e híbridas
+535,Vênus,TINTAS,2013,13925,Americanas e híbridas
+536,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2013,77174438,Americanas e híbridas
+537,Baco,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+538,Bokay,BRANCAS E ROSADAS,2013,57680,Americanas e híbridas
+539,BRS Clara,BRANCAS E ROSADAS,2013,81130,Americanas e híbridas
+540,BRS Lorena,BRANCAS E ROSADAS,2013,7354725,Americanas e híbridas
+541,Couderc 13,BRANCAS E ROSADAS,2013,8564745,Americanas e híbridas
+542,Delaware,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+543,Dona Zillá,BRANCAS E ROSADAS,2013,15330,Americanas e híbridas
+544,Dut Chess,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+545,Goethe,BRANCAS E ROSADAS,2013,469138,Americanas e híbridas
+546,IAC,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+547,Juliana,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+548,Martha,BRANCAS E ROSADAS,2013,5642,Americanas e híbridas
+549,Moscato Embrapa,BRANCAS E ROSADAS,2013,11763335,Americanas e híbridas
+550,Niagara,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+551,Niagara Branca,BRANCAS E ROSADAS,2013,37574776,Americanas e híbridas
+552,Niagara Rosada,BRANCAS E ROSADAS,2013,10312310,Americanas e híbridas
+553,Poloske,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+554,Seleções,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+555,Seyve Villard,BRANCAS E ROSADAS,2013,781787,Americanas e híbridas
+556,Seyve Villard 5276,BRANCAS E ROSADAS,2013,180410,Americanas e híbridas
+557,Seyve Villard 12375,BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+558,Tardia de Caxias,BRANCAS E ROSADAS,2013,13430,Americanas e híbridas
+559,Outras(2),BRANCAS E ROSADAS,2013,0,Americanas e híbridas
+560,TINTAS,TINTAS,2014,471555903,Americanas e híbridas
+561,Bacarina,TINTAS,2014,3900,Americanas e híbridas
+562,Bailey,TINTAS,2014,991449,Americanas e híbridas
+563,Bordo,TINTAS,2014,113008320,Americanas e híbridas
+564,Bourdin (S),TINTAS,2014,0,Americanas e híbridas
+565,BRS Carmen,TINTAS,2014,1553111,Americanas e híbridas
+566,BRS Cora,TINTAS,2014,4721454,Americanas e híbridas
+567,BRS Magna,TINTAS,2014,600,Americanas e híbridas
+568,BRS Margot,TINTAS,2014,3679,Americanas e híbridas
+569,BRS Morena,TINTAS,2014,6500,Americanas e híbridas
+570,BRS Violeta,TINTAS,2014,6489062,Americanas e híbridas
+571,Champagnon (Champanheta),TINTAS,2014,980,Americanas e híbridas
+572,Coleções,TINTAS,2014,47882,Americanas e híbridas
+573,Cynthiana(1),TINTAS,2014,1490695,Americanas e híbridas
+574,Concord,TINTAS,2014,30755828,Americanas e híbridas
+575,Concord clone 30,TINTAS,2014,2923699,Americanas e híbridas
+576,Couderc,TINTAS,2014,30181906,Americanas e híbridas
+577,Herbemont,TINTAS,2014,4045612,Americanas e híbridas
+578,IAC 138022,TINTAS,2014,0,Americanas e híbridas
+579,Isabel,TINTAS,2014,228517859,Americanas e híbridas
+580,Isabel Precoce,TINTAS,2014,12806674,Americanas e híbridas
+581,Jacquez,TINTAS,2014,24345429,Americanas e híbridas
+582,Kyoko,TINTAS,2014,0,Americanas e híbridas
+583,Landot,TINTAS,2014,0,Americanas e híbridas
+584,Oberlin,TINTAS,2014,0,Americanas e híbridas
+585,Othello,TINTAS,2014,0,Americanas e híbridas
+586,Patricia,TINTAS,2014,930,Americanas e híbridas
+587,Rúbea,TINTAS,2014,1731895,Americanas e híbridas
+588,Seibel,TINTAS,2014,6367679,Americanas e híbridas
+589,Seibel 2 (seibeleto),TINTAS,2014,201931,Americanas e híbridas
+590,Seyve Willard (Tinta),TINTAS,2014,1344919,Americanas e híbridas
+591,Vênus,TINTAS,2014,13910,Americanas e híbridas
+592,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2014,68847961,Americanas e híbridas
+593,Baco,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+594,Bokay,BRANCAS E ROSADAS,2014,79390,Americanas e híbridas
+595,BRS Clara,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+596,BRS Lorena,BRANCAS E ROSADAS,2014,9165164,Americanas e híbridas
+597,Couderc 13,BRANCAS E ROSADAS,2014,8990377,Americanas e híbridas
+598,Delaware,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+599,Dona Zillá,BRANCAS E ROSADAS,2014,12325,Americanas e híbridas
+600,Dut Chess,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+601,Goethe,BRANCAS E ROSADAS,2014,346269,Americanas e híbridas
+602,IAC,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+603,Juliana,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+604,Martha,BRANCAS E ROSADAS,2014,3050,Americanas e híbridas
+605,Moscato Embrapa,BRANCAS E ROSADAS,2014,11902554,Americanas e híbridas
+606,Niagara,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+607,Niagara Branca,BRANCAS E ROSADAS,2014,27973518,Americanas e híbridas
+608,Niagara Rosada,BRANCAS E ROSADAS,2014,9552430,Americanas e híbridas
+609,Poloske,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+610,Seleções,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+611,Seyve Villard,BRANCAS E ROSADAS,2014,700473,Americanas e híbridas
+612,Seyve Villard 5276,BRANCAS E ROSADAS,2014,107521,Americanas e híbridas
+613,Seyve Villard 12375,BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+614,Tardia de Caxias,BRANCAS E ROSADAS,2014,14890,Americanas e híbridas
+615,Outras(2),BRANCAS E ROSADAS,2014,0,Americanas e híbridas
+616,TINTAS,TINTAS,2015,537592720,Americanas e híbridas
+617,Bacarina,TINTAS,2015,0,Americanas e híbridas
+618,Bailey,TINTAS,2015,963159,Americanas e híbridas
+619,Bordo,TINTAS,2015,137467196,Americanas e híbridas
+620,Bourdin (S),TINTAS,2015,0,Americanas e híbridas
+621,BRS Carmen,TINTAS,2015,2891792,Americanas e híbridas
+622,BRS Cora,TINTAS,2015,5733518,Americanas e híbridas
+623,BRS Magna,TINTAS,2015,28560,Americanas e híbridas
+624,BRS Margot,TINTAS,2015,15052,Americanas e híbridas
+625,BRS Morena,TINTAS,2015,0,Americanas e híbridas
+626,BRS Violeta,TINTAS,2015,8295873,Americanas e híbridas
+627,Champagnon (Champanheta),TINTAS,2015,0,Americanas e híbridas
+628,Coleções,TINTAS,2015,44847,Americanas e híbridas
+629,Cynthiana(1),TINTAS,2015,1596711,Americanas e híbridas
+630,Concord,TINTAS,2015,39180980,Americanas e híbridas
+631,Concord clone 30,TINTAS,2015,4293636,Americanas e híbridas
+632,Couderc,TINTAS,2015,27693447,Americanas e híbridas
+633,Herbemont,TINTAS,2015,3282683,Americanas e híbridas
+634,IAC 138022,TINTAS,2015,0,Americanas e híbridas
+635,Isabel,TINTAS,2015,256440505,Americanas e híbridas
+636,Isabel Precoce,TINTAS,2015,15254220,Americanas e híbridas
+637,Jacquez,TINTAS,2015,24330422,Americanas e híbridas
+638,Kyoko,TINTAS,2015,0,Americanas e híbridas
+639,Landot,TINTAS,2015,0,Americanas e híbridas
+640,Oberlin,TINTAS,2015,0,Americanas e híbridas
+641,Othello,TINTAS,2015,0,Americanas e híbridas
+642,Patricia,TINTAS,2015,2890,Americanas e híbridas
+643,Rúbea,TINTAS,2015,2034788,Americanas e híbridas
+644,Seibel,TINTAS,2015,6075113,Americanas e híbridas
+645,Seibel 2 (seibeleto),TINTAS,2015,732685,Americanas e híbridas
+646,Seyve Willard (Tinta),TINTAS,2015,1166954,Americanas e híbridas
+647,Vênus,TINTAS,2015,67689,Americanas e híbridas
+648,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2015,95439129,Americanas e híbridas
+649,Baco,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+650,Bokay,BRANCAS E ROSADAS,2015,84430,Americanas e híbridas
+651,BRS Clara,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+652,BRS Lorena,BRANCAS E ROSADAS,2015,9168814,Americanas e híbridas
+653,Couderc 13,BRANCAS E ROSADAS,2015,7605648,Americanas e híbridas
+654,Delaware,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+655,Dona Zillá,BRANCAS E ROSADAS,2015,34170,Americanas e híbridas
+656,Dut Chess,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+657,Goethe,BRANCAS E ROSADAS,2015,481443,Americanas e híbridas
+658,IAC,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+659,Juliana,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+660,Martha,BRANCAS E ROSADAS,2015,12334,Americanas e híbridas
+661,Moscato Embrapa,BRANCAS E ROSADAS,2015,11248259,Americanas e híbridas
+662,Niagara,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+663,Niagara Branca,BRANCAS E ROSADAS,2015,50329681,Americanas e híbridas
+664,Niagara Rosada,BRANCAS E ROSADAS,2015,15706093,Americanas e híbridas
+665,Poloske,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+666,Seleções,BRANCAS E ROSADAS,2015,1500,Americanas e híbridas
+667,Seyve Villard,BRANCAS E ROSADAS,2015,657086,Americanas e híbridas
+668,Seyve Villard 5276,BRANCAS E ROSADAS,2015,91960,Americanas e híbridas
+669,Seyve Villard 12375,BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+670,Tardia de Caxias,BRANCAS E ROSADAS,2015,17711,Americanas e híbridas
+671,Outras(2),BRANCAS E ROSADAS,2015,0,Americanas e híbridas
+672,TINTAS,TINTAS,2016,235356261,Americanas e híbridas
+673,Bacarina,TINTAS,2016,0,Americanas e híbridas
+674,Bailey,TINTAS,2016,442784,Americanas e híbridas
+675,Bordo,TINTAS,2016,60976531,Americanas e híbridas
+676,Bourdin (S),TINTAS,2016,0,Americanas e híbridas
+677,BRS Carmen,TINTAS,2016,2964574,Americanas e híbridas
+678,BRS Cora,TINTAS,2016,5155752,Americanas e híbridas
+679,BRS Magna,TINTAS,2016,275616,Americanas e híbridas
+680,BRS Margot,TINTAS,2016,14835,Americanas e híbridas
+681,BRS Morena,TINTAS,2016,0,Americanas e híbridas
+682,BRS Violeta,TINTAS,2016,5749538,Americanas e híbridas
+683,Champagnon (Champanheta),TINTAS,2016,0,Americanas e híbridas
+684,Coleções,TINTAS,2016,0,Americanas e híbridas
+685,Cynthiana(1),TINTAS,2016,694778,Americanas e híbridas
+686,Concord,TINTAS,2016,15254862,Americanas e híbridas
+687,Concord clone 30,TINTAS,2016,1770853,Americanas e híbridas
+688,Couderc,TINTAS,2016,17522126,Americanas e híbridas
+689,Herbemont,TINTAS,2016,1013198,Americanas e híbridas
+690,IAC 138022,TINTAS,2016,0,Americanas e híbridas
+691,Isabel,TINTAS,2016,98302381,Americanas e híbridas
+692,Isabel Precoce,TINTAS,2016,7167904,Americanas e híbridas
+693,Jacquez,TINTAS,2016,11518368,Americanas e híbridas
+694,Kyoko,TINTAS,2016,0,Americanas e híbridas
+695,Landot,TINTAS,2016,0,Americanas e híbridas
+696,Oberlin,TINTAS,2016,0,Americanas e híbridas
+697,Othello,TINTAS,2016,0,Americanas e híbridas
+698,Patricia,TINTAS,2016,0,Americanas e híbridas
+699,Rúbea,TINTAS,2016,1637818,Americanas e híbridas
+700,Seibel,TINTAS,2016,2933430,Americanas e híbridas
+701,Seibel 2 (seibeleto),TINTAS,2016,1387425,Americanas e híbridas
+702,Seyve Willard (Tinta),TINTAS,2016,571180,Americanas e híbridas
+703,Vênus,TINTAS,2016,2308,Americanas e híbridas
+704,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2016,32747787,Americanas e híbridas
+705,Baco,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+706,Bokay,BRANCAS E ROSADAS,2016,37890,Americanas e híbridas
+707,BRS Clara,BRANCAS E ROSADAS,2016,390,Americanas e híbridas
+708,BRS Lorena,BRANCAS E ROSADAS,2016,4520872,Americanas e híbridas
+709,Couderc 13,BRANCAS E ROSADAS,2016,4286807,Americanas e híbridas
+710,Delaware,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+711,Dona Zillá,BRANCAS E ROSADAS,2016,7890,Americanas e híbridas
+712,Dut Chess,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+713,Goethe,BRANCAS E ROSADAS,2016,179216,Americanas e híbridas
+714,IAC,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+715,Juliana,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+716,Martha,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+717,Moscato Embrapa,BRANCAS E ROSADAS,2016,6173966,Americanas e híbridas
+718,Niagara,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+719,Niagara Branca,BRANCAS E ROSADAS,2016,12925747,Americanas e híbridas
+720,Niagara Rosada,BRANCAS E ROSADAS,2016,4236495,Americanas e híbridas
+721,Poloske,BRANCAS E ROSADAS,2016,2250,Americanas e híbridas
+722,Seleções,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+723,Seyve Villard,BRANCAS E ROSADAS,2016,312824,Americanas e híbridas
+724,Seyve Villard 5276,BRANCAS E ROSADAS,2016,60000,Americanas e híbridas
+725,Seyve Villard 12375,BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+726,Tardia de Caxias,BRANCAS E ROSADAS,2016,3440,Americanas e híbridas
+727,Outras(2),BRANCAS E ROSADAS,2016,0,Americanas e híbridas
+728,TINTAS,TINTAS,2017,600605876,Americanas e híbridas
+729,Bacarina,TINTAS,2017,0,Americanas e híbridas
+730,Bailey,TINTAS,2017,1370092,Americanas e híbridas
+731,Bordo,TINTAS,2017,160146475,Americanas e híbridas
+732,Bourdin (S),TINTAS,2017,0,Americanas e híbridas
+733,BRS Carmen,TINTAS,2017,6771269,Americanas e híbridas
+734,BRS Cora,TINTAS,2017,10085982,Americanas e híbridas
+735,BRS Magna,TINTAS,2017,1605458,Americanas e híbridas
+736,BRS Margot,TINTAS,2017,42600,Americanas e híbridas
+737,BRS Morena,TINTAS,2017,0,Americanas e híbridas
+738,BRS Violeta,TINTAS,2017,14432937,Americanas e híbridas
+739,Champagnon (Champanheta),TINTAS,2017,4640,Americanas e híbridas
+740,Coleções,TINTAS,2017,4324,Americanas e híbridas
+741,Cynthiana(1),TINTAS,2017,2083008,Americanas e híbridas
+742,Concord,TINTAS,2017,36172976,Americanas e híbridas
+743,Concord clone 30,TINTAS,2017,4676208,Americanas e híbridas
+744,Couderc,TINTAS,2017,31791586,Americanas e híbridas
+745,Herbemont,TINTAS,2017,3642399,Americanas e híbridas
+746,IAC 138022,TINTAS,2017,0,Americanas e híbridas
+747,Isabel,TINTAS,2017,262423174,Americanas e híbridas
+748,Isabel Precoce,TINTAS,2017,20028520,Americanas e híbridas
+749,Jacquez,TINTAS,2017,31404577,Americanas e híbridas
+750,Kyoko,TINTAS,2017,0,Americanas e híbridas
+751,Landot,TINTAS,2017,0,Americanas e híbridas
+752,Oberlin,TINTAS,2017,0,Americanas e híbridas
+753,Othello,TINTAS,2017,0,Americanas e híbridas
+754,Patricia,TINTAS,2017,1300,Americanas e híbridas
+755,Rúbea,TINTAS,2017,2529215,Americanas e híbridas
+756,Seibel,TINTAS,2017,7812493,Americanas e híbridas
+757,Seibel 2 (seibeleto),TINTAS,2017,2476079,Americanas e híbridas
+758,Seyve Willard (Tinta),TINTAS,2017,1098564,Americanas e híbridas
+759,Vênus,TINTAS,2017,2000,Americanas e híbridas
+760,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2017,74888637,Americanas e híbridas
+761,Baco,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+762,Bokay,BRANCAS E ROSADAS,2017,105130,Americanas e híbridas
+763,BRS Clara,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+764,BRS Lorena,BRANCAS E ROSADAS,2017,11704478,Americanas e híbridas
+765,Couderc 13,BRANCAS E ROSADAS,2017,7955879,Americanas e híbridas
+766,Delaware,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+767,Dona Zillá,BRANCAS E ROSADAS,2017,19110,Americanas e híbridas
+768,Dut Chess,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+769,Goethe,BRANCAS E ROSADAS,2017,248470,Americanas e híbridas
+770,IAC,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+771,Juliana,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+772,Martha,BRANCAS E ROSADAS,2017,6150,Americanas e híbridas
+773,Moscato Embrapa,BRANCAS E ROSADAS,2017,11771138,Americanas e híbridas
+774,Niagara,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+775,Niagara Branca,BRANCAS E ROSADAS,2017,30802497,Americanas e híbridas
+776,Niagara Rosada,BRANCAS E ROSADAS,2017,11464265,Americanas e híbridas
+777,Poloske,BRANCAS E ROSADAS,2017,12100,Americanas e híbridas
+778,Seleções,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+779,Seyve Villard,BRANCAS E ROSADAS,2017,586955,Americanas e híbridas
+780,Seyve Villard 5276,BRANCAS E ROSADAS,2017,206295,Americanas e híbridas
+781,Seyve Villard 12375,BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+782,Tardia de Caxias,BRANCAS E ROSADAS,2017,6170,Americanas e híbridas
+783,Outras(2),BRANCAS E ROSADAS,2017,0,Americanas e híbridas
+784,TINTAS,TINTAS,2018,519506589,Americanas e híbridas
+785,Bacarina,TINTAS,2018,0,Americanas e híbridas
+786,Bailey,TINTAS,2018,539742,Americanas e híbridas
+787,Bordo,TINTAS,2018,158405972,Americanas e híbridas
+788,Bourdin (S),TINTAS,2018,0,Americanas e híbridas
+789,BRS Carmen,TINTAS,2018,7472984,Americanas e híbridas
+790,BRS Cora,TINTAS,2018,8691122,Americanas e híbridas
+791,BRS Magna,TINTAS,2018,2292084,Americanas e híbridas
+792,BRS Margot,TINTAS,2018,44328,Americanas e híbridas
+793,BRS Morena,TINTAS,2018,0,Americanas e híbridas
+794,BRS Violeta,TINTAS,2018,13645751,Americanas e híbridas
+795,Champagnon (Champanheta),TINTAS,2018,0,Americanas e híbridas
+796,Coleções,TINTAS,2018,1140,Americanas e híbridas
+797,Cynthiana(1),TINTAS,2018,1200824,Americanas e híbridas
+798,Concord,TINTAS,2018,31971535,Americanas e híbridas
+799,Concord clone 30,TINTAS,2018,4809154,Americanas e híbridas
+800,Couderc,TINTAS,2018,25797806,Americanas e híbridas
+801,Herbemont,TINTAS,2018,1325593,Americanas e híbridas
+802,IAC 138022,TINTAS,2018,0,Americanas e híbridas
+803,Isabel,TINTAS,2018,216921065,Americanas e híbridas
+804,Isabel Precoce,TINTAS,2018,17435326,Americanas e híbridas
+805,Jacquez,TINTAS,2018,18221292,Americanas e híbridas
+806,Kyoko,TINTAS,2018,0,Americanas e híbridas
+807,Landot,TINTAS,2018,0,Americanas e híbridas
+808,Oberlin,TINTAS,2018,0,Americanas e híbridas
+809,Othello,TINTAS,2018,0,Americanas e híbridas
+810,Patricia,TINTAS,2018,1401,Americanas e híbridas
+811,Rúbea,TINTAS,2018,2658828,Americanas e híbridas
+812,Seibel,TINTAS,2018,5293981,Americanas e híbridas
+813,Seibel 2 (seibeleto),TINTAS,2018,1967808,Americanas e híbridas
+814,Seyve Willard (Tinta),TINTAS,2018,802673,Americanas e híbridas
+815,Vênus,TINTAS,2018,6180,Americanas e híbridas
+816,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2018,79044471,Americanas e híbridas
+817,Baco,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+818,Bokay,BRANCAS E ROSADAS,2018,80470,Americanas e híbridas
+819,BRS Clara,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+820,BRS Lorena,BRANCAS E ROSADAS,2018,7529654,Americanas e híbridas
+821,Couderc 13,BRANCAS E ROSADAS,2018,5524997,Americanas e híbridas
+822,Delaware,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+823,Dona Zillá,BRANCAS E ROSADAS,2018,15370,Americanas e híbridas
+824,Dut Chess,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+825,Goethe,BRANCAS E ROSADAS,2018,475568,Americanas e híbridas
+826,IAC,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+827,Juliana,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+828,Martha,BRANCAS E ROSADAS,2018,7040,Americanas e híbridas
+829,Moscato Embrapa,BRANCAS E ROSADAS,2018,9535525,Americanas e híbridas
+830,Niagara,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+831,Niagara Branca,BRANCAS E ROSADAS,2018,42948315,Americanas e híbridas
+832,Niagara Rosada,BRANCAS E ROSADAS,2018,12308714,Americanas e híbridas
+833,Poloske,BRANCAS E ROSADAS,2018,11180,Americanas e híbridas
+834,Seleções,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+835,Seyve Villard,BRANCAS E ROSADAS,2018,462683,Americanas e híbridas
+836,Seyve Villard 5276,BRANCAS E ROSADAS,2018,139575,Americanas e híbridas
+837,Seyve Villard 12375,BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+838,Tardia de Caxias,BRANCAS E ROSADAS,2018,5380,Americanas e híbridas
+839,Outras(2),BRANCAS E ROSADAS,2018,0,Americanas e híbridas
+0,TINTAS,TINTAS,2004,49698,Uvas de mesa
+1, Alphonse Lavallee,TINTAS,2004,0,Uvas de mesa
+2, Moscato de Hamburgo,TINTAS,2004,49698,Uvas de mesa
+3,BRANCAS,BRANCAS,2004,73187,Uvas de mesa
+4, Cardinal,BRANCAS,2004,0,Uvas de mesa
+5, Golden Queen,BRANCAS,2004,0,Uvas de mesa
+6, Patrícia,BRANCAS,2004,6172,Uvas de mesa
+7, Perlona,BRANCAS,2004,33155,Uvas de mesa
+8, Italia,BRANCAS,2004,33860,Uvas de mesa
+9," Rubi (Itália, Itália Ro)",BRANCAS,2004,0,Uvas de mesa
+10,TINTAS,TINTAS,2005,49820,Uvas de mesa
+11, Alphonse Lavallee,TINTAS,2005,1500,Uvas de mesa
+12, Moscato de Hamburgo,TINTAS,2005,48320,Uvas de mesa
+13,BRANCAS,BRANCAS,2005,39470,Uvas de mesa
+14, Cardinal,BRANCAS,2005,1620,Uvas de mesa
+15, Golden Queen,BRANCAS,2005,0,Uvas de mesa
+16, Patrícia,BRANCAS,2005,0,Uvas de mesa
+17, Perlona,BRANCAS,2005,32105,Uvas de mesa
+18, Italia,BRANCAS,2005,1630,Uvas de mesa
+19," Rubi (Itália, Itália Ro)",BRANCAS,2005,4115,Uvas de mesa
+20,TINTAS,TINTAS,2006,36105,Uvas de mesa
+21, Alphonse Lavallee,TINTAS,2006,0,Uvas de mesa
+22, Moscato de Hamburgo,TINTAS,2006,36105,Uvas de mesa
+23,BRANCAS,BRANCAS,2006,17889,Uvas de mesa
+24, Cardinal,BRANCAS,2006,0,Uvas de mesa
+25, Golden Queen,BRANCAS,2006,0,Uvas de mesa
+26, Patrícia,BRANCAS,2006,0,Uvas de mesa
+27, Perlona,BRANCAS,2006,14569,Uvas de mesa
+28, Italia,BRANCAS,2006,3320,Uvas de mesa
+29," Rubi (Itália, Itália Ro)",BRANCAS,2006,0,Uvas de mesa
+30,TINTAS,TINTAS,2007,66970,Uvas de mesa
+31, Alphonse Lavallee,TINTAS,2007,0,Uvas de mesa
+32, Moscato de Hamburgo,TINTAS,2007,66970,Uvas de mesa
+33,BRANCAS,BRANCAS,2007,36619,Uvas de mesa
+34, Cardinal,BRANCAS,2007,0,Uvas de mesa
+35, Golden Queen,BRANCAS,2007,0,Uvas de mesa
+36, Patrícia,BRANCAS,2007,0,Uvas de mesa
+37, Perlona,BRANCAS,2007,25899,Uvas de mesa
+38, Italia,BRANCAS,2007,5130,Uvas de mesa
+39," Rubi (Itália, Itália Ro)",BRANCAS,2007,5590,Uvas de mesa
+40,TINTAS,TINTAS,2008,101101,Uvas de mesa
+41, Alphonse Lavallee,TINTAS,2008,0,Uvas de mesa
+42, Moscato de Hamburgo,TINTAS,2008,101101,Uvas de mesa
+43,BRANCAS,BRANCAS,2008,55297,Uvas de mesa
+44, Cardinal,BRANCAS,2008,4610,Uvas de mesa
+45, Golden Queen,BRANCAS,2008,0,Uvas de mesa
+46, Patrícia,BRANCAS,2008,0,Uvas de mesa
+47, Perlona,BRANCAS,2008,37376,Uvas de mesa
+48, Italia,BRANCAS,2008,2300,Uvas de mesa
+49," Rubi (Itália, Itália Ro)",BRANCAS,2008,11011,Uvas de mesa
+50,TINTAS,TINTAS,2009,84397,Uvas de mesa
+51, Alphonse Lavallee,TINTAS,2009,0,Uvas de mesa
+52, Moscato de Hamburgo,TINTAS,2009,84397,Uvas de mesa
+53,BRANCAS,BRANCAS,2009,14440,Uvas de mesa
+54, Cardinal,BRANCAS,2009,0,Uvas de mesa
+55, Golden Queen,BRANCAS,2009,0,Uvas de mesa
+56, Patrícia,BRANCAS,2009,0,Uvas de mesa
+57, Perlona,BRANCAS,2009,11335,Uvas de mesa
+58, Italia,BRANCAS,2009,0,Uvas de mesa
+59," Rubi (Itália, Itália Ro)",BRANCAS,2009,3105,Uvas de mesa
+60,TINTAS,TINTAS,2010,31771,Uvas de mesa
+61, Alphonse Lavallee,TINTAS,2010,0,Uvas de mesa
+62, Moscato de Hamburgo,TINTAS,2010,31771,Uvas de mesa
+63,BRANCAS,BRANCAS,2010,11575,Uvas de mesa
+64, Cardinal,BRANCAS,2010,0,Uvas de mesa
+65, Golden Queen,BRANCAS,2010,0,Uvas de mesa
+66, Patrícia,BRANCAS,2010,0,Uvas de mesa
+67, Perlona,BRANCAS,2010,10375,Uvas de mesa
+68, Italia,BRANCAS,2010,0,Uvas de mesa
+69," Rubi (Itália, Itália Ro)",BRANCAS,2010,1200,Uvas de mesa
+70,TINTAS,TINTAS,2011,89305,Uvas de mesa
+71, Alphonse Lavallee,TINTAS,2011,0,Uvas de mesa
+72, Moscato de Hamburgo,TINTAS,2011,89305,Uvas de mesa
+73,BRANCAS,BRANCAS,2011,19458,Uvas de mesa
+74, Cardinal,BRANCAS,2011,0,Uvas de mesa
+75, Golden Queen,BRANCAS,2011,0,Uvas de mesa
+76, Patrícia,BRANCAS,2011,0,Uvas de mesa
+77, Perlona,BRANCAS,2011,5575,Uvas de mesa
+78, Italia,BRANCAS,2011,0,Uvas de mesa
+79," Rubi (Itália, Itália Ro)",BRANCAS,2011,13883,Uvas de mesa
+80,TINTAS,TINTAS,2012,145132,Uvas de mesa
+81, Alphonse Lavallee,TINTAS,2012,0,Uvas de mesa
+82, Moscato de Hamburgo,TINTAS,2012,145132,Uvas de mesa
+83,BRANCAS,BRANCAS,2012,62564,Uvas de mesa
+84, Cardinal,BRANCAS,2012,0,Uvas de mesa
+85, Golden Queen,BRANCAS,2012,0,Uvas de mesa
+86, Patrícia,BRANCAS,2012,0,Uvas de mesa
+87, Perlona,BRANCAS,2012,9695,Uvas de mesa
+88, Italia,BRANCAS,2012,0,Uvas de mesa
+89," Rubi (Itália, Itália Ro)",BRANCAS,2012,52869,Uvas de mesa
+90,TINTAS,TINTAS,2013,75362,Uvas de mesa
+91, Alphonse Lavallee,TINTAS,2013,0,Uvas de mesa
+92, Moscato de Hamburgo,TINTAS,2013,75362,Uvas de mesa
+93,BRANCAS,BRANCAS,2013,4412,Uvas de mesa
+94, Cardinal,BRANCAS,2013,0,Uvas de mesa
+95, Golden Queen,BRANCAS,2013,0,Uvas de mesa
+96, Patrícia,BRANCAS,2013,0,Uvas de mesa
+97, Perlona,BRANCAS,2013,3378,Uvas de mesa
+98, Italia,BRANCAS,2013,0,Uvas de mesa
+99," Rubi (Itália, Itália Ro)",BRANCAS,2013,1034,Uvas de mesa
+100,TINTAS,TINTAS,2014,65850,Uvas de mesa
+101, Alphonse Lavallee,TINTAS,2014,0,Uvas de mesa
+102, Moscato de Hamburgo,TINTAS,2014,65850,Uvas de mesa
+103,BRANCAS,BRANCAS,2014,30600,Uvas de mesa
+104, Cardinal,BRANCAS,2014,0,Uvas de mesa
+105, Golden Queen,BRANCAS,2014,0,Uvas de mesa
+106, Patrícia,BRANCAS,2014,0,Uvas de mesa
+107, Perlona,BRANCAS,2014,850,Uvas de mesa
+108, Italia,BRANCAS,2014,0,Uvas de mesa
+109," Rubi (Itália, Itália Ro)",BRANCAS,2014,29750,Uvas de mesa
+110,TINTAS,TINTAS,2015,108797,Uvas de mesa
+111, Alphonse Lavallee,TINTAS,2015,0,Uvas de mesa
+112, Moscato de Hamburgo,TINTAS,2015,108797,Uvas de mesa
+113,BRANCAS,BRANCAS,2015,64540,Uvas de mesa
+114, Cardinal,BRANCAS,2015,0,Uvas de mesa
+115, Golden Queen,BRANCAS,2015,0,Uvas de mesa
+116, Patrícia,BRANCAS,2015,0,Uvas de mesa
+117, Perlona,BRANCAS,2015,3280,Uvas de mesa
+118, Italia,BRANCAS,2015,0,Uvas de mesa
+119," Rubi (Itália, Itália Ro)",BRANCAS,2015,61260,Uvas de mesa
+120,TINTAS,TINTAS,2016,51310,Uvas de mesa
+121, Alphonse Lavallee,TINTAS,2016,0,Uvas de mesa
+122, Moscato de Hamburgo,TINTAS,2016,51310,Uvas de mesa
+123,BRANCAS,BRANCAS,2016,3260,Uvas de mesa
+124, Cardinal,BRANCAS,2016,0,Uvas de mesa
+125, Golden Queen,BRANCAS,2016,0,Uvas de mesa
+126, Patrícia,BRANCAS,2016,0,Uvas de mesa
+127, Perlona,BRANCAS,2016,290,Uvas de mesa
+128, Italia,BRANCAS,2016,0,Uvas de mesa
+129," Rubi (Itália, Itália Ro)",BRANCAS,2016,2970,Uvas de mesa
+130,TINTAS,TINTAS,2017,85510,Uvas de mesa
+131, Alphonse Lavallee,TINTAS,2017,0,Uvas de mesa
+132, Moscato de Hamburgo,TINTAS,2017,85510,Uvas de mesa
+133,BRANCAS,BRANCAS,2017,5900,Uvas de mesa
+134, Cardinal,BRANCAS,2017,0,Uvas de mesa
+135, Golden Queen,BRANCAS,2017,0,Uvas de mesa
+136, Patrícia,BRANCAS,2017,0,Uvas de mesa
+137, Perlona,BRANCAS,2017,180,Uvas de mesa
+138, Italia,BRANCAS,2017,0,Uvas de mesa
+139," Rubi (Itália, Itália Ro)",BRANCAS,2017,5720,Uvas de mesa
+140,TINTAS,TINTAS,2018,62567,Uvas de mesa
+141, Alphonse Lavallee,TINTAS,2018,0,Uvas de mesa
+142, Moscato de Hamburgo,TINTAS,2018,62567,Uvas de mesa
+143,BRANCAS,BRANCAS,2018,730,Uvas de mesa
+144, Cardinal,BRANCAS,2018,0,Uvas de mesa
+145, Golden Queen,BRANCAS,2018,0,Uvas de mesa
+146, Patrícia,BRANCAS,2018,0,Uvas de mesa
+147, Perlona,BRANCAS,2018,730,Uvas de mesa
+148, Italia,BRANCAS,2018,0,Uvas de mesa
+149," Rubi (Itália, Itália Ro)",BRANCAS,2018,0,Uvas de mesa
+0,TINTAS,TINTAS,2004,35135485,Viníferas
+1,Alicante Bouschet,TINTAS,2004,626500,Viníferas
+2,Ancelota,TINTAS,2004,604797,Viníferas
+3,Aramon,TINTAS,2004,0,Viníferas
+4,Alfrocheiro,TINTAS,2004,13986,Viníferas
+5,Arinarnoa,TINTAS,2004,0,Viníferas
+6,Aspirant Bouschet,TINTAS,2004,0,Viníferas
+7,Barbera,TINTAS,2004,104139,Viníferas
+8,Bonarda,TINTAS,2004,24322,Viníferas
+9,Cabernet Franc,TINTAS,2004,3855570,Viníferas
+10,Cabernet Sauvignon,TINTAS,2004,10980458,Viníferas
+11, Caladoc,TINTAS,2004,0,Viníferas
+12,Campanario,TINTAS,2004,0,Viníferas
+13,Canaiolo,TINTAS,2004,2299,Viníferas
+14,Carignan,TINTAS,2004,0,Viníferas
+15,Carmenere,TINTAS,2004,265819,Viníferas
+16,Castelão,TINTAS,2004,468,Viníferas
+17,Corvina,TINTAS,2004,0,Viníferas
+18,Croatina,TINTAS,2004,800,Viníferas
+19,Cinsaut,TINTAS,2004,0,Viníferas
+20,Dom Felder,TINTAS,2004,0,Viníferas
+21,Dolcetto,TINTAS,2004,4496,Viníferas
+22,Durif,TINTAS,2004,0,Viníferas
+23,Freisa,TINTAS,2004,0,Viníferas
+24,Egiodola,TINTAS,2004,859275,Viníferas
+25,Ekigaina,TINTAS,2004,0,Viníferas
+26,Festival (Sugraone),TINTAS,2004,0,Viníferas
+27,Franconia,TINTAS,2004,0,Viníferas
+28,Freisa,TINTAS,2004,0,Viníferas
+29,Gamay St Romain,TINTAS,2004,32533,Viníferas
+30,Gamay Beaujolais,TINTAS,2004,508063,Viníferas
+31,Grand Noir,TINTAS,2004,0,Viníferas
+32,Grenache,TINTAS,2004,0,Viníferas
+33,Jaen,TINTAS,2004,576,Viníferas
+34,Lagrein,TINTAS,2004,0,Viníferas
+35,Lambrusco,TINTAS,2004,113831,Viníferas
+36,Malbec,TINTAS,2004,98686,Viníferas
+37,Marzemina,TINTAS,2004,8303,Viníferas
+38,Merlot,TINTAS,2004,9886980,Viníferas
+39,Marselan,TINTAS,2004,0,Viníferas
+40,Molinera,TINTAS,2004,0,Viníferas
+41,Montepulciano,TINTAS,2004,20721,Viníferas
+42,Moscato Bailey,TINTAS,2004,0,Viníferas
+43,Napa Gamay,TINTAS,2004,265240,Viníferas
+44,Nebbiolo,TINTAS,2004,4664,Viníferas
+45,Petit Verdot,TINTAS,2004,14994,Viníferas
+46,Petite Sirah,TINTAS,2004,64909,Viníferas
+47,Pinotage,TINTAS,2004,1471881,Viníferas
+48,Pinot Noir,TINTAS,2004,1054529,Viníferas
+49,Pinot Saint George,TINTAS,2004,114110,Viníferas
+50,Piriquita,TINTAS,2004,0,Viníferas
+51,Rebo,TINTAS,2004,0,Viníferas
+52,Refosco,TINTAS,2004,37155,Viníferas
+53,Rondinella,TINTAS,2004,0,Viníferas
+54,Ruby Cabernet,TINTAS,2004,595080,Viníferas
+55,Sangiovese,TINTAS,2004,127049,Viníferas
+56,Sira (falsa),TINTAS,2004,4792,Viníferas
+57,Tannat,TINTAS,2004,3263479,Viníferas
+58,Tempranillo,TINTAS,2004,59028,Viníferas
+59,Teroldego,TINTAS,2004,7193,Viníferas
+60,Torrontes,TINTAS,2004,0,Viníferas
+61,Tinta Barroca,TINTAS,2004,0,Viníferas
+62,Touriga Francesa,TINTAS,2004,6775,Viníferas
+63,Touriga Nacional,TINTAS,2004,26448,Viníferas
+64,Tinta Madeira,TINTAS,2004,0,Viníferas
+65,Tintoria,TINTAS,2004,0,Viníferas
+66,Trincdeira,TINTAS,2004,3996,Viníferas
+67,Trousseau,TINTAS,2004,0,Viníferas
+68,Zinfandel,TINTAS,2004,1541,Viníferas
+69,Outras1,TINTAS,2004,0,Viníferas
+70,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2004,27340450,Viníferas
+71,Aliatico,BRANCAS E ROSADAS,2004,0,Viníferas
+72,Aligote,BRANCAS E ROSADAS,2004,0,Viníferas
+73,Altesse,BRANCAS E ROSADAS,2004,0,Viníferas
+74,Alvarinho,BRANCAS E ROSADAS,2004,476,Viníferas
+75,Arriloba,BRANCAS E ROSADAS,2004,49339,Viníferas
+76,Auxerrois,BRANCAS E ROSADAS,2004,0,Viníferas
+77,Burger,BRANCAS E ROSADAS,2004,0,Viníferas
+78,Chardonnay,BRANCAS E ROSADAS,2004,1745396,Viníferas
+79,Chasselas,BRANCAS E ROSADAS,2004,84254,Viníferas
+80,Chenin Blanc,BRANCAS E ROSADAS,2004,386277,Viníferas
+81,Clairette(1),BRANCAS E ROSADAS,2004,0,Viníferas
+82,Colombard,BRANCAS E ROSADAS,2004,451264,Viníferas
+83,Flora,BRANCAS E ROSADAS,2004,259473,Viníferas
+84,Garganega,BRANCAS E ROSADAS,2004,53010,Viníferas
+85,Gewurztraminer,BRANCAS E ROSADAS,2004,253539,Viníferas
+86,Gouveio,BRANCAS E ROSADAS,2004,596,Viníferas
+87,Gros Manseng,BRANCAS E ROSADAS,2004,1744,Viníferas
+88,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2004,0,Viníferas
+89,Maccabeo,BRANCAS E ROSADAS,2004,0,Viníferas
+90,Malvasia,BRANCAS E ROSADAS,2004,0,Viníferas
+91,Malvasia Amarela,BRANCAS E ROSADAS,2004,169923,Viníferas
+92,Malvasia Bianca,BRANCAS E ROSADAS,2004,350631,Viníferas
+93,Malvasia Chianti,BRANCAS E ROSADAS,2004,18411,Viníferas
+94,Malvasia Verde,BRANCAS E ROSADAS,2004,285416,Viníferas
+95,Malvasia di Candia,BRANCAS E ROSADAS,2004,146558,Viníferas
+96,Malvasia Istriana,BRANCAS E ROSADAS,2004,0,Viníferas
+97,Moscato,BRANCAS E ROSADAS,2004,13066588,Viníferas
+98,Moscato Canelli,BRANCAS E ROSADAS,2004,13112,Viníferas
+99,Moscato Giallo,BRANCAS E ROSADAS,2004,691230,Viníferas
+100,Moscato Nazareno,BRANCAS E ROSADAS,2004,948435,Viníferas
+101,Moscato Bianco R2,BRANCAS E ROSADAS,2004,287021,Viníferas
+102,Moscato de Alexandria,BRANCAS E ROSADAS,2004,20550,Viníferas
+103,Moscato Rosado,BRANCAS E ROSADAS,2004,0,Viníferas
+104,Muscat à Petits Grains,BRANCAS E ROSADAS,2004,0,Viníferas
+105,Muller Thurgau,BRANCAS E ROSADAS,2004,3000,Viníferas
+106,Muscadelle,BRANCAS E ROSADAS,2004,0,Viníferas
+107,Ora,BRANCAS E ROSADAS,2004,0,Viníferas
+108,Palomino,BRANCAS E ROSADAS,2004,4530,Viníferas
+109,Petit Manseng,BRANCAS E ROSADAS,2004,0,Viníferas
+110,Peverella,BRANCAS E ROSADAS,2004,189972,Viníferas
+111,Pinot Blanc,BRANCAS E ROSADAS,2004,77942,Viníferas
+112,Pinot Gris,BRANCAS E ROSADAS,2004,2904,Viníferas
+113,Prosecco,BRANCAS E ROSADAS,2004,395644,Viníferas
+114,Red Veltliner,BRANCAS E ROSADAS,2004,0,Viníferas
+115,Riesling Italico,BRANCAS E ROSADAS,2004,2964308,Viníferas
+116,Riesling Renano,BRANCAS E ROSADAS,2004,282012,Viníferas
+117,Sauvignon Blanc(2),BRANCAS E ROSADAS,2004,690146,Viníferas
+118,Sauvignon Gris,BRANCAS E ROSADAS,2004,0,Viníferas
+119,Seara Nova,BRANCAS E ROSADAS,2004,6597,Viníferas
+120,Semillon,BRANCAS E ROSADAS,2004,1284398,Viníferas
+121,Schonburger,BRANCAS E ROSADAS,2004,0,Viníferas
+122,Sylvaner,BRANCAS E ROSADAS,2004,11273,Viníferas
+123,Tocai Friulano,BRANCAS E ROSADAS,2004,0,Viníferas
+124,Trebbiano,BRANCAS E ROSADAS,2004,2043524,Viníferas
+125,Trebbiano Toscano,BRANCAS E ROSADAS,2004,0,Viníferas
+126,Verdea,BRANCAS E ROSADAS,2004,60,Viníferas
+127,Verdelho,BRANCAS E ROSADAS,2004,0,Viníferas
+128,Verdiso,BRANCAS E ROSADAS,2004,0,Viníferas
+129,Vermentino,BRANCAS E ROSADAS,2004,6090,Viníferas
+130,Vernaccia,BRANCAS E ROSADAS,2004,94237,Viníferas
+131,Viognier,BRANCAS E ROSADAS,2004,570,Viníferas
+132,Outras(3),BRANCAS E ROSADAS,2004,0,Viníferas
+133,TINTAS,TINTAS,2005,41398115,Viníferas
+134,Alicante Bouschet,TINTAS,2005,1076865,Viníferas
+135,Ancelota,TINTAS,2005,861431,Viníferas
+136,Aramon,TINTAS,2005,0,Viníferas
+137,Alfrocheiro,TINTAS,2005,19473,Viníferas
+138,Arinarnoa,TINTAS,2005,7394,Viníferas
+139,Aspirant Bouschet,TINTAS,2005,0,Viníferas
+140,Barbera,TINTAS,2005,92672,Viníferas
+141,Bonarda,TINTAS,2005,21021,Viníferas
+142,Cabernet Franc,TINTAS,2005,3869854,Viníferas
+143,Cabernet Sauvignon,TINTAS,2005,12821241,Viníferas
+144, Caladoc,TINTAS,2005,0,Viníferas
+145,Campanario,TINTAS,2005,0,Viníferas
+146,Canaiolo,TINTAS,2005,0,Viníferas
+147,Carignan,TINTAS,2005,0,Viníferas
+148,Carmenere,TINTAS,2005,386202,Viníferas
+149,Castelão,TINTAS,2005,494,Viníferas
+150,Corvina,TINTAS,2005,0,Viníferas
+151,Croatina,TINTAS,2005,760,Viníferas
+152,Cinsaut,TINTAS,2005,0,Viníferas
+153,Dom Felder,TINTAS,2005,0,Viníferas
+154,Dolcetto,TINTAS,2005,5634,Viníferas
+155,Durif,TINTAS,2005,0,Viníferas
+156,Freisa,TINTAS,2005,0,Viníferas
+157,Egiodola,TINTAS,2005,1070153,Viníferas
+158,Ekigaina,TINTAS,2005,0,Viníferas
+159,Festival (Sugraone),TINTAS,2005,0,Viníferas
+160,Franconia,TINTAS,2005,0,Viníferas
+161,Freisa,TINTAS,2005,0,Viníferas
+162,Gamay St Romain,TINTAS,2005,64571,Viníferas
+163,Gamay Beaujolais,TINTAS,2005,339559,Viníferas
+164,Grand Noir,TINTAS,2005,0,Viníferas
+165,Grenache,TINTAS,2005,0,Viníferas
+166,Jaen,TINTAS,2005,2824,Viníferas
+167,Lagrein,TINTAS,2005,0,Viníferas
+168,Lambrusco,TINTAS,2005,96040,Viníferas
+169,Malbec,TINTAS,2005,133965,Viníferas
+170,Marzemina,TINTAS,2005,16200,Viníferas
+171,Merlot,TINTAS,2005,10632174,Viníferas
+172,Marselan,TINTAS,2005,28868,Viníferas
+173,Molinera,TINTAS,2005,0,Viníferas
+174,Montepulciano,TINTAS,2005,21150,Viníferas
+175,Moscato Bailey,TINTAS,2005,0,Viníferas
+176,Napa Gamay,TINTAS,2005,225660,Viníferas
+177,Nebbiolo,TINTAS,2005,6671,Viníferas
+178,Petit Verdot,TINTAS,2005,41706,Viníferas
+179,Petite Sirah,TINTAS,2005,137568,Viníferas
+180,Pinotage,TINTAS,2005,1994817,Viníferas
+181,Pinot Noir,TINTAS,2005,1704403,Viníferas
+182,Pinot Saint George,TINTAS,2005,176810,Viníferas
+183,Piriquita,TINTAS,2005,0,Viníferas
+184,Rebo,TINTAS,2005,0,Viníferas
+185,Refosco,TINTAS,2005,42207,Viníferas
+186,Rondinella,TINTAS,2005,0,Viníferas
+187,Ruby Cabernet,TINTAS,2005,546629,Viníferas
+188,Sangiovese,TINTAS,2005,190769,Viníferas
+189,Sira (falsa),TINTAS,2005,0,Viníferas
+190,Tannat,TINTAS,2005,4561255,Viníferas
+191,Tempranillo,TINTAS,2005,96125,Viníferas
+192,Teroldego,TINTAS,2005,41912,Viníferas
+193,Torrontes,TINTAS,2005,0,Viníferas
+194,Tinta Barroca,TINTAS,2005,0,Viníferas
+195,Touriga Francesa,TINTAS,2005,4680,Viníferas
+196,Touriga Nacional,TINTAS,2005,52099,Viníferas
+197,Tinta Madeira,TINTAS,2005,0,Viníferas
+198,Tintoria,TINTAS,2005,0,Viníferas
+199,Trincdeira,TINTAS,2005,5780,Viníferas
+200,Trousseau,TINTAS,2005,0,Viníferas
+201,Zinfandel,TINTAS,2005,479,Viníferas
+202,Outras1,TINTAS,2005,0,Viníferas
+203,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2005,29066571,Viníferas
+204,Aliatico,BRANCAS E ROSADAS,2005,0,Viníferas
+205,Aligote,BRANCAS E ROSADAS,2005,0,Viníferas
+206,Altesse,BRANCAS E ROSADAS,2005,0,Viníferas
+207,Alvarinho,BRANCAS E ROSADAS,2005,1596,Viníferas
+208,Arriloba,BRANCAS E ROSADAS,2005,45825,Viníferas
+209,Auxerrois,BRANCAS E ROSADAS,2005,0,Viníferas
+210,Burger,BRANCAS E ROSADAS,2005,0,Viníferas
+211,Chardonnay,BRANCAS E ROSADAS,2005,4441390,Viníferas
+212,Chasselas,BRANCAS E ROSADAS,2005,103057,Viníferas
+213,Chenin Blanc,BRANCAS E ROSADAS,2005,519802,Viníferas
+214,Clairette(1),BRANCAS E ROSADAS,2005,0,Viníferas
+215,Colombard,BRANCAS E ROSADAS,2005,654642,Viníferas
+216,Flora,BRANCAS E ROSADAS,2005,339979,Viníferas
+217,Garganega,BRANCAS E ROSADAS,2005,45800,Viníferas
+218,Gewurztraminer,BRANCAS E ROSADAS,2005,315932,Viníferas
+219,Gouveio,BRANCAS E ROSADAS,2005,1452,Viníferas
+220,Gros Manseng,BRANCAS E ROSADAS,2005,4360,Viníferas
+221,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2005,0,Viníferas
+222,Maccabeo,BRANCAS E ROSADAS,2005,0,Viníferas
+223,Malvasia,BRANCAS E ROSADAS,2005,0,Viníferas
+224,Malvasia Amarela,BRANCAS E ROSADAS,2005,184579,Viníferas
+225,Malvasia Bianca,BRANCAS E ROSADAS,2005,359199,Viníferas
+226,Malvasia Chianti,BRANCAS E ROSADAS,2005,24030,Viníferas
+227,Malvasia Verde,BRANCAS E ROSADAS,2005,145111,Viníferas
+228,Malvasia di Candia,BRANCAS E ROSADAS,2005,160845,Viníferas
+229,Malvasia Istriana,BRANCAS E ROSADAS,2005,300,Viníferas
+230,Moscato,BRANCAS E ROSADAS,2005,10145908,Viníferas
+231,Moscato Canelli,BRANCAS E ROSADAS,2005,461612,Viníferas
+232,Moscato Giallo,BRANCAS E ROSADAS,2005,703485,Viníferas
+233,Moscato Nazareno,BRANCAS E ROSADAS,2005,921620,Viníferas
+234,Moscato Bianco R2,BRANCAS E ROSADAS,2005,443153,Viníferas
+235,Moscato de Alexandria,BRANCAS E ROSADAS,2005,45277,Viníferas
+236,Moscato Rosado,BRANCAS E ROSADAS,2005,0,Viníferas
+237,Muscat à Petits Grains,BRANCAS E ROSADAS,2005,0,Viníferas
+238,Muller Thurgau,BRANCAS E ROSADAS,2005,0,Viníferas
+239,Muscadelle,BRANCAS E ROSADAS,2005,0,Viníferas
+240,Ora,BRANCAS E ROSADAS,2005,0,Viníferas
+241,Palomino,BRANCAS E ROSADAS,2005,4184,Viníferas
+242,Petit Manseng,BRANCAS E ROSADAS,2005,0,Viníferas
+243,Peverella,BRANCAS E ROSADAS,2005,192474,Viníferas
+244,Pinot Blanc,BRANCAS E ROSADAS,2005,60704,Viníferas
+245,Pinot Gris,BRANCAS E ROSADAS,2005,23206,Viníferas
+246,Prosecco,BRANCAS E ROSADAS,2005,789457,Viníferas
+247,Red Veltliner,BRANCAS E ROSADAS,2005,0,Viníferas
+248,Riesling Italico,BRANCAS E ROSADAS,2005,3496056,Viníferas
+249,Riesling Renano,BRANCAS E ROSADAS,2005,252740,Viníferas
+250,Sauvignon Blanc(2),BRANCAS E ROSADAS,2005,738053,Viníferas
+251,Sauvignon Gris,BRANCAS E ROSADAS,2005,0,Viníferas
+252,Seara Nova,BRANCAS E ROSADAS,2005,3900,Viníferas
+253,Semillon,BRANCAS E ROSADAS,2005,1375957,Viníferas
+254,Schonburger,BRANCAS E ROSADAS,2005,2155,Viníferas
+255,Sylvaner,BRANCAS E ROSADAS,2005,12927,Viníferas
+256,Tocai Friulano,BRANCAS E ROSADAS,2005,0,Viníferas
+257,Trebbiano,BRANCAS E ROSADAS,2005,1974463,Viníferas
+258,Trebbiano Toscano,BRANCAS E ROSADAS,2005,0,Viníferas
+259,Verdea,BRANCAS E ROSADAS,2005,4620,Viníferas
+260,Verdelho,BRANCAS E ROSADAS,2005,0,Viníferas
+261,Verdiso,BRANCAS E ROSADAS,2005,0,Viníferas
+262,Vermentino,BRANCAS E ROSADAS,2005,6340,Viníferas
+263,Vernaccia,BRANCAS E ROSADAS,2005,57162,Viníferas
+264,Viognier,BRANCAS E ROSADAS,2005,3219,Viníferas
+265,Outras(3),BRANCAS E ROSADAS,2005,0,Viníferas
+266,TINTAS,TINTAS,2006,34162995,Viníferas
+267,Alicante Bouschet,TINTAS,2006,1078887,Viníferas
+268,Ancelota,TINTAS,2006,872741,Viníferas
+269,Aramon,TINTAS,2006,0,Viníferas
+270,Alfrocheiro,TINTAS,2006,43396,Viníferas
+271,Arinarnoa,TINTAS,2006,11480,Viníferas
+272,Aspirant Bouschet,TINTAS,2006,0,Viníferas
+273,Barbera,TINTAS,2006,57116,Viníferas
+274,Bonarda,TINTAS,2006,3843,Viníferas
+275,Cabernet Franc,TINTAS,2006,3285083,Viníferas
+276,Cabernet Sauvignon,TINTAS,2006,12063009,Viníferas
+277, Caladoc,TINTAS,2006,240,Viníferas
+278,Campanario,TINTAS,2006,0,Viníferas
+279,Canaiolo,TINTAS,2006,0,Viníferas
+280,Carignan,TINTAS,2006,0,Viníferas
+281,Carmenere,TINTAS,2006,234940,Viníferas
+282,Castelão,TINTAS,2006,494,Viníferas
+283,Corvina,TINTAS,2006,0,Viníferas
+284,Croatina,TINTAS,2006,3012,Viníferas
+285,Cinsaut,TINTAS,2006,0,Viníferas
+286,Dom Felder,TINTAS,2006,0,Viníferas
+287,Dolcetto,TINTAS,2006,0,Viníferas
+288,Durif,TINTAS,2006,0,Viníferas
+289,Freisa,TINTAS,2006,0,Viníferas
+290,Egiodola,TINTAS,2006,899584,Viníferas
+291,Ekigaina,TINTAS,2006,0,Viníferas
+292,Festival (Sugraone),TINTAS,2006,0,Viníferas
+293,Franconia,TINTAS,2006,0,Viníferas
+294,Freisa,TINTAS,2006,0,Viníferas
+295,Gamay St Romain,TINTAS,2006,22755,Viníferas
+296,Gamay Beaujolais,TINTAS,2006,249021,Viníferas
+297,Grand Noir,TINTAS,2006,0,Viníferas
+298,Grenache,TINTAS,2006,0,Viníferas
+299,Jaen,TINTAS,2006,4290,Viníferas
+300,Lagrein,TINTAS,2006,0,Viníferas
+301,Lambrusco,TINTAS,2006,75631,Viníferas
+302,Malbec,TINTAS,2006,148733,Viníferas
+303,Marzemina,TINTAS,2006,9185,Viníferas
+304,Merlot,TINTAS,2006,8449561,Viníferas
+305,Marselan,TINTAS,2006,66815,Viníferas
+306,Molinera,TINTAS,2006,0,Viníferas
+307,Montepulciano,TINTAS,2006,24390,Viníferas
+308,Moscato Bailey,TINTAS,2006,0,Viníferas
+309,Napa Gamay,TINTAS,2006,114690,Viníferas
+310,Nebbiolo,TINTAS,2006,11082,Viníferas
+311,Petit Verdot,TINTAS,2006,45425,Viníferas
+312,Petite Sirah,TINTAS,2006,87550,Viníferas
+313,Pinotage,TINTAS,2006,996781,Viníferas
+314,Pinot Noir,TINTAS,2006,1161465,Viníferas
+315,Pinot Saint George,TINTAS,2006,48830,Viníferas
+316,Piriquita,TINTAS,2006,12845,Viníferas
+317,Rebo,TINTAS,2006,550,Viníferas
+318,Refosco,TINTAS,2006,26537,Viníferas
+319,Rondinella,TINTAS,2006,0,Viníferas
+320,Ruby Cabernet,TINTAS,2006,654931,Viníferas
+321,Sangiovese,TINTAS,2006,133402,Viníferas
+322,Sira (falsa),TINTAS,2006,0,Viníferas
+323,Tannat,TINTAS,2006,3055931,Viníferas
+324,Tempranillo,TINTAS,2006,111158,Viníferas
+325,Teroldego,TINTAS,2006,51645,Viníferas
+326,Torrontes,TINTAS,2006,0,Viníferas
+327,Tinta Barroca,TINTAS,2006,0,Viníferas
+328,Touriga Francesa,TINTAS,2006,0,Viníferas
+329,Touriga Nacional,TINTAS,2006,42376,Viníferas
+330,Tinta Madeira,TINTAS,2006,0,Viníferas
+331,Tintoria,TINTAS,2006,0,Viníferas
+332,Trincdeira,TINTAS,2006,3591,Viníferas
+333,Trousseau,TINTAS,2006,0,Viníferas
+334,Zinfandel,TINTAS,2006,0,Viníferas
+335,Outras1,TINTAS,2006,0,Viníferas
+336,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2006,22335925,Viníferas
+337,Aliatico,BRANCAS E ROSADAS,2006,0,Viníferas
+338,Aligote,BRANCAS E ROSADAS,2006,0,Viníferas
+339,Altesse,BRANCAS E ROSADAS,2006,0,Viníferas
+340,Alvarinho,BRANCAS E ROSADAS,2006,0,Viníferas
+341,Arriloba,BRANCAS E ROSADAS,2006,27410,Viníferas
+342,Auxerrois,BRANCAS E ROSADAS,2006,0,Viníferas
+343,Burger,BRANCAS E ROSADAS,2006,0,Viníferas
+344,Chardonnay,BRANCAS E ROSADAS,2006,1830171,Viníferas
+345,Chasselas,BRANCAS E ROSADAS,2006,111200,Viníferas
+346,Chenin Blanc,BRANCAS E ROSADAS,2006,400160,Viníferas
+347,Clairette(1),BRANCAS E ROSADAS,2006,0,Viníferas
+348,Colombard,BRANCAS E ROSADAS,2006,518836,Viníferas
+349,Flora,BRANCAS E ROSADAS,2006,251511,Viníferas
+350,Garganega,BRANCAS E ROSADAS,2006,35110,Viníferas
+351,Gewurztraminer,BRANCAS E ROSADAS,2006,142266,Viníferas
+352,Gouveio,BRANCAS E ROSADAS,2006,5312,Viníferas
+353,Gros Manseng,BRANCAS E ROSADAS,2006,2500,Viníferas
+354,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2006,0,Viníferas
+355,Maccabeo,BRANCAS E ROSADAS,2006,0,Viníferas
+356,Malvasia,BRANCAS E ROSADAS,2006,0,Viníferas
+357,Malvasia Amarela,BRANCAS E ROSADAS,2006,61112,Viníferas
+358,Malvasia Bianca,BRANCAS E ROSADAS,2006,192862,Viníferas
+359,Malvasia Chianti,BRANCAS E ROSADAS,2006,14705,Viníferas
+360,Malvasia Verde,BRANCAS E ROSADAS,2006,145670,Viníferas
+361,Malvasia di Candia,BRANCAS E ROSADAS,2006,228221,Viníferas
+362,Malvasia Istriana,BRANCAS E ROSADAS,2006,0,Viníferas
+363,Moscato,BRANCAS E ROSADAS,2006,10748618,Viníferas
+364,Moscato Canelli,BRANCAS E ROSADAS,2006,57796,Viníferas
+365,Moscato Giallo,BRANCAS E ROSADAS,2006,776846,Viníferas
+366,Moscato Nazareno,BRANCAS E ROSADAS,2006,544530,Viníferas
+367,Moscato Bianco R2,BRANCAS E ROSADAS,2006,331718,Viníferas
+368,Moscato de Alexandria,BRANCAS E ROSADAS,2006,32129,Viníferas
+369,Moscato Rosado,BRANCAS E ROSADAS,2006,5310,Viníferas
+370,Muscat à Petits Grains,BRANCAS E ROSADAS,2006,0,Viníferas
+371,Muller Thurgau,BRANCAS E ROSADAS,2006,0,Viníferas
+372,Muscadelle,BRANCAS E ROSADAS,2006,0,Viníferas
+373,Ora,BRANCAS E ROSADAS,2006,0,Viníferas
+374,Palomino,BRANCAS E ROSADAS,2006,2270,Viníferas
+375,Petit Manseng,BRANCAS E ROSADAS,2006,0,Viníferas
+376,Peverella,BRANCAS E ROSADAS,2006,137031,Viníferas
+377,Pinot Blanc,BRANCAS E ROSADAS,2006,12245,Viníferas
+378,Pinot Gris,BRANCAS E ROSADAS,2006,41070,Viníferas
+379,Prosecco,BRANCAS E ROSADAS,2006,917214,Viníferas
+380,Red Veltliner,BRANCAS E ROSADAS,2006,0,Viníferas
+381,Riesling Italico,BRANCAS E ROSADAS,2006,1901717,Viníferas
+382,Riesling Renano,BRANCAS E ROSADAS,2006,213256,Viníferas
+383,Sauvignon Blanc(2),BRANCAS E ROSADAS,2006,606465,Viníferas
+384,Sauvignon Gris,BRANCAS E ROSADAS,2006,0,Viníferas
+385,Seara Nova,BRANCAS E ROSADAS,2006,0,Viníferas
+386,Semillon,BRANCAS E ROSADAS,2006,600858,Viníferas
+387,Schonburger,BRANCAS E ROSADAS,2006,6505,Viníferas
+388,Sylvaner,BRANCAS E ROSADAS,2006,4530,Viníferas
+389,Tocai Friulano,BRANCAS E ROSADAS,2006,0,Viníferas
+390,Trebbiano,BRANCAS E ROSADAS,2006,1376390,Viníferas
+391,Trebbiano Toscano,BRANCAS E ROSADAS,2006,0,Viníferas
+392,Verdea,BRANCAS E ROSADAS,2006,0,Viníferas
+393,Verdelho,BRANCAS E ROSADAS,2006,0,Viníferas
+394,Verdiso,BRANCAS E ROSADAS,2006,0,Viníferas
+395,Vermentino,BRANCAS E ROSADAS,2006,1040,Viníferas
+396,Vernaccia,BRANCAS E ROSADAS,2006,34760,Viníferas
+397,Viognier,BRANCAS E ROSADAS,2006,16581,Viníferas
+398,Outras(3),BRANCAS E ROSADAS,2006,0,Viníferas
+399,TINTAS,TINTAS,2007,43653087,Viníferas
+400,Alicante Bouschet,TINTAS,2007,1775837,Viníferas
+401,Ancelota,TINTAS,2007,1532209,Viníferas
+402,Aramon,TINTAS,2007,0,Viníferas
+403,Alfrocheiro,TINTAS,2007,20509,Viníferas
+404,Arinarnoa,TINTAS,2007,24878,Viníferas
+405,Aspirant Bouschet,TINTAS,2007,0,Viníferas
+406,Barbera,TINTAS,2007,68946,Viníferas
+407,Bonarda,TINTAS,2007,6207,Viníferas
+408,Cabernet Franc,TINTAS,2007,4081725,Viníferas
+409,Cabernet Sauvignon,TINTAS,2007,14489153,Viníferas
+410, Caladoc,TINTAS,2007,1100,Viníferas
+411,Campanario,TINTAS,2007,0,Viníferas
+412,Canaiolo,TINTAS,2007,0,Viníferas
+413,Carignan,TINTAS,2007,0,Viníferas
+414,Carmenere,TINTAS,2007,328254,Viníferas
+415,Castelão,TINTAS,2007,487,Viníferas
+416,Corvina,TINTAS,2007,0,Viníferas
+417,Croatina,TINTAS,2007,4700,Viníferas
+418,Cinsaut,TINTAS,2007,0,Viníferas
+419,Dom Felder,TINTAS,2007,17590,Viníferas
+420,Dolcetto,TINTAS,2007,0,Viníferas
+421,Durif,TINTAS,2007,0,Viníferas
+422,Freisa,TINTAS,2007,0,Viníferas
+423,Egiodola,TINTAS,2007,1265676,Viníferas
+424,Ekigaina,TINTAS,2007,0,Viníferas
+425,Festival (Sugraone),TINTAS,2007,0,Viníferas
+426,Franconia,TINTAS,2007,3633,Viníferas
+427,Freisa,TINTAS,2007,6727,Viníferas
+428,Gamay St Romain,TINTAS,2007,45266,Viníferas
+429,Gamay Beaujolais,TINTAS,2007,320115,Viníferas
+430,Grand Noir,TINTAS,2007,0,Viníferas
+431,Grenache,TINTAS,2007,0,Viníferas
+432,Jaen,TINTAS,2007,215,Viníferas
+433,Lagrein,TINTAS,2007,190,Viníferas
+434,Lambrusco,TINTAS,2007,96068,Viníferas
+435,Malbec,TINTAS,2007,399928,Viníferas
+436,Marzemina,TINTAS,2007,0,Viníferas
+437,Merlot,TINTAS,2007,11399362,Viníferas
+438,Marselan,TINTAS,2007,109574,Viníferas
+439,Molinera,TINTAS,2007,0,Viníferas
+440,Montepulciano,TINTAS,2007,30820,Viníferas
+441,Moscato Bailey,TINTAS,2007,0,Viníferas
+442,Napa Gamay,TINTAS,2007,175040,Viníferas
+443,Nebbiolo,TINTAS,2007,13971,Viníferas
+444,Petit Verdot,TINTAS,2007,57029,Viníferas
+445,Petite Sirah,TINTAS,2007,99577,Viníferas
+446,Pinotage,TINTAS,2007,1113861,Viníferas
+447,Pinot Noir,TINTAS,2007,1270351,Viníferas
+448,Pinot Saint George,TINTAS,2007,72560,Viníferas
+449,Piriquita,TINTAS,2007,0,Viníferas
+450,Rebo,TINTAS,2007,3000,Viníferas
+451,Refosco,TINTAS,2007,17415,Viníferas
+452,Rondinella,TINTAS,2007,0,Viníferas
+453,Ruby Cabernet,TINTAS,2007,782800,Viníferas
+454,Sangiovese,TINTAS,2007,115475,Viníferas
+455,Sira (falsa),TINTAS,2007,0,Viníferas
+456,Tannat,TINTAS,2007,3514880,Viníferas
+457,Tempranillo,TINTAS,2007,192063,Viníferas
+458,Teroldego,TINTAS,2007,61659,Viníferas
+459,Torrontes,TINTAS,2007,0,Viníferas
+460,Tinta Barroca,TINTAS,2007,6520,Viníferas
+461,Touriga Francesa,TINTAS,2007,0,Viníferas
+462,Touriga Nacional,TINTAS,2007,127462,Viníferas
+463,Tinta Madeira,TINTAS,2007,0,Viníferas
+464,Tintoria,TINTAS,2007,0,Viníferas
+465,Trincdeira,TINTAS,2007,255,Viníferas
+466,Trousseau,TINTAS,2007,0,Viníferas
+467,Zinfandel,TINTAS,2007,0,Viníferas
+468,Outras1,TINTAS,2007,0,Viníferas
+469,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2007,28254191,Viníferas
+470,Aliatico,BRANCAS E ROSADAS,2007,0,Viníferas
+471,Aligote,BRANCAS E ROSADAS,2007,0,Viníferas
+472,Altesse,BRANCAS E ROSADAS,2007,0,Viníferas
+473,Alvarinho,BRANCAS E ROSADAS,2007,2477,Viníferas
+474,Arriloba,BRANCAS E ROSADAS,2007,22832,Viníferas
+475,Auxerrois,BRANCAS E ROSADAS,2007,0,Viníferas
+476,Burger,BRANCAS E ROSADAS,2007,0,Viníferas
+477,Chardonnay,BRANCAS E ROSADAS,2007,1752488,Viníferas
+478,Chasselas,BRANCAS E ROSADAS,2007,48268,Viníferas
+479,Chenin Blanc,BRANCAS E ROSADAS,2007,355185,Viníferas
+480,Clairette(1),BRANCAS E ROSADAS,2007,0,Viníferas
+481,Colombard,BRANCAS E ROSADAS,2007,593625,Viníferas
+482,Flora,BRANCAS E ROSADAS,2007,176396,Viníferas
+483,Garganega,BRANCAS E ROSADAS,2007,16970,Viníferas
+484,Gewurztraminer,BRANCAS E ROSADAS,2007,284818,Viníferas
+485,Gouveio,BRANCAS E ROSADAS,2007,5848,Viníferas
+486,Gros Manseng,BRANCAS E ROSADAS,2007,5770,Viníferas
+487,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2007,0,Viníferas
+488,Maccabeo,BRANCAS E ROSADAS,2007,0,Viníferas
+489,Malvasia,BRANCAS E ROSADAS,2007,0,Viníferas
+490,Malvasia Amarela,BRANCAS E ROSADAS,2007,94281,Viníferas
+491,Malvasia Bianca,BRANCAS E ROSADAS,2007,191316,Viníferas
+492,Malvasia Chianti,BRANCAS E ROSADAS,2007,15235,Viníferas
+493,Malvasia Verde,BRANCAS E ROSADAS,2007,253369,Viníferas
+494,Malvasia di Candia,BRANCAS E ROSADAS,2007,283476,Viníferas
+495,Malvasia Istriana,BRANCAS E ROSADAS,2007,0,Viníferas
+496,Moscato,BRANCAS E ROSADAS,2007,15717087,Viníferas
+497,Moscato Canelli,BRANCAS E ROSADAS,2007,84053,Viníferas
+498,Moscato Giallo,BRANCAS E ROSADAS,2007,1173519,Viníferas
+499,Moscato Nazareno,BRANCAS E ROSADAS,2007,616480,Viníferas
+500,Moscato Bianco R2,BRANCAS E ROSADAS,2007,406650,Viníferas
+501,Moscato de Alexandria,BRANCAS E ROSADAS,2007,51979,Viníferas
+502,Moscato Rosado,BRANCAS E ROSADAS,2007,1226,Viníferas
+503,Muscat à Petits Grains,BRANCAS E ROSADAS,2007,0,Viníferas
+504,Muller Thurgau,BRANCAS E ROSADAS,2007,0,Viníferas
+505,Muscadelle,BRANCAS E ROSADAS,2007,0,Viníferas
+506,Ora,BRANCAS E ROSADAS,2007,0,Viníferas
+507,Palomino,BRANCAS E ROSADAS,2007,0,Viníferas
+508,Petit Manseng,BRANCAS E ROSADAS,2007,0,Viníferas
+509,Peverella,BRANCAS E ROSADAS,2007,111726,Viníferas
+510,Pinot Blanc,BRANCAS E ROSADAS,2007,14620,Viníferas
+511,Pinot Gris,BRANCAS E ROSADAS,2007,28779,Viníferas
+512,Prosecco,BRANCAS E ROSADAS,2007,910158,Viníferas
+513,Red Veltliner,BRANCAS E ROSADAS,2007,0,Viníferas
+514,Riesling Italico,BRANCAS E ROSADAS,2007,1960822,Viníferas
+515,Riesling Renano,BRANCAS E ROSADAS,2007,242940,Viníferas
+516,Sauvignon Blanc(2),BRANCAS E ROSADAS,2007,618034,Viníferas
+517,Sauvignon Gris,BRANCAS E ROSADAS,2007,3213,Viníferas
+518,Seara Nova,BRANCAS E ROSADAS,2007,0,Viníferas
+519,Semillon,BRANCAS E ROSADAS,2007,408016,Viníferas
+520,Schonburger,BRANCAS E ROSADAS,2007,15239,Viníferas
+521,Sylvaner,BRANCAS E ROSADAS,2007,4693,Viníferas
+522,Tocai Friulano,BRANCAS E ROSADAS,2007,0,Viníferas
+523,Trebbiano,BRANCAS E ROSADAS,2007,1711643,Viníferas
+524,Trebbiano Toscano,BRANCAS E ROSADAS,2007,0,Viníferas
+525,Verdea,BRANCAS E ROSADAS,2007,0,Viníferas
+526,Verdelho,BRANCAS E ROSADAS,2007,0,Viníferas
+527,Verdiso,BRANCAS E ROSADAS,2007,0,Viníferas
+528,Vermentino,BRANCAS E ROSADAS,2007,660,Viníferas
+529,Vernaccia,BRANCAS E ROSADAS,2007,32672,Viníferas
+530,Viognier,BRANCAS E ROSADAS,2007,37628,Viníferas
+531,Outras(3),BRANCAS E ROSADAS,2007,0,Viníferas
+532,TINTAS,TINTAS,2008,48852574,Viníferas
+533,Alicante Bouschet,TINTAS,2008,1588326,Viníferas
+534,Ancelota,TINTAS,2008,1709883,Viníferas
+535,Aramon,TINTAS,2008,0,Viníferas
+536,Alfrocheiro,TINTAS,2008,25310,Viníferas
+537,Arinarnoa,TINTAS,2008,12686,Viníferas
+538,Aspirant Bouschet,TINTAS,2008,0,Viníferas
+539,Barbera,TINTAS,2008,92279,Viníferas
+540,Bonarda,TINTAS,2008,7640,Viníferas
+541,Cabernet Franc,TINTAS,2008,4008067,Viníferas
+542,Cabernet Sauvignon,TINTAS,2008,16646632,Viníferas
+543, Caladoc,TINTAS,2008,0,Viníferas
+544,Campanario,TINTAS,2008,0,Viníferas
+545,Canaiolo,TINTAS,2008,0,Viníferas
+546,Carignan,TINTAS,2008,0,Viníferas
+547,Carmenere,TINTAS,2008,223269,Viníferas
+548,Castelão,TINTAS,2008,23252,Viníferas
+549,Corvina,TINTAS,2008,710,Viníferas
+550,Croatina,TINTAS,2008,0,Viníferas
+551,Cinsaut,TINTAS,2008,0,Viníferas
+552,Dom Felder,TINTAS,2008,0,Viníferas
+553,Dolcetto,TINTAS,2008,0,Viníferas
+554,Durif,TINTAS,2008,0,Viníferas
+555,Freisa,TINTAS,2008,0,Viníferas
+556,Egiodola,TINTAS,2008,1366406,Viníferas
+557,Ekigaina,TINTAS,2008,1720,Viníferas
+558,Festival (Sugraone),TINTAS,2008,0,Viníferas
+559,Franconia,TINTAS,2008,0,Viníferas
+560,Freisa,TINTAS,2008,0,Viníferas
+561,Gamay St Romain,TINTAS,2008,59576,Viníferas
+562,Gamay Beaujolais,TINTAS,2008,316366,Viníferas
+563,Grand Noir,TINTAS,2008,0,Viníferas
+564,Grenache,TINTAS,2008,0,Viníferas
+565,Jaen,TINTAS,2008,1037,Viníferas
+566,Lagrein,TINTAS,2008,420,Viníferas
+567,Lambrusco,TINTAS,2008,113388,Viníferas
+568,Malbec,TINTAS,2008,414138,Viníferas
+569,Marzemina,TINTAS,2008,0,Viníferas
+570,Merlot,TINTAS,2008,11866618,Viníferas
+571,Marselan,TINTAS,2008,181823,Viníferas
+572,Molinera,TINTAS,2008,692,Viníferas
+573,Montepulciano,TINTAS,2008,34060,Viníferas
+574,Moscato Bailey,TINTAS,2008,0,Viníferas
+575,Napa Gamay,TINTAS,2008,179050,Viníferas
+576,Nebbiolo,TINTAS,2008,10019,Viníferas
+577,Petit Verdot,TINTAS,2008,50933,Viníferas
+578,Petite Sirah,TINTAS,2008,77759,Viníferas
+579,Pinotage,TINTAS,2008,1578657,Viníferas
+580,Pinot Noir,TINTAS,2008,1930823,Viníferas
+581,Pinot Saint George,TINTAS,2008,28170,Viníferas
+582,Piriquita,TINTAS,2008,0,Viníferas
+583,Rebo,TINTAS,2008,7610,Viníferas
+584,Refosco,TINTAS,2008,59340,Viníferas
+585,Rondinella,TINTAS,2008,668,Viníferas
+586,Ruby Cabernet,TINTAS,2008,679484,Viníferas
+587,Sangiovese,TINTAS,2008,405224,Viníferas
+588,Sira (falsa),TINTAS,2008,14145,Viníferas
+589,Tannat,TINTAS,2008,4711255,Viníferas
+590,Tempranillo,TINTAS,2008,241017,Viníferas
+591,Teroldego,TINTAS,2008,69876,Viníferas
+592,Torrontes,TINTAS,2008,0,Viníferas
+593,Tinta Barroca,TINTAS,2008,12870,Viníferas
+594,Touriga Francesa,TINTAS,2008,0,Viníferas
+595,Touriga Nacional,TINTAS,2008,101376,Viníferas
+596,Tinta Madeira,TINTAS,2008,0,Viníferas
+597,Tintoria,TINTAS,2008,0,Viníferas
+598,Trincdeira,TINTAS,2008,0,Viníferas
+599,Trousseau,TINTAS,2008,0,Viníferas
+600,Zinfandel,TINTAS,2008,0,Viníferas
+601,Outras1,TINTAS,2008,0,Viníferas
+602,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2008,34602464,Viníferas
+603,Aliatico,BRANCAS E ROSADAS,2008,0,Viníferas
+604,Aligote,BRANCAS E ROSADAS,2008,0,Viníferas
+605,Altesse,BRANCAS E ROSADAS,2008,0,Viníferas
+606,Alvarinho,BRANCAS E ROSADAS,2008,1071,Viníferas
+607,Arriloba,BRANCAS E ROSADAS,2008,51380,Viníferas
+608,Auxerrois,BRANCAS E ROSADAS,2008,0,Viníferas
+609,Burger,BRANCAS E ROSADAS,2008,0,Viníferas
+610,Chardonnay,BRANCAS E ROSADAS,2008,5829449,Viníferas
+611,Chasselas,BRANCAS E ROSADAS,2008,58390,Viníferas
+612,Chenin Blanc,BRANCAS E ROSADAS,2008,362750,Viníferas
+613,Clairette(1),BRANCAS E ROSADAS,2008,0,Viníferas
+614,Colombard,BRANCAS E ROSADAS,2008,879719,Viníferas
+615,Flora,BRANCAS E ROSADAS,2008,176229,Viníferas
+616,Garganega,BRANCAS E ROSADAS,2008,8530,Viníferas
+617,Gewurztraminer,BRANCAS E ROSADAS,2008,196483,Viníferas
+618,Gouveio,BRANCAS E ROSADAS,2008,2090,Viníferas
+619,Gros Manseng,BRANCAS E ROSADAS,2008,1800,Viníferas
+620,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2008,0,Viníferas
+621,Maccabeo,BRANCAS E ROSADAS,2008,0,Viníferas
+622,Malvasia,BRANCAS E ROSADAS,2008,0,Viníferas
+623,Malvasia Amarela,BRANCAS E ROSADAS,2008,131350,Viníferas
+624,Malvasia Bianca,BRANCAS E ROSADAS,2008,325942,Viníferas
+625,Malvasia Chianti,BRANCAS E ROSADAS,2008,4730,Viníferas
+626,Malvasia Verde,BRANCAS E ROSADAS,2008,289366,Viníferas
+627,Malvasia di Candia,BRANCAS E ROSADAS,2008,628749,Viníferas
+628,Malvasia Istriana,BRANCAS E ROSADAS,2008,0,Viníferas
+629,Moscato,BRANCAS E ROSADAS,2008,14744061,Viníferas
+630,Moscato Canelli,BRANCAS E ROSADAS,2008,65107,Viníferas
+631,Moscato Giallo,BRANCAS E ROSADAS,2008,1122457,Viníferas
+632,Moscato Nazareno,BRANCAS E ROSADAS,2008,1035000,Viníferas
+633,Moscato Bianco R2,BRANCAS E ROSADAS,2008,430599,Viníferas
+634,Moscato de Alexandria,BRANCAS E ROSADAS,2008,85756,Viníferas
+635,Moscato Rosado,BRANCAS E ROSADAS,2008,0,Viníferas
+636,Muscat à Petits Grains,BRANCAS E ROSADAS,2008,0,Viníferas
+637,Muller Thurgau,BRANCAS E ROSADAS,2008,0,Viníferas
+638,Muscadelle,BRANCAS E ROSADAS,2008,0,Viníferas
+639,Ora,BRANCAS E ROSADAS,2008,0,Viníferas
+640,Palomino,BRANCAS E ROSADAS,2008,0,Viníferas
+641,Petit Manseng,BRANCAS E ROSADAS,2008,0,Viníferas
+642,Peverella,BRANCAS E ROSADAS,2008,103270,Viníferas
+643,Pinot Blanc,BRANCAS E ROSADAS,2008,40109,Viníferas
+644,Pinot Gris,BRANCAS E ROSADAS,2008,41660,Viníferas
+645,Prosecco,BRANCAS E ROSADAS,2008,1930887,Viníferas
+646,Red Veltliner,BRANCAS E ROSADAS,2008,0,Viníferas
+647,Riesling Italico,BRANCAS E ROSADAS,2008,2698892,Viníferas
+648,Riesling Renano,BRANCAS E ROSADAS,2008,243690,Viníferas
+649,Sauvignon Blanc(2),BRANCAS E ROSADAS,2008,608983,Viníferas
+650,Sauvignon Gris,BRANCAS E ROSADAS,2008,5534,Viníferas
+651,Seara Nova,BRANCAS E ROSADAS,2008,0,Viníferas
+652,Semillon,BRANCAS E ROSADAS,2008,562371,Viníferas
+653,Schonburger,BRANCAS E ROSADAS,2008,17687,Viníferas
+654,Sylvaner,BRANCAS E ROSADAS,2008,6587,Viníferas
+655,Tocai Friulano,BRANCAS E ROSADAS,2008,0,Viníferas
+656,Trebbiano,BRANCAS E ROSADAS,2008,1846212,Viníferas
+657,Trebbiano Toscano,BRANCAS E ROSADAS,2008,0,Viníferas
+658,Verdea,BRANCAS E ROSADAS,2008,0,Viníferas
+659,Verdelho,BRANCAS E ROSADAS,2008,0,Viníferas
+660,Verdiso,BRANCAS E ROSADAS,2008,0,Viníferas
+661,Vermentino,BRANCAS E ROSADAS,2008,3090,Viníferas
+662,Vernaccia,BRANCAS E ROSADAS,2008,21146,Viníferas
+663,Viognier,BRANCAS E ROSADAS,2008,41338,Viníferas
+664,Outras(3),BRANCAS E ROSADAS,2008,0,Viníferas
+665,TINTAS,TINTAS,2009,39148123,Viníferas
+666,Alicante Bouschet,TINTAS,2009,1652912,Viníferas
+667,Ancelota,TINTAS,2009,1370728,Viníferas
+668,Aramon,TINTAS,2009,0,Viníferas
+669,Alfrocheiro,TINTAS,2009,31168,Viníferas
+670,Arinarnoa,TINTAS,2009,39607,Viníferas
+671,Aspirant Bouschet,TINTAS,2009,0,Viníferas
+672,Barbera,TINTAS,2009,70932,Viníferas
+673,Bonarda,TINTAS,2009,2320,Viníferas
+674,Cabernet Franc,TINTAS,2009,3365865,Viníferas
+675,Cabernet Sauvignon,TINTAS,2009,13229864,Viníferas
+676, Caladoc,TINTAS,2009,0,Viníferas
+677,Campanario,TINTAS,2009,0,Viníferas
+678,Canaiolo,TINTAS,2009,0,Viníferas
+679,Carignan,TINTAS,2009,0,Viníferas
+680,Carmenere,TINTAS,2009,130269,Viníferas
+681,Castelão,TINTAS,2009,16240,Viníferas
+682,Corvina,TINTAS,2009,680,Viníferas
+683,Croatina,TINTAS,2009,0,Viníferas
+684,Cinsaut,TINTAS,2009,0,Viníferas
+685,Dom Felder,TINTAS,2009,0,Viníferas
+686,Dolcetto,TINTAS,2009,0,Viníferas
+687,Durif,TINTAS,2009,0,Viníferas
+688,Freisa,TINTAS,2009,0,Viníferas
+689,Egiodola,TINTAS,2009,1157679,Viníferas
+690,Ekigaina,TINTAS,2009,0,Viníferas
+691,Festival (Sugraone),TINTAS,2009,0,Viníferas
+692,Franconia,TINTAS,2009,0,Viníferas
+693,Freisa,TINTAS,2009,0,Viníferas
+694,Gamay St Romain,TINTAS,2009,38260,Viníferas
+695,Gamay Beaujolais,TINTAS,2009,208276,Viníferas
+696,Grand Noir,TINTAS,2009,0,Viníferas
+697,Grenache,TINTAS,2009,0,Viníferas
+698,Jaen,TINTAS,2009,3642,Viníferas
+699,Lagrein,TINTAS,2009,670,Viníferas
+700,Lambrusco,TINTAS,2009,111537,Viníferas
+701,Malbec,TINTAS,2009,393256,Viníferas
+702,Marzemina,TINTAS,2009,0,Viníferas
+703,Merlot,TINTAS,2009,8876279,Viníferas
+704,Marselan,TINTAS,2009,228360,Viníferas
+705,Molinera,TINTAS,2009,650,Viníferas
+706,Montepulciano,TINTAS,2009,21190,Viníferas
+707,Moscato Bailey,TINTAS,2009,0,Viníferas
+708,Napa Gamay,TINTAS,2009,74640,Viníferas
+709,Nebbiolo,TINTAS,2009,14148,Viníferas
+710,Petit Verdot,TINTAS,2009,56031,Viníferas
+711,Petite Sirah,TINTAS,2009,121525,Viníferas
+712,Pinotage,TINTAS,2009,978575,Viníferas
+713,Pinot Noir,TINTAS,2009,1387200,Viníferas
+714,Pinot Saint George,TINTAS,2009,29180,Viníferas
+715,Piriquita,TINTAS,2009,0,Viníferas
+716,Rebo,TINTAS,2009,4240,Viníferas
+717,Refosco,TINTAS,2009,10430,Viníferas
+718,Rondinella,TINTAS,2009,648,Viníferas
+719,Ruby Cabernet,TINTAS,2009,532095,Viníferas
+720,Sangiovese,TINTAS,2009,303438,Viníferas
+721,Sira (falsa),TINTAS,2009,0,Viníferas
+722,Tannat,TINTAS,2009,4199190,Viníferas
+723,Tempranillo,TINTAS,2009,242484,Viníferas
+724,Teroldego,TINTAS,2009,105372,Viníferas
+725,Torrontes,TINTAS,2009,0,Viníferas
+726,Tinta Barroca,TINTAS,2009,6710,Viníferas
+727,Touriga Francesa,TINTAS,2009,0,Viníferas
+728,Touriga Nacional,TINTAS,2009,131833,Viníferas
+729,Tinta Madeira,TINTAS,2009,0,Viníferas
+730,Tintoria,TINTAS,2009,0,Viníferas
+731,Trincdeira,TINTAS,2009,0,Viníferas
+732,Trousseau,TINTAS,2009,0,Viníferas
+733,Zinfandel,TINTAS,2009,0,Viníferas
+734,Outras1,TINTAS,2009,0,Viníferas
+735,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2009,32556903,Viníferas
+736,Aliatico,BRANCAS E ROSADAS,2009,0,Viníferas
+737,Aligote,BRANCAS E ROSADAS,2009,0,Viníferas
+738,Altesse,BRANCAS E ROSADAS,2009,0,Viníferas
+739,Alvarinho,BRANCAS E ROSADAS,2009,1675,Viníferas
+740,Arriloba,BRANCAS E ROSADAS,2009,35375,Viníferas
+741,Auxerrois,BRANCAS E ROSADAS,2009,0,Viníferas
+742,Burger,BRANCAS E ROSADAS,2009,0,Viníferas
+743,Chardonnay,BRANCAS E ROSADAS,2009,4812743,Viníferas
+744,Chasselas,BRANCAS E ROSADAS,2009,32425,Viníferas
+745,Chenin Blanc,BRANCAS E ROSADAS,2009,347230,Viníferas
+746,Clairette(1),BRANCAS E ROSADAS,2009,0,Viníferas
+747,Colombard,BRANCAS E ROSADAS,2009,717624,Viníferas
+748,Flora,BRANCAS E ROSADAS,2009,131760,Viníferas
+749,Garganega,BRANCAS E ROSADAS,2009,3170,Viníferas
+750,Gewurztraminer,BRANCAS E ROSADAS,2009,155338,Viníferas
+751,Gouveio,BRANCAS E ROSADAS,2009,7830,Viníferas
+752,Gros Manseng,BRANCAS E ROSADAS,2009,3289,Viníferas
+753,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2009,2650,Viníferas
+754,Maccabeo,BRANCAS E ROSADAS,2009,0,Viníferas
+755,Malvasia,BRANCAS E ROSADAS,2009,0,Viníferas
+756,Malvasia Amarela,BRANCAS E ROSADAS,2009,153905,Viníferas
+757,Malvasia Bianca,BRANCAS E ROSADAS,2009,281064,Viníferas
+758,Malvasia Chianti,BRANCAS E ROSADAS,2009,0,Viníferas
+759,Malvasia Verde,BRANCAS E ROSADAS,2009,331718,Viníferas
+760,Malvasia di Candia,BRANCAS E ROSADAS,2009,739588,Viníferas
+761,Malvasia Istriana,BRANCAS E ROSADAS,2009,0,Viníferas
+762,Moscato,BRANCAS E ROSADAS,2009,14294841,Viníferas
+763,Moscato Canelli,BRANCAS E ROSADAS,2009,61009,Viníferas
+764,Moscato Giallo,BRANCAS E ROSADAS,2009,1446926,Viníferas
+765,Moscato Nazareno,BRANCAS E ROSADAS,2009,858910,Viníferas
+766,Moscato Bianco R2,BRANCAS E ROSADAS,2009,510594,Viníferas
+767,Moscato de Alexandria,BRANCAS E ROSADAS,2009,87359,Viníferas
+768,Moscato Rosado,BRANCAS E ROSADAS,2009,0,Viníferas
+769,Muscat à Petits Grains,BRANCAS E ROSADAS,2009,0,Viníferas
+770,Muller Thurgau,BRANCAS E ROSADAS,2009,0,Viníferas
+771,Muscadelle,BRANCAS E ROSADAS,2009,0,Viníferas
+772,Ora,BRANCAS E ROSADAS,2009,0,Viníferas
+773,Palomino,BRANCAS E ROSADAS,2009,0,Viníferas
+774,Petit Manseng,BRANCAS E ROSADAS,2009,0,Viníferas
+775,Peverella,BRANCAS E ROSADAS,2009,48994,Viníferas
+776,Pinot Blanc,BRANCAS E ROSADAS,2009,8030,Viníferas
+777,Pinot Gris,BRANCAS E ROSADAS,2009,52000,Viníferas
+778,Prosecco,BRANCAS E ROSADAS,2009,2169397,Viníferas
+779,Red Veltliner,BRANCAS E ROSADAS,2009,0,Viníferas
+780,Riesling Italico,BRANCAS E ROSADAS,2009,2466530,Viníferas
+781,Riesling Renano,BRANCAS E ROSADAS,2009,90530,Viníferas
+782,Sauvignon Blanc(2),BRANCAS E ROSADAS,2009,657286,Viníferas
+783,Sauvignon Gris,BRANCAS E ROSADAS,2009,2147,Viníferas
+784,Seara Nova,BRANCAS E ROSADAS,2009,0,Viníferas
+785,Semillon,BRANCAS E ROSADAS,2009,382995,Viníferas
+786,Schonburger,BRANCAS E ROSADAS,2009,16930,Viníferas
+787,Sylvaner,BRANCAS E ROSADAS,2009,492,Viníferas
+788,Tocai Friulano,BRANCAS E ROSADAS,2009,0,Viníferas
+789,Trebbiano,BRANCAS E ROSADAS,2009,1578176,Viníferas
+790,Trebbiano Toscano,BRANCAS E ROSADAS,2009,0,Viníferas
+791,Verdea,BRANCAS E ROSADAS,2009,0,Viníferas
+792,Verdelho,BRANCAS E ROSADAS,2009,0,Viníferas
+793,Verdiso,BRANCAS E ROSADAS,2009,0,Viníferas
+794,Vermentino,BRANCAS E ROSADAS,2009,1940,Viníferas
+795,Vernaccia,BRANCAS E ROSADAS,2009,14498,Viníferas
+796,Viognier,BRANCAS E ROSADAS,2009,49935,Viníferas
+797,Outras(3),BRANCAS E ROSADAS,2009,0,Viníferas
+798,TINTAS,TINTAS,2010,23633831,Viníferas
+799,Alicante Bouschet,TINTAS,2010,849263,Viníferas
+800,Ancelota,TINTAS,2010,853718,Viníferas
+801,Aramon,TINTAS,2010,0,Viníferas
+802,Alfrocheiro,TINTAS,2010,0,Viníferas
+803,Arinarnoa,TINTAS,2010,35790,Viníferas
+804,Aspirant Bouschet,TINTAS,2010,0,Viníferas
+805,Barbera,TINTAS,2010,26044,Viníferas
+806,Bonarda,TINTAS,2010,0,Viníferas
+807,Cabernet Franc,TINTAS,2010,2125997,Viníferas
+808,Cabernet Sauvignon,TINTAS,2010,6617553,Viníferas
+809, Caladoc,TINTAS,2010,0,Viníferas
+810,Campanario,TINTAS,2010,0,Viníferas
+811,Canaiolo,TINTAS,2010,0,Viníferas
+812,Carignan,TINTAS,2010,0,Viníferas
+813,Carmenere,TINTAS,2010,85264,Viníferas
+814,Castelão,TINTAS,2010,16230,Viníferas
+815,Corvina,TINTAS,2010,100,Viníferas
+816,Croatina,TINTAS,2010,0,Viníferas
+817,Cinsaut,TINTAS,2010,0,Viníferas
+818,Dom Felder,TINTAS,2010,0,Viníferas
+819,Dolcetto,TINTAS,2010,0,Viníferas
+820,Durif,TINTAS,2010,0,Viníferas
+821,Freisa,TINTAS,2010,9310,Viníferas
+822,Egiodola,TINTAS,2010,845205,Viníferas
+823,Ekigaina,TINTAS,2010,0,Viníferas
+824,Festival (Sugraone),TINTAS,2010,0,Viníferas
+825,Franconia,TINTAS,2010,0,Viníferas
+826,Freisa,TINTAS,2010,0,Viníferas
+827,Gamay St Romain,TINTAS,2010,44153,Viníferas
+828,Gamay Beaujolais,TINTAS,2010,84074,Viníferas
+829,Grand Noir,TINTAS,2010,0,Viníferas
+830,Grenache,TINTAS,2010,0,Viníferas
+831,Jaen,TINTAS,2010,0,Viníferas
+832,Lagrein,TINTAS,2010,5670,Viníferas
+833,Lambrusco,TINTAS,2010,68480,Viníferas
+834,Malbec,TINTAS,2010,318059,Viníferas
+835,Marzemina,TINTAS,2010,0,Viníferas
+836,Merlot,TINTAS,2010,6179006,Viníferas
+837,Marselan,TINTAS,2010,200025,Viníferas
+838,Molinera,TINTAS,2010,100,Viníferas
+839,Montepulciano,TINTAS,2010,17959,Viníferas
+840,Moscato Bailey,TINTAS,2010,0,Viníferas
+841,Napa Gamay,TINTAS,2010,0,Viníferas
+842,Nebbiolo,TINTAS,2010,11986,Viníferas
+843,Petit Verdot,TINTAS,2010,109942,Viníferas
+844,Petite Sirah,TINTAS,2010,29457,Viníferas
+845,Pinotage,TINTAS,2010,644072,Viníferas
+846,Pinot Noir,TINTAS,2010,1309849,Viníferas
+847,Pinot Saint George,TINTAS,2010,0,Viníferas
+848,Piriquita,TINTAS,2010,0,Viníferas
+849,Rebo,TINTAS,2010,1650,Viníferas
+850,Refosco,TINTAS,2010,9466,Viníferas
+851,Rondinella,TINTAS,2010,100,Viníferas
+852,Ruby Cabernet,TINTAS,2010,379720,Viníferas
+853,Sangiovese,TINTAS,2010,258484,Viníferas
+854,Sira (falsa),TINTAS,2010,0,Viníferas
+855,Tannat,TINTAS,2010,2266985,Viníferas
+856,Tempranillo,TINTAS,2010,63526,Viníferas
+857,Teroldego,TINTAS,2010,68593,Viníferas
+858,Torrontes,TINTAS,2010,0,Viníferas
+859,Tinta Barroca,TINTAS,2010,0,Viníferas
+860,Touriga Francesa,TINTAS,2010,0,Viníferas
+861,Touriga Nacional,TINTAS,2010,97629,Viníferas
+862,Tinta Madeira,TINTAS,2010,0,Viníferas
+863,Tintoria,TINTAS,2010,0,Viníferas
+864,Trincdeira,TINTAS,2010,0,Viníferas
+865,Trousseau,TINTAS,2010,0,Viníferas
+866,Zinfandel,TINTAS,2010,372,Viníferas
+867,Outras1,TINTAS,2010,0,Viníferas
+868,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2010,22104122,Viníferas
+869,Aliatico,BRANCAS E ROSADAS,2010,0,Viníferas
+870,Aligote,BRANCAS E ROSADAS,2010,0,Viníferas
+871,Altesse,BRANCAS E ROSADAS,2010,0,Viníferas
+872,Alvarinho,BRANCAS E ROSADAS,2010,1088,Viníferas
+873,Arriloba,BRANCAS E ROSADAS,2010,33750,Viníferas
+874,Auxerrois,BRANCAS E ROSADAS,2010,0,Viníferas
+875,Burger,BRANCAS E ROSADAS,2010,0,Viníferas
+876,Chardonnay,BRANCAS E ROSADAS,2010,3836555,Viníferas
+877,Chasselas,BRANCAS E ROSADAS,2010,47099,Viníferas
+878,Chenin Blanc,BRANCAS E ROSADAS,2010,73720,Viníferas
+879,Clairette(1),BRANCAS E ROSADAS,2010,0,Viníferas
+880,Colombard,BRANCAS E ROSADAS,2010,479201,Viníferas
+881,Flora,BRANCAS E ROSADAS,2010,35860,Viníferas
+882,Garganega,BRANCAS E ROSADAS,2010,0,Viníferas
+883,Gewurztraminer,BRANCAS E ROSADAS,2010,105186,Viníferas
+884,Gouveio,BRANCAS E ROSADAS,2010,4358,Viníferas
+885,Gros Manseng,BRANCAS E ROSADAS,2010,4430,Viníferas
+886,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2010,2230,Viníferas
+887,Maccabeo,BRANCAS E ROSADAS,2010,0,Viníferas
+888,Malvasia,BRANCAS E ROSADAS,2010,0,Viníferas
+889,Malvasia Amarela,BRANCAS E ROSADAS,2010,251587,Viníferas
+890,Malvasia Bianca,BRANCAS E ROSADAS,2010,49176,Viníferas
+891,Malvasia Chianti,BRANCAS E ROSADAS,2010,2142,Viníferas
+892,Malvasia Verde,BRANCAS E ROSADAS,2010,83565,Viníferas
+893,Malvasia di Candia,BRANCAS E ROSADAS,2010,649194,Viníferas
+894,Malvasia Istriana,BRANCAS E ROSADAS,2010,0,Viníferas
+895,Moscato,BRANCAS E ROSADAS,2010,8595609,Viníferas
+896,Moscato Canelli,BRANCAS E ROSADAS,2010,55811,Viníferas
+897,Moscato Giallo,BRANCAS E ROSADAS,2010,1151570,Viníferas
+898,Moscato Nazareno,BRANCAS E ROSADAS,2010,690210,Viníferas
+899,Moscato Bianco R2,BRANCAS E ROSADAS,2010,317404,Viníferas
+900,Moscato de Alexandria,BRANCAS E ROSADAS,2010,41426,Viníferas
+901,Moscato Rosado,BRANCAS E ROSADAS,2010,2396,Viníferas
+902,Muscat à Petits Grains,BRANCAS E ROSADAS,2010,0,Viníferas
+903,Muller Thurgau,BRANCAS E ROSADAS,2010,0,Viníferas
+904,Muscadelle,BRANCAS E ROSADAS,2010,0,Viníferas
+905,Ora,BRANCAS E ROSADAS,2010,4045,Viníferas
+906,Palomino,BRANCAS E ROSADAS,2010,0,Viníferas
+907,Petit Manseng,BRANCAS E ROSADAS,2010,0,Viníferas
+908,Peverella,BRANCAS E ROSADAS,2010,28945,Viníferas
+909,Pinot Blanc,BRANCAS E ROSADAS,2010,16940,Viníferas
+910,Pinot Gris,BRANCAS E ROSADAS,2010,36036,Viníferas
+911,Prosecco,BRANCAS E ROSADAS,2010,1345161,Viníferas
+912,Red Veltliner,BRANCAS E ROSADAS,2010,0,Viníferas
+913,Riesling Italico,BRANCAS E ROSADAS,2010,2120405,Viníferas
+914,Riesling Renano,BRANCAS E ROSADAS,2010,96828,Viníferas
+915,Sauvignon Blanc(2),BRANCAS E ROSADAS,2010,350866,Viníferas
+916,Sauvignon Gris,BRANCAS E ROSADAS,2010,3629,Viníferas
+917,Seara Nova,BRANCAS E ROSADAS,2010,0,Viníferas
+918,Semillon,BRANCAS E ROSADAS,2010,165518,Viníferas
+919,Schonburger,BRANCAS E ROSADAS,2010,0,Viníferas
+920,Sylvaner,BRANCAS E ROSADAS,2010,0,Viníferas
+921,Tocai Friulano,BRANCAS E ROSADAS,2010,0,Viníferas
+922,Trebbiano,BRANCAS E ROSADAS,2010,1338957,Viníferas
+923,Trebbiano Toscano,BRANCAS E ROSADAS,2010,0,Viníferas
+924,Verdea,BRANCAS E ROSADAS,2010,0,Viníferas
+925,Verdelho,BRANCAS E ROSADAS,2010,0,Viníferas
+926,Verdiso,BRANCAS E ROSADAS,2010,0,Viníferas
+927,Vermentino,BRANCAS E ROSADAS,2010,560,Viníferas
+928,Vernaccia,BRANCAS E ROSADAS,2010,6520,Viníferas
+929,Viognier,BRANCAS E ROSADAS,2010,76145,Viníferas
+930,Outras(3),BRANCAS E ROSADAS,2010,0,Viníferas
+931,TINTAS,TINTAS,2011,44473588,Viníferas
+932,Alicante Bouschet,TINTAS,2011,2130579,Viníferas
+933,Ancelota,TINTAS,2011,1346552,Viníferas
+934,Aramon,TINTAS,2011,0,Viníferas
+935,Alfrocheiro,TINTAS,2011,4320,Viníferas
+936,Arinarnoa,TINTAS,2011,49376,Viníferas
+937,Aspirant Bouschet,TINTAS,2011,2258,Viníferas
+938,Barbera,TINTAS,2011,76397,Viníferas
+939,Bonarda,TINTAS,2011,250,Viníferas
+940,Cabernet Franc,TINTAS,2011,2741150,Viníferas
+941,Cabernet Sauvignon,TINTAS,2011,13039126,Viníferas
+942, Caladoc,TINTAS,2011,0,Viníferas
+943,Campanario,TINTAS,2011,0,Viníferas
+944,Canaiolo,TINTAS,2011,0,Viníferas
+945,Carignan,TINTAS,2011,0,Viníferas
+946,Carmenere,TINTAS,2011,50125,Viníferas
+947,Castelão,TINTAS,2011,26790,Viníferas
+948,Corvina,TINTAS,2011,1110,Viníferas
+949,Croatina,TINTAS,2011,0,Viníferas
+950,Cinsaut,TINTAS,2011,0,Viníferas
+951,Dom Felder,TINTAS,2011,0,Viníferas
+952,Dolcetto,TINTAS,2011,0,Viníferas
+953,Durif,TINTAS,2011,0,Viníferas
+954,Freisa,TINTAS,2011,0,Viníferas
+955,Egiodola,TINTAS,2011,1544746,Viníferas
+956,Ekigaina,TINTAS,2011,1350,Viníferas
+957,Festival (Sugraone),TINTAS,2011,18007,Viníferas
+958,Franconia,TINTAS,2011,0,Viníferas
+959,Freisa,TINTAS,2011,0,Viníferas
+960,Gamay St Romain,TINTAS,2011,20830,Viníferas
+961,Gamay Beaujolais,TINTAS,2011,164201,Viníferas
+962,Grand Noir,TINTAS,2011,0,Viníferas
+963,Grenache,TINTAS,2011,1180,Viníferas
+964,Jaen,TINTAS,2011,0,Viníferas
+965,Lagrein,TINTAS,2011,3288,Viníferas
+966,Lambrusco,TINTAS,2011,94480,Viníferas
+967,Malbec,TINTAS,2011,636608,Viníferas
+968,Marzemina,TINTAS,2011,5460,Viníferas
+969,Merlot,TINTAS,2011,12510489,Viníferas
+970,Marselan,TINTAS,2011,339023,Viníferas
+971,Molinera,TINTAS,2011,1080,Viníferas
+972,Montepulciano,TINTAS,2011,21115,Viníferas
+973,Moscato Bailey,TINTAS,2011,0,Viníferas
+974,Napa Gamay,TINTAS,2011,31410,Viníferas
+975,Nebbiolo,TINTAS,2011,21342,Viníferas
+976,Petit Verdot,TINTAS,2011,127549,Viníferas
+977,Petite Sirah,TINTAS,2011,98861,Viníferas
+978,Pinotage,TINTAS,2011,1075863,Viníferas
+979,Pinot Noir,TINTAS,2011,2513274,Viníferas
+980,Pinot Saint George,TINTAS,2011,7600,Viníferas
+981,Piriquita,TINTAS,2011,0,Viníferas
+982,Rebo,TINTAS,2011,27620,Viníferas
+983,Refosco,TINTAS,2011,18705,Viníferas
+984,Rondinella,TINTAS,2011,1150,Viníferas
+985,Ruby Cabernet,TINTAS,2011,582497,Viníferas
+986,Sangiovese,TINTAS,2011,359833,Viníferas
+987,Sira (falsa),TINTAS,2011,0,Viníferas
+988,Tannat,TINTAS,2011,4152135,Viníferas
+989,Tempranillo,TINTAS,2011,256836,Viníferas
+990,Teroldego,TINTAS,2011,179095,Viníferas
+991,Torrontes,TINTAS,2011,0,Viníferas
+992,Tinta Barroca,TINTAS,2011,0,Viníferas
+993,Touriga Francesa,TINTAS,2011,0,Viníferas
+994,Touriga Nacional,TINTAS,2011,189928,Viníferas
+995,Tinta Madeira,TINTAS,2011,0,Viníferas
+996,Tintoria,TINTAS,2011,0,Viníferas
+997,Trincdeira,TINTAS,2011,0,Viníferas
+998,Trousseau,TINTAS,2011,0,Viníferas
+999,Zinfandel,TINTAS,2011,0,Viníferas
+1000,Outras1,TINTAS,2011,0,Viníferas
+1001,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2011,37931015,Viníferas
+1002,Aliatico,BRANCAS E ROSADAS,2011,0,Viníferas
+1003,Aligote,BRANCAS E ROSADAS,2011,2640,Viníferas
+1004,Altesse,BRANCAS E ROSADAS,2011,0,Viníferas
+1005,Alvarinho,BRANCAS E ROSADAS,2011,6668,Viníferas
+1006,Arriloba,BRANCAS E ROSADAS,2011,38390,Viníferas
+1007,Auxerrois,BRANCAS E ROSADAS,2011,0,Viníferas
+1008,Burger,BRANCAS E ROSADAS,2011,0,Viníferas
+1009,Chardonnay,BRANCAS E ROSADAS,2011,4916344,Viníferas
+1010,Chasselas,BRANCAS E ROSADAS,2011,29543,Viníferas
+1011,Chenin Blanc,BRANCAS E ROSADAS,2011,212900,Viníferas
+1012,Clairette(1),BRANCAS E ROSADAS,2011,949,Viníferas
+1013,Colombard,BRANCAS E ROSADAS,2011,445104,Viníferas
+1014,Flora,BRANCAS E ROSADAS,2011,37620,Viníferas
+1015,Garganega,BRANCAS E ROSADAS,2011,0,Viníferas
+1016,Gewurztraminer,BRANCAS E ROSADAS,2011,206833,Viníferas
+1017,Gouveio,BRANCAS E ROSADAS,2011,0,Viníferas
+1018,Gros Manseng,BRANCAS E ROSADAS,2011,7220,Viníferas
+1019,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2011,6405,Viníferas
+1020,Maccabeo,BRANCAS E ROSADAS,2011,0,Viníferas
+1021,Malvasia,BRANCAS E ROSADAS,2011,0,Viníferas
+1022,Malvasia Amarela,BRANCAS E ROSADAS,2011,107015,Viníferas
+1023,Malvasia Bianca,BRANCAS E ROSADAS,2011,138608,Viníferas
+1024,Malvasia Chianti,BRANCAS E ROSADAS,2011,0,Viníferas
+1025,Malvasia Verde,BRANCAS E ROSADAS,2011,60776,Viníferas
+1026,Malvasia di Candia,BRANCAS E ROSADAS,2011,1727224,Viníferas
+1027,Malvasia Istriana,BRANCAS E ROSADAS,2011,0,Viníferas
+1028,Moscato,BRANCAS E ROSADAS,2011,16871284,Viníferas
+1029,Moscato Canelli,BRANCAS E ROSADAS,2011,92887,Viníferas
+1030,Moscato Giallo,BRANCAS E ROSADAS,2011,1949920,Viníferas
+1031,Moscato Nazareno,BRANCAS E ROSADAS,2011,882104,Viníferas
+1032,Moscato Bianco R2,BRANCAS E ROSADAS,2011,808748,Viníferas
+1033,Moscato de Alexandria,BRANCAS E ROSADAS,2011,105384,Viníferas
+1034,Moscato Rosado,BRANCAS E ROSADAS,2011,7617,Viníferas
+1035,Muscat à Petits Grains,BRANCAS E ROSADAS,2011,0,Viníferas
+1036,Muller Thurgau,BRANCAS E ROSADAS,2011,0,Viníferas
+1037,Muscadelle,BRANCAS E ROSADAS,2011,0,Viníferas
+1038,Ora,BRANCAS E ROSADAS,2011,0,Viníferas
+1039,Palomino,BRANCAS E ROSADAS,2011,0,Viníferas
+1040,Petit Manseng,BRANCAS E ROSADAS,2011,0,Viníferas
+1041,Peverella,BRANCAS E ROSADAS,2011,64218,Viníferas
+1042,Pinot Blanc,BRANCAS E ROSADAS,2011,26307,Viníferas
+1043,Pinot Gris,BRANCAS E ROSADAS,2011,158788,Viníferas
+1044,Prosecco,BRANCAS E ROSADAS,2011,2720048,Viníferas
+1045,Red Veltliner,BRANCAS E ROSADAS,2011,0,Viníferas
+1046,Riesling Italico,BRANCAS E ROSADAS,2011,2618429,Viníferas
+1047,Riesling Renano,BRANCAS E ROSADAS,2011,125166,Viníferas
+1048,Sauvignon Blanc(2),BRANCAS E ROSADAS,2011,612060,Viníferas
+1049,Sauvignon Gris,BRANCAS E ROSADAS,2011,8513,Viníferas
+1050,Seara Nova,BRANCAS E ROSADAS,2011,0,Viníferas
+1051,Semillon,BRANCAS E ROSADAS,2011,312204,Viníferas
+1052,Schonburger,BRANCAS E ROSADAS,2011,14538,Viníferas
+1053,Sylvaner,BRANCAS E ROSADAS,2011,1435,Viníferas
+1054,Tocai Friulano,BRANCAS E ROSADAS,2011,0,Viníferas
+1055,Trebbiano,BRANCAS E ROSADAS,2011,2439317,Viníferas
+1056,Trebbiano Toscano,BRANCAS E ROSADAS,2011,0,Viníferas
+1057,Verdea,BRANCAS E ROSADAS,2011,0,Viníferas
+1058,Verdelho,BRANCAS E ROSADAS,2011,12420,Viníferas
+1059,Verdiso,BRANCAS E ROSADAS,2011,0,Viníferas
+1060,Vermentino,BRANCAS E ROSADAS,2011,5480,Viníferas
+1061,Vernaccia,BRANCAS E ROSADAS,2011,4930,Viníferas
+1062,Viognier,BRANCAS E ROSADAS,2011,144979,Viníferas
+1063,Outras(3),BRANCAS E ROSADAS,2011,0,Viníferas
+1064,TINTAS,TINTAS,2012,39303313,Viníferas
+1065,Alicante Bouschet,TINTAS,2012,2098824,Viníferas
+1066,Ancelota,TINTAS,2012,1274677,Viníferas
+1067,Aramon,TINTAS,2012,0,Viníferas
+1068,Alfrocheiro,TINTAS,2012,0,Viníferas
+1069,Arinarnoa,TINTAS,2012,81026,Viníferas
+1070,Aspirant Bouschet,TINTAS,2012,7448,Viníferas
+1071,Barbera,TINTAS,2012,47549,Viníferas
+1072,Bonarda,TINTAS,2012,1114,Viníferas
+1073,Cabernet Franc,TINTAS,2012,2594675,Viníferas
+1074,Cabernet Sauvignon,TINTAS,2012,11355820,Viníferas
+1075, Caladoc,TINTAS,2012,0,Viníferas
+1076,Campanario,TINTAS,2012,0,Viníferas
+1077,Canaiolo,TINTAS,2012,0,Viníferas
+1078,Carignan,TINTAS,2012,0,Viníferas
+1079,Carmenere,TINTAS,2012,48990,Viníferas
+1080,Castelão,TINTAS,2012,0,Viníferas
+1081,Corvina,TINTAS,2012,1200,Viníferas
+1082,Croatina,TINTAS,2012,0,Viníferas
+1083,Cinsaut,TINTAS,2012,0,Viníferas
+1084,Dom Felder,TINTAS,2012,0,Viníferas
+1085,Dolcetto,TINTAS,2012,0,Viníferas
+1086,Durif,TINTAS,2012,0,Viníferas
+1087,Freisa,TINTAS,2012,0,Viníferas
+1088,Egiodola,TINTAS,2012,992241,Viníferas
+1089,Ekigaina,TINTAS,2012,2630,Viníferas
+1090,Festival (Sugraone),TINTAS,2012,0,Viníferas
+1091,Franconia,TINTAS,2012,0,Viníferas
+1092,Freisa,TINTAS,2012,0,Viníferas
+1093,Gamay St Romain,TINTAS,2012,10995,Viníferas
+1094,Gamay Beaujolais,TINTAS,2012,163664,Viníferas
+1095,Grand Noir,TINTAS,2012,0,Viníferas
+1096,Grenache,TINTAS,2012,0,Viníferas
+1097,Jaen,TINTAS,2012,0,Viníferas
+1098,Lagrein,TINTAS,2012,800,Viníferas
+1099,Lambrusco,TINTAS,2012,52740,Viníferas
+1100,Malbec,TINTAS,2012,629019,Viníferas
+1101,Marzemina,TINTAS,2012,0,Viníferas
+1102,Merlot,TINTAS,2012,9645204,Viníferas
+1103,Marselan,TINTAS,2012,261314,Viníferas
+1104,Molinera,TINTAS,2012,990,Viníferas
+1105,Montepulciano,TINTAS,2012,27678,Viníferas
+1106,Moscato Bailey,TINTAS,2012,0,Viníferas
+1107,Napa Gamay,TINTAS,2012,86650,Viníferas
+1108,Nebbiolo,TINTAS,2012,37530,Viníferas
+1109,Petit Verdot,TINTAS,2012,102402,Viníferas
+1110,Petite Sirah,TINTAS,2012,149196,Viníferas
+1111,Pinotage,TINTAS,2012,863296,Viníferas
+1112,Pinot Noir,TINTAS,2012,2799071,Viníferas
+1113,Pinot Saint George,TINTAS,2012,20920,Viníferas
+1114,Piriquita,TINTAS,2012,0,Viníferas
+1115,Rebo,TINTAS,2012,16440,Viníferas
+1116,Refosco,TINTAS,2012,12120,Viníferas
+1117,Rondinella,TINTAS,2012,1020,Viníferas
+1118,Ruby Cabernet,TINTAS,2012,470683,Viníferas
+1119,Sangiovese,TINTAS,2012,280756,Viníferas
+1120,Sira (falsa),TINTAS,2012,0,Viníferas
+1121,Tannat,TINTAS,2012,4585214,Viníferas
+1122,Tempranillo,TINTAS,2012,283929,Viníferas
+1123,Teroldego,TINTAS,2012,157368,Viníferas
+1124,Torrontes,TINTAS,2012,4300,Viníferas
+1125,Tinta Barroca,TINTAS,2012,0,Viníferas
+1126,Touriga Francesa,TINTAS,2012,0,Viníferas
+1127,Touriga Nacional,TINTAS,2012,133820,Viníferas
+1128,Tinta Madeira,TINTAS,2012,0,Viníferas
+1129,Tintoria,TINTAS,2012,0,Viníferas
+1130,Trincdeira,TINTAS,2012,0,Viníferas
+1131,Trousseau,TINTAS,2012,0,Viníferas
+1132,Zinfandel,TINTAS,2012,0,Viníferas
+1133,Outras1,TINTAS,2012,0,Viníferas
+1134,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2012,36519724,Viníferas
+1135,Aliatico,BRANCAS E ROSADAS,2012,0,Viníferas
+1136,Aligote,BRANCAS E ROSADAS,2012,0,Viníferas
+1137,Altesse,BRANCAS E ROSADAS,2012,0,Viníferas
+1138,Alvarinho,BRANCAS E ROSADAS,2012,5081,Viníferas
+1139,Arriloba,BRANCAS E ROSADAS,2012,40000,Viníferas
+1140,Auxerrois,BRANCAS E ROSADAS,2012,0,Viníferas
+1141,Burger,BRANCAS E ROSADAS,2012,0,Viníferas
+1142,Chardonnay,BRANCAS E ROSADAS,2012,6347044,Viníferas
+1143,Chasselas,BRANCAS E ROSADAS,2012,0,Viníferas
+1144,Chenin Blanc,BRANCAS E ROSADAS,2012,257090,Viníferas
+1145,Clairette(1),BRANCAS E ROSADAS,2012,0,Viníferas
+1146,Colombard,BRANCAS E ROSADAS,2012,773273,Viníferas
+1147,Flora,BRANCAS E ROSADAS,2012,68260,Viníferas
+1148,Garganega,BRANCAS E ROSADAS,2012,0,Viníferas
+1149,Gewurztraminer,BRANCAS E ROSADAS,2012,327678,Viníferas
+1150,Gouveio,BRANCAS E ROSADAS,2012,0,Viníferas
+1151,Gros Manseng,BRANCAS E ROSADAS,2012,0,Viníferas
+1152,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2012,61799,Viníferas
+1153,Maccabeo,BRANCAS E ROSADAS,2012,0,Viníferas
+1154,Malvasia,BRANCAS E ROSADAS,2012,0,Viníferas
+1155,Malvasia Amarela,BRANCAS E ROSADAS,2012,115147,Viníferas
+1156,Malvasia Bianca,BRANCAS E ROSADAS,2012,119122,Viníferas
+1157,Malvasia Chianti,BRANCAS E ROSADAS,2012,0,Viníferas
+1158,Malvasia Verde,BRANCAS E ROSADAS,2012,10979,Viníferas
+1159,Malvasia di Candia,BRANCAS E ROSADAS,2012,1825193,Viníferas
+1160,Malvasia Istriana,BRANCAS E ROSADAS,2012,0,Viníferas
+1161,Moscato,BRANCAS E ROSADAS,2012,13322429,Viníferas
+1162,Moscato Canelli,BRANCAS E ROSADAS,2012,123255,Viníferas
+1163,Moscato Giallo,BRANCAS E ROSADAS,2012,1641498,Viníferas
+1164,Moscato Nazareno,BRANCAS E ROSADAS,2012,633606,Viníferas
+1165,Moscato Bianco R2,BRANCAS E ROSADAS,2012,618266,Viníferas
+1166,Moscato de Alexandria,BRANCAS E ROSADAS,2012,184748,Viníferas
+1167,Moscato Rosado,BRANCAS E ROSADAS,2012,0,Viníferas
+1168,Muscat à Petits Grains,BRANCAS E ROSADAS,2012,0,Viníferas
+1169,Muller Thurgau,BRANCAS E ROSADAS,2012,0,Viníferas
+1170,Muscadelle,BRANCAS E ROSADAS,2012,0,Viníferas
+1171,Ora,BRANCAS E ROSADAS,2012,0,Viníferas
+1172,Palomino,BRANCAS E ROSADAS,2012,0,Viníferas
+1173,Petit Manseng,BRANCAS E ROSADAS,2012,0,Viníferas
+1174,Peverella,BRANCAS E ROSADAS,2012,43656,Viníferas
+1175,Pinot Blanc,BRANCAS E ROSADAS,2012,10174,Viníferas
+1176,Pinot Gris,BRANCAS E ROSADAS,2012,187685,Viníferas
+1177,Prosecco,BRANCAS E ROSADAS,2012,2420715,Viníferas
+1178,Red Veltliner,BRANCAS E ROSADAS,2012,0,Viníferas
+1179,Riesling Italico,BRANCAS E ROSADAS,2012,3172992,Viníferas
+1180,Riesling Renano,BRANCAS E ROSADAS,2012,195120,Viníferas
+1181,Sauvignon Blanc(2),BRANCAS E ROSADAS,2012,855045,Viníferas
+1182,Sauvignon Gris,BRANCAS E ROSADAS,2012,2854,Viníferas
+1183,Seara Nova,BRANCAS E ROSADAS,2012,0,Viníferas
+1184,Semillon,BRANCAS E ROSADAS,2012,336252,Viníferas
+1185,Schonburger,BRANCAS E ROSADAS,2012,21348,Viníferas
+1186,Sylvaner,BRANCAS E ROSADAS,2012,144,Viníferas
+1187,Tocai Friulano,BRANCAS E ROSADAS,2012,0,Viníferas
+1188,Trebbiano,BRANCAS E ROSADAS,2012,2576020,Viníferas
+1189,Trebbiano Toscano,BRANCAS E ROSADAS,2012,0,Viníferas
+1190,Verdea,BRANCAS E ROSADAS,2012,0,Viníferas
+1191,Verdelho,BRANCAS E ROSADAS,2012,14339,Viníferas
+1192,Verdiso,BRANCAS E ROSADAS,2012,0,Viníferas
+1193,Vermentino,BRANCAS E ROSADAS,2012,4844,Viníferas
+1194,Vernaccia,BRANCAS E ROSADAS,2012,3780,Viníferas
+1195,Viognier,BRANCAS E ROSADAS,2012,200288,Viníferas
+1196,Outras(3),BRANCAS E ROSADAS,2012,0,Viníferas
+1197,TINTAS,TINTAS,2013,36855419,Viníferas
+1198,Alicante Bouschet,TINTAS,2013,1524728,Viníferas
+1199,Ancelota,TINTAS,2013,1137943,Viníferas
+1200,Aramon,TINTAS,2013,0,Viníferas
+1201,Alfrocheiro,TINTAS,2013,0,Viníferas
+1202,Arinarnoa,TINTAS,2013,65001,Viníferas
+1203,Aspirant Bouschet,TINTAS,2013,3650,Viníferas
+1204,Barbera,TINTAS,2013,40630,Viníferas
+1205,Bonarda,TINTAS,2013,0,Viníferas
+1206,Cabernet Franc,TINTAS,2013,2452229,Viníferas
+1207,Cabernet Sauvignon,TINTAS,2013,10651084,Viníferas
+1208, Caladoc,TINTAS,2013,2480,Viníferas
+1209,Campanario,TINTAS,2013,0,Viníferas
+1210,Canaiolo,TINTAS,2013,0,Viníferas
+1211,Carignan,TINTAS,2013,0,Viníferas
+1212,Carmenere,TINTAS,2013,44414,Viníferas
+1213,Castelão,TINTAS,2013,0,Viníferas
+1214,Corvina,TINTAS,2013,1382,Viníferas
+1215,Croatina,TINTAS,2013,0,Viníferas
+1216,Cinsaut,TINTAS,2013,0,Viníferas
+1217,Dom Felder,TINTAS,2013,0,Viníferas
+1218,Dolcetto,TINTAS,2013,0,Viníferas
+1219,Durif,TINTAS,2013,0,Viníferas
+1220,Freisa,TINTAS,2013,0,Viníferas
+1221,Egiodola,TINTAS,2013,1059250,Viníferas
+1222,Ekigaina,TINTAS,2013,1720,Viníferas
+1223,Festival (Sugraone),TINTAS,2013,0,Viníferas
+1224,Franconia,TINTAS,2013,0,Viníferas
+1225,Freisa,TINTAS,2013,0,Viníferas
+1226,Gamay St Romain,TINTAS,2013,11615,Viníferas
+1227,Gamay Beaujolais,TINTAS,2013,135405,Viníferas
+1228,Grand Noir,TINTAS,2013,0,Viníferas
+1229,Grenache,TINTAS,2013,0,Viníferas
+1230,Jaen,TINTAS,2013,0,Viníferas
+1231,Lagrein,TINTAS,2013,15300,Viníferas
+1232,Lambrusco,TINTAS,2013,56120,Viníferas
+1233,Malbec,TINTAS,2013,590041,Viníferas
+1234,Marzemina,TINTAS,2013,0,Viníferas
+1235,Merlot,TINTAS,2013,10179782,Viníferas
+1236,Marselan,TINTAS,2013,345504,Viníferas
+1237,Molinera,TINTAS,2013,1009,Viníferas
+1238,Montepulciano,TINTAS,2013,41888,Viníferas
+1239,Moscato Bailey,TINTAS,2013,0,Viníferas
+1240,Napa Gamay,TINTAS,2013,55550,Viníferas
+1241,Nebbiolo,TINTAS,2013,9327,Viníferas
+1242,Petit Verdot,TINTAS,2013,167522,Viníferas
+1243,Petite Sirah,TINTAS,2013,105934,Viníferas
+1244,Pinotage,TINTAS,2013,816883,Viníferas
+1245,Pinot Noir,TINTAS,2013,2392357,Viníferas
+1246,Pinot Saint George,TINTAS,2013,14120,Viníferas
+1247,Piriquita,TINTAS,2013,0,Viníferas
+1248,Rebo,TINTAS,2013,19780,Viníferas
+1249,Refosco,TINTAS,2013,12080,Viníferas
+1250,Rondinella,TINTAS,2013,1089,Viníferas
+1251,Ruby Cabernet,TINTAS,2013,526124,Viníferas
+1252,Sangiovese,TINTAS,2013,277679,Viníferas
+1253,Sira (falsa),TINTAS,2013,0,Viníferas
+1254,Tannat,TINTAS,2013,3612439,Viníferas
+1255,Tempranillo,TINTAS,2013,219163,Viníferas
+1256,Teroldego,TINTAS,2013,124542,Viníferas
+1257,Torrontes,TINTAS,2013,3090,Viníferas
+1258,Tinta Barroca,TINTAS,2013,0,Viníferas
+1259,Touriga Francesa,TINTAS,2013,0,Viníferas
+1260,Touriga Nacional,TINTAS,2013,136565,Viníferas
+1261,Tinta Madeira,TINTAS,2013,0,Viníferas
+1262,Tintoria,TINTAS,2013,0,Viníferas
+1263,Trincdeira,TINTAS,2013,0,Viníferas
+1264,Trousseau,TINTAS,2013,0,Viníferas
+1265,Zinfandel,TINTAS,2013,0,Viníferas
+1266,Outras1,TINTAS,2013,0,Viníferas
+1267,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2013,36958341,Viníferas
+1268,Aliatico,BRANCAS E ROSADAS,2013,0,Viníferas
+1269,Aligote,BRANCAS E ROSADAS,2013,0,Viníferas
+1270,Altesse,BRANCAS E ROSADAS,2013,0,Viníferas
+1271,Alvarinho,BRANCAS E ROSADAS,2013,12413,Viníferas
+1272,Arriloba,BRANCAS E ROSADAS,2013,28829,Viníferas
+1273,Auxerrois,BRANCAS E ROSADAS,2013,0,Viníferas
+1274,Burger,BRANCAS E ROSADAS,2013,0,Viníferas
+1275,Chardonnay,BRANCAS E ROSADAS,2013,6174156,Viníferas
+1276,Chasselas,BRANCAS E ROSADAS,2013,0,Viníferas
+1277,Chenin Blanc,BRANCAS E ROSADAS,2013,264090,Viníferas
+1278,Clairette(1),BRANCAS E ROSADAS,2013,0,Viníferas
+1279,Colombard,BRANCAS E ROSADAS,2013,673158,Viníferas
+1280,Flora,BRANCAS E ROSADAS,2013,72410,Viníferas
+1281,Garganega,BRANCAS E ROSADAS,2013,0,Viníferas
+1282,Gewurztraminer,BRANCAS E ROSADAS,2013,239469,Viníferas
+1283,Gouveio,BRANCAS E ROSADAS,2013,0,Viníferas
+1284,Gros Manseng,BRANCAS E ROSADAS,2013,4640,Viníferas
+1285,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2013,5671,Viníferas
+1286,Maccabeo,BRANCAS E ROSADAS,2013,3558,Viníferas
+1287,Malvasia,BRANCAS E ROSADAS,2013,0,Viníferas
+1288,Malvasia Amarela,BRANCAS E ROSADAS,2013,519959,Viníferas
+1289,Malvasia Bianca,BRANCAS E ROSADAS,2013,184949,Viníferas
+1290,Malvasia Chianti,BRANCAS E ROSADAS,2013,5061,Viníferas
+1291,Malvasia Verde,BRANCAS E ROSADAS,2013,18690,Viníferas
+1292,Malvasia di Candia,BRANCAS E ROSADAS,2013,1692882,Viníferas
+1293,Malvasia Istriana,BRANCAS E ROSADAS,2013,0,Viníferas
+1294,Moscato,BRANCAS E ROSADAS,2013,13136399,Viníferas
+1295,Moscato Canelli,BRANCAS E ROSADAS,2013,64800,Viníferas
+1296,Moscato Giallo,BRANCAS E ROSADAS,2013,1813522,Viníferas
+1297,Moscato Nazareno,BRANCAS E ROSADAS,2013,831206,Viníferas
+1298,Moscato Bianco R2,BRANCAS E ROSADAS,2013,678267,Viníferas
+1299,Moscato de Alexandria,BRANCAS E ROSADAS,2013,211532,Viníferas
+1300,Moscato Rosado,BRANCAS E ROSADAS,2013,0,Viníferas
+1301,Muscat à Petits Grains,BRANCAS E ROSADAS,2013,0,Viníferas
+1302,Muller Thurgau,BRANCAS E ROSADAS,2013,0,Viníferas
+1303,Muscadelle,BRANCAS E ROSADAS,2013,0,Viníferas
+1304,Ora,BRANCAS E ROSADAS,2013,0,Viníferas
+1305,Palomino,BRANCAS E ROSADAS,2013,0,Viníferas
+1306,Petit Manseng,BRANCAS E ROSADAS,2013,0,Viníferas
+1307,Peverella,BRANCAS E ROSADAS,2013,44137,Viníferas
+1308,Pinot Blanc,BRANCAS E ROSADAS,2013,8720,Viníferas
+1309,Pinot Gris,BRANCAS E ROSADAS,2013,126844,Viníferas
+1310,Prosecco,BRANCAS E ROSADAS,2013,2852648,Viníferas
+1311,Red Veltliner,BRANCAS E ROSADAS,2013,0,Viníferas
+1312,Riesling Italico,BRANCAS E ROSADAS,2013,3069854,Viníferas
+1313,Riesling Renano,BRANCAS E ROSADAS,2013,99230,Viníferas
+1314,Sauvignon Blanc(2),BRANCAS E ROSADAS,2013,633633,Viníferas
+1315,Sauvignon Gris,BRANCAS E ROSADAS,2013,3737,Viníferas
+1316,Seara Nova,BRANCAS E ROSADAS,2013,0,Viníferas
+1317,Semillon,BRANCAS E ROSADAS,2013,335323,Viníferas
+1318,Schonburger,BRANCAS E ROSADAS,2013,14087,Viníferas
+1319,Sylvaner,BRANCAS E ROSADAS,2013,155,Viníferas
+1320,Tocai Friulano,BRANCAS E ROSADAS,2013,0,Viníferas
+1321,Trebbiano,BRANCAS E ROSADAS,2013,2876041,Viníferas
+1322,Trebbiano Toscano,BRANCAS E ROSADAS,2013,0,Viníferas
+1323,Verdea,BRANCAS E ROSADAS,2013,0,Viníferas
+1324,Verdelho,BRANCAS E ROSADAS,2013,0,Viníferas
+1325,Verdiso,BRANCAS E ROSADAS,2013,0,Viníferas
+1326,Vermentino,BRANCAS E ROSADAS,2013,3220,Viníferas
+1327,Vernaccia,BRANCAS E ROSADAS,2013,7970,Viníferas
+1328,Viognier,BRANCAS E ROSADAS,2013,247081,Viníferas
+1329,Outras(3),BRANCAS E ROSADAS,2013,0,Viníferas
+1330,TINTAS,TINTAS,2014,29810706,Viníferas
+1331,Alicante Bouschet,TINTAS,2014,1456305,Viníferas
+1332,Ancelota,TINTAS,2014,937844,Viníferas
+1333,Aramon,TINTAS,2014,0,Viníferas
+1334,Alfrocheiro,TINTAS,2014,0,Viníferas
+1335,Arinarnoa,TINTAS,2014,56666,Viníferas
+1336,Aspirant Bouschet,TINTAS,2014,7091,Viníferas
+1337,Barbera,TINTAS,2014,19514,Viníferas
+1338,Bonarda,TINTAS,2014,0,Viníferas
+1339,Cabernet Franc,TINTAS,2014,1894496,Viníferas
+1340,Cabernet Sauvignon,TINTAS,2014,8556337,Viníferas
+1341, Caladoc,TINTAS,2014,3300,Viníferas
+1342,Campanario,TINTAS,2014,0,Viníferas
+1343,Canaiolo,TINTAS,2014,0,Viníferas
+1344,Carignan,TINTAS,2014,0,Viníferas
+1345,Carmenere,TINTAS,2014,66632,Viníferas
+1346,Castelão,TINTAS,2014,0,Viníferas
+1347,Corvina,TINTAS,2014,1406,Viníferas
+1348,Croatina,TINTAS,2014,0,Viníferas
+1349,Cinsaut,TINTAS,2014,0,Viníferas
+1350,Dom Felder,TINTAS,2014,0,Viníferas
+1351,Dolcetto,TINTAS,2014,0,Viníferas
+1352,Durif,TINTAS,2014,0,Viníferas
+1353,Freisa,TINTAS,2014,0,Viníferas
+1354,Egiodola,TINTAS,2014,911280,Viníferas
+1355,Ekigaina,TINTAS,2014,600,Viníferas
+1356,Festival (Sugraone),TINTAS,2014,0,Viníferas
+1357,Franconia,TINTAS,2014,0,Viníferas
+1358,Freisa,TINTAS,2014,41403,Viníferas
+1359,Gamay St Romain,TINTAS,2014,11180,Viníferas
+1360,Gamay Beaujolais,TINTAS,2014,113038,Viníferas
+1361,Grand Noir,TINTAS,2014,0,Viníferas
+1362,Grenache,TINTAS,2014,0,Viníferas
+1363,Jaen,TINTAS,2014,0,Viníferas
+1364,Lagrein,TINTAS,2014,750,Viníferas
+1365,Lambrusco,TINTAS,2014,29890,Viníferas
+1366,Malbec,TINTAS,2014,616160,Viníferas
+1367,Marzemina,TINTAS,2014,4180,Viníferas
+1368,Merlot,TINTAS,2014,7846034,Viníferas
+1369,Marselan,TINTAS,2014,404323,Viníferas
+1370,Molinera,TINTAS,2014,1023,Viníferas
+1371,Montepulciano,TINTAS,2014,26280,Viníferas
+1372,Moscato Bailey,TINTAS,2014,0,Viníferas
+1373,Napa Gamay,TINTAS,2014,16380,Viníferas
+1374,Nebbiolo,TINTAS,2014,7223,Viníferas
+1375,Petit Verdot,TINTAS,2014,75010,Viníferas
+1376,Petite Sirah,TINTAS,2014,47834,Viníferas
+1377,Pinotage,TINTAS,2014,479202,Viníferas
+1378,Pinot Noir,TINTAS,2014,2592701,Viníferas
+1379,Pinot Saint George,TINTAS,2014,2480,Viníferas
+1380,Piriquita,TINTAS,2014,0,Viníferas
+1381,Rebo,TINTAS,2014,13420,Viníferas
+1382,Refosco,TINTAS,2014,13240,Viníferas
+1383,Rondinella,TINTAS,2014,1053,Viníferas
+1384,Ruby Cabernet,TINTAS,2014,486527,Viníferas
+1385,Sangiovese,TINTAS,2014,122632,Viníferas
+1386,Sira (falsa),TINTAS,2014,0,Viníferas
+1387,Tannat,TINTAS,2014,2644014,Viníferas
+1388,Tempranillo,TINTAS,2014,119398,Viníferas
+1389,Teroldego,TINTAS,2014,87820,Viníferas
+1390,Torrontes,TINTAS,2014,9580,Viníferas
+1391,Tinta Barroca,TINTAS,2014,0,Viníferas
+1392,Touriga Francesa,TINTAS,2014,0,Viníferas
+1393,Touriga Nacional,TINTAS,2014,86460,Viníferas
+1394,Tinta Madeira,TINTAS,2014,0,Viníferas
+1395,Tintoria,TINTAS,2014,0,Viníferas
+1396,Trincdeira,TINTAS,2014,0,Viníferas
+1397,Trousseau,TINTAS,2014,0,Viníferas
+1398,Zinfandel,TINTAS,2014,0,Viníferas
+1399,Outras1,TINTAS,2014,0,Viníferas
+1400,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2014,35769155,Viníferas
+1401,Aliatico,BRANCAS E ROSADAS,2014,0,Viníferas
+1402,Aligote,BRANCAS E ROSADAS,2014,0,Viníferas
+1403,Altesse,BRANCAS E ROSADAS,2014,0,Viníferas
+1404,Alvarinho,BRANCAS E ROSADAS,2014,16147,Viníferas
+1405,Arriloba,BRANCAS E ROSADAS,2014,31140,Viníferas
+1406,Auxerrois,BRANCAS E ROSADAS,2014,0,Viníferas
+1407,Burger,BRANCAS E ROSADAS,2014,0,Viníferas
+1408,Chardonnay,BRANCAS E ROSADAS,2014,5821514,Viníferas
+1409,Chasselas,BRANCAS E ROSADAS,2014,0,Viníferas
+1410,Chenin Blanc,BRANCAS E ROSADAS,2014,146760,Viníferas
+1411,Clairette(1),BRANCAS E ROSADAS,2014,0,Viníferas
+1412,Colombard,BRANCAS E ROSADAS,2014,563589,Viníferas
+1413,Flora,BRANCAS E ROSADAS,2014,45240,Viníferas
+1414,Garganega,BRANCAS E ROSADAS,2014,0,Viníferas
+1415,Gewurztraminer,BRANCAS E ROSADAS,2014,162083,Viníferas
+1416,Gouveio,BRANCAS E ROSADAS,2014,0,Viníferas
+1417,Gros Manseng,BRANCAS E ROSADAS,2014,4830,Viníferas
+1418,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2014,40230,Viníferas
+1419,Maccabeo,BRANCAS E ROSADAS,2014,0,Viníferas
+1420,Malvasia,BRANCAS E ROSADAS,2014,0,Viníferas
+1421,Malvasia Amarela,BRANCAS E ROSADAS,2014,149663,Viníferas
+1422,Malvasia Bianca,BRANCAS E ROSADAS,2014,414603,Viníferas
+1423,Malvasia Chianti,BRANCAS E ROSADAS,2014,7632,Viníferas
+1424,Malvasia Verde,BRANCAS E ROSADAS,2014,8825,Viníferas
+1425,Malvasia di Candia,BRANCAS E ROSADAS,2014,1888539,Viníferas
+1426,Malvasia Istriana,BRANCAS E ROSADAS,2014,0,Viníferas
+1427,Moscato,BRANCAS E ROSADAS,2014,12669980,Viníferas
+1428,Moscato Canelli,BRANCAS E ROSADAS,2014,85785,Viníferas
+1429,Moscato Giallo,BRANCAS E ROSADAS,2014,1742605,Viníferas
+1430,Moscato Nazareno,BRANCAS E ROSADAS,2014,886808,Viníferas
+1431,Moscato Bianco R2,BRANCAS E ROSADAS,2014,770265,Viníferas
+1432,Moscato de Alexandria,BRANCAS E ROSADAS,2014,160290,Viníferas
+1433,Moscato Rosado,BRANCAS E ROSADAS,2014,0,Viníferas
+1434,Muscat à Petits Grains,BRANCAS E ROSADAS,2014,0,Viníferas
+1435,Muller Thurgau,BRANCAS E ROSADAS,2014,0,Viníferas
+1436,Muscadelle,BRANCAS E ROSADAS,2014,0,Viníferas
+1437,Ora,BRANCAS E ROSADAS,2014,0,Viníferas
+1438,Palomino,BRANCAS E ROSADAS,2014,0,Viníferas
+1439,Petit Manseng,BRANCAS E ROSADAS,2014,0,Viníferas
+1440,Peverella,BRANCAS E ROSADAS,2014,28452,Viníferas
+1441,Pinot Blanc,BRANCAS E ROSADAS,2014,5980,Viníferas
+1442,Pinot Gris,BRANCAS E ROSADAS,2014,118123,Viníferas
+1443,Prosecco,BRANCAS E ROSADAS,2014,3030347,Viníferas
+1444,Red Veltliner,BRANCAS E ROSADAS,2014,0,Viníferas
+1445,Riesling Italico,BRANCAS E ROSADAS,2014,2705224,Viníferas
+1446,Riesling Renano,BRANCAS E ROSADAS,2014,94276,Viníferas
+1447,Sauvignon Blanc(2),BRANCAS E ROSADAS,2014,515939,Viníferas
+1448,Sauvignon Gris,BRANCAS E ROSADAS,2014,921,Viníferas
+1449,Seara Nova,BRANCAS E ROSADAS,2014,0,Viníferas
+1450,Semillon,BRANCAS E ROSADAS,2014,149939,Viníferas
+1451,Schonburger,BRANCAS E ROSADAS,2014,5194,Viníferas
+1452,Sylvaner,BRANCAS E ROSADAS,2014,0,Viníferas
+1453,Tocai Friulano,BRANCAS E ROSADAS,2014,0,Viníferas
+1454,Trebbiano,BRANCAS E ROSADAS,2014,3342859,Viníferas
+1455,Trebbiano Toscano,BRANCAS E ROSADAS,2014,0,Viníferas
+1456,Verdea,BRANCAS E ROSADAS,2014,0,Viníferas
+1457,Verdelho,BRANCAS E ROSADAS,2014,0,Viníferas
+1458,Verdiso,BRANCAS E ROSADAS,2014,0,Viníferas
+1459,Vermentino,BRANCAS E ROSADAS,2014,1890,Viníferas
+1460,Vernaccia,BRANCAS E ROSADAS,2014,4150,Viníferas
+1461,Viognier,BRANCAS E ROSADAS,2014,149333,Viníferas
+1462,Outras(3),BRANCAS E ROSADAS,2014,0,Viníferas
+1463,TINTAS,TINTAS,2015,29935627,Viníferas
+1464,Alicante Bouschet,TINTAS,2015,1519576,Viníferas
+1465,Ancelota,TINTAS,2015,773526,Viníferas
+1466,Aramon,TINTAS,2015,0,Viníferas
+1467,Alfrocheiro,TINTAS,2015,0,Viníferas
+1468,Arinarnoa,TINTAS,2015,61817,Viníferas
+1469,Aspirant Bouschet,TINTAS,2015,8859,Viníferas
+1470,Barbera,TINTAS,2015,19980,Viníferas
+1471,Bonarda,TINTAS,2015,0,Viníferas
+1472,Cabernet Franc,TINTAS,2015,1981004,Viníferas
+1473,Cabernet Sauvignon,TINTAS,2015,7426634,Viníferas
+1474, Caladoc,TINTAS,2015,4000,Viníferas
+1475,Campanario,TINTAS,2015,0,Viníferas
+1476,Canaiolo,TINTAS,2015,0,Viníferas
+1477,Carignan,TINTAS,2015,0,Viníferas
+1478,Carmenere,TINTAS,2015,134180,Viníferas
+1479,Castelão,TINTAS,2015,0,Viníferas
+1480,Corvina,TINTAS,2015,1397,Viníferas
+1481,Croatina,TINTAS,2015,0,Viníferas
+1482,Cinsaut,TINTAS,2015,0,Viníferas
+1483,Dom Felder,TINTAS,2015,0,Viníferas
+1484,Dolcetto,TINTAS,2015,0,Viníferas
+1485,Durif,TINTAS,2015,0,Viníferas
+1486,Freisa,TINTAS,2015,0,Viníferas
+1487,Egiodola,TINTAS,2015,1053654,Viníferas
+1488,Ekigaina,TINTAS,2015,1090,Viníferas
+1489,Festival (Sugraone),TINTAS,2015,0,Viníferas
+1490,Franconia,TINTAS,2015,0,Viníferas
+1491,Freisa,TINTAS,2015,24452,Viníferas
+1492,Gamay St Romain,TINTAS,2015,31935,Viníferas
+1493,Gamay Beaujolais,TINTAS,2015,121516,Viníferas
+1494,Grand Noir,TINTAS,2015,0,Viníferas
+1495,Grenache,TINTAS,2015,0,Viníferas
+1496,Jaen,TINTAS,2015,0,Viníferas
+1497,Lagrein,TINTAS,2015,1400,Viníferas
+1498,Lambrusco,TINTAS,2015,39990,Viníferas
+1499,Malbec,TINTAS,2015,624096,Viníferas
+1500,Marzemina,TINTAS,2015,750,Viníferas
+1501,Merlot,TINTAS,2015,8030882,Viníferas
+1502,Marselan,TINTAS,2015,411105,Viníferas
+1503,Molinera,TINTAS,2015,1080,Viníferas
+1504,Montepulciano,TINTAS,2015,25640,Viníferas
+1505,Moscato Bailey,TINTAS,2015,0,Viníferas
+1506,Napa Gamay,TINTAS,2015,8970,Viníferas
+1507,Nebbiolo,TINTAS,2015,12754,Viníferas
+1508,Petit Verdot,TINTAS,2015,135770,Viníferas
+1509,Petite Sirah,TINTAS,2015,48483,Viníferas
+1510,Pinotage,TINTAS,2015,560195,Viníferas
+1511,Pinot Noir,TINTAS,2015,3125882,Viníferas
+1512,Pinot Saint George,TINTAS,2015,0,Viníferas
+1513,Piriquita,TINTAS,2015,0,Viníferas
+1514,Rebo,TINTAS,2015,22290,Viníferas
+1515,Refosco,TINTAS,2015,9310,Viníferas
+1516,Rondinella,TINTAS,2015,1110,Viníferas
+1517,Ruby Cabernet,TINTAS,2015,388019,Viníferas
+1518,Sangiovese,TINTAS,2015,135962,Viníferas
+1519,Sira (falsa),TINTAS,2015,0,Viníferas
+1520,Tannat,TINTAS,2015,2761604,Viníferas
+1521,Tempranillo,TINTAS,2015,182579,Viníferas
+1522,Teroldego,TINTAS,2015,97455,Viníferas
+1523,Torrontes,TINTAS,2015,10070,Viníferas
+1524,Tinta Barroca,TINTAS,2015,0,Viníferas
+1525,Touriga Francesa,TINTAS,2015,0,Viníferas
+1526,Touriga Nacional,TINTAS,2015,136611,Viníferas
+1527,Tinta Madeira,TINTAS,2015,0,Viníferas
+1528,Tintoria,TINTAS,2015,0,Viníferas
+1529,Trincdeira,TINTAS,2015,0,Viníferas
+1530,Trousseau,TINTAS,2015,0,Viníferas
+1531,Zinfandel,TINTAS,2015,0,Viníferas
+1532,Outras1,TINTAS,2015,0,Viníferas
+1533,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2015,40130577,Viníferas
+1534,Aliatico,BRANCAS E ROSADAS,2015,0,Viníferas
+1535,Aligote,BRANCAS E ROSADAS,2015,0,Viníferas
+1536,Altesse,BRANCAS E ROSADAS,2015,0,Viníferas
+1537,Alvarinho,BRANCAS E ROSADAS,2015,9860,Viníferas
+1538,Arriloba,BRANCAS E ROSADAS,2015,34120,Viníferas
+1539,Auxerrois,BRANCAS E ROSADAS,2015,0,Viníferas
+1540,Burger,BRANCAS E ROSADAS,2015,0,Viníferas
+1541,Chardonnay,BRANCAS E ROSADAS,2015,7253167,Viníferas
+1542,Chasselas,BRANCAS E ROSADAS,2015,0,Viníferas
+1543,Chenin Blanc,BRANCAS E ROSADAS,2015,173321,Viníferas
+1544,Clairette(1),BRANCAS E ROSADAS,2015,0,Viníferas
+1545,Colombard,BRANCAS E ROSADAS,2015,512199,Viníferas
+1546,Flora,BRANCAS E ROSADAS,2015,25090,Viníferas
+1547,Garganega,BRANCAS E ROSADAS,2015,0,Viníferas
+1548,Gewurztraminer,BRANCAS E ROSADAS,2015,207303,Viníferas
+1549,Gouveio,BRANCAS E ROSADAS,2015,0,Viníferas
+1550,Gros Manseng,BRANCAS E ROSADAS,2015,7410,Viníferas
+1551,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2015,37820,Viníferas
+1552,Maccabeo,BRANCAS E ROSADAS,2015,17670,Viníferas
+1553,Malvasia,BRANCAS E ROSADAS,2015,0,Viníferas
+1554,Malvasia Amarela,BRANCAS E ROSADAS,2015,119930,Viníferas
+1555,Malvasia Bianca,BRANCAS E ROSADAS,2015,602081,Viníferas
+1556,Malvasia Chianti,BRANCAS E ROSADAS,2015,0,Viníferas
+1557,Malvasia Verde,BRANCAS E ROSADAS,2015,5108,Viníferas
+1558,Malvasia di Candia,BRANCAS E ROSADAS,2015,2512864,Viníferas
+1559,Malvasia Istriana,BRANCAS E ROSADAS,2015,0,Viníferas
+1560,Moscato,BRANCAS E ROSADAS,2015,12788740,Viníferas
+1561,Moscato Canelli,BRANCAS E ROSADAS,2015,72462,Viníferas
+1562,Moscato Giallo,BRANCAS E ROSADAS,2015,1785956,Viníferas
+1563,Moscato Nazareno,BRANCAS E ROSADAS,2015,886075,Viníferas
+1564,Moscato Bianco R2,BRANCAS E ROSADAS,2015,863910,Viníferas
+1565,Moscato de Alexandria,BRANCAS E ROSADAS,2015,192945,Viníferas
+1566,Moscato Rosado,BRANCAS E ROSADAS,2015,0,Viníferas
+1567,Muscat à Petits Grains,BRANCAS E ROSADAS,2015,0,Viníferas
+1568,Muller Thurgau,BRANCAS E ROSADAS,2015,0,Viníferas
+1569,Muscadelle,BRANCAS E ROSADAS,2015,0,Viníferas
+1570,Ora,BRANCAS E ROSADAS,2015,0,Viníferas
+1571,Palomino,BRANCAS E ROSADAS,2015,0,Viníferas
+1572,Petit Manseng,BRANCAS E ROSADAS,2015,0,Viníferas
+1573,Peverella,BRANCAS E ROSADAS,2015,40719,Viníferas
+1574,Pinot Blanc,BRANCAS E ROSADAS,2015,7218,Viníferas
+1575,Pinot Gris,BRANCAS E ROSADAS,2015,118118,Viníferas
+1576,Prosecco,BRANCAS E ROSADAS,2015,3319779,Viníferas
+1577,Red Veltliner,BRANCAS E ROSADAS,2015,0,Viníferas
+1578,Riesling Italico,BRANCAS E ROSADAS,2015,3468606,Viníferas
+1579,Riesling Renano,BRANCAS E ROSADAS,2015,153605,Viníferas
+1580,Sauvignon Blanc(2),BRANCAS E ROSADAS,2015,614222,Viníferas
+1581,Sauvignon Gris,BRANCAS E ROSADAS,2015,1504,Viníferas
+1582,Seara Nova,BRANCAS E ROSADAS,2015,0,Viníferas
+1583,Semillon,BRANCAS E ROSADAS,2015,177672,Viníferas
+1584,Schonburger,BRANCAS E ROSADAS,2015,0,Viníferas
+1585,Sylvaner,BRANCAS E ROSADAS,2015,0,Viníferas
+1586,Tocai Friulano,BRANCAS E ROSADAS,2015,0,Viníferas
+1587,Trebbiano,BRANCAS E ROSADAS,2015,3830336,Viníferas
+1588,Trebbiano Toscano,BRANCAS E ROSADAS,2015,0,Viníferas
+1589,Verdea,BRANCAS E ROSADAS,2015,0,Viníferas
+1590,Verdelho,BRANCAS E ROSADAS,2015,0,Viníferas
+1591,Verdiso,BRANCAS E ROSADAS,2015,0,Viníferas
+1592,Vermentino,BRANCAS E ROSADAS,2015,790,Viníferas
+1593,Vernaccia,BRANCAS E ROSADAS,2015,4760,Viníferas
+1594,Viognier,BRANCAS E ROSADAS,2015,285217,Viníferas
+1595,Outras(3),BRANCAS E ROSADAS,2015,0,Viníferas
+1596,TINTAS,TINTAS,2016,13370866,Viníferas
+1597,Alicante Bouschet,TINTAS,2016,908841,Viníferas
+1598,Ancelota,TINTAS,2016,179028,Viníferas
+1599,Aramon,TINTAS,2016,0,Viníferas
+1600,Alfrocheiro,TINTAS,2016,0,Viníferas
+1601,Arinarnoa,TINTAS,2016,17691,Viníferas
+1602,Aspirant Bouschet,TINTAS,2016,12901,Viníferas
+1603,Barbera,TINTAS,2016,14738,Viníferas
+1604,Bonarda,TINTAS,2016,0,Viníferas
+1605,Cabernet Franc,TINTAS,2016,820996,Viníferas
+1606,Cabernet Sauvignon,TINTAS,2016,3877852,Viníferas
+1607, Caladoc,TINTAS,2016,2180,Viníferas
+1608,Campanario,TINTAS,2016,0,Viníferas
+1609,Canaiolo,TINTAS,2016,0,Viníferas
+1610,Carignan,TINTAS,2016,0,Viníferas
+1611,Carmenere,TINTAS,2016,87402,Viníferas
+1612,Castelão,TINTAS,2016,0,Viníferas
+1613,Corvina,TINTAS,2016,419,Viníferas
+1614,Croatina,TINTAS,2016,0,Viníferas
+1615,Cinsaut,TINTAS,2016,0,Viníferas
+1616,Dom Felder,TINTAS,2016,0,Viníferas
+1617,Dolcetto,TINTAS,2016,0,Viníferas
+1618,Durif,TINTAS,2016,0,Viníferas
+1619,Freisa,TINTAS,2016,0,Viníferas
+1620,Egiodola,TINTAS,2016,519874,Viníferas
+1621,Ekigaina,TINTAS,2016,0,Viníferas
+1622,Festival (Sugraone),TINTAS,2016,0,Viníferas
+1623,Franconia,TINTAS,2016,0,Viníferas
+1624,Freisa,TINTAS,2016,0,Viníferas
+1625,Gamay St Romain,TINTAS,2016,0,Viníferas
+1626,Gamay Beaujolais,TINTAS,2016,45952,Viníferas
+1627,Grand Noir,TINTAS,2016,0,Viníferas
+1628,Grenache,TINTAS,2016,0,Viníferas
+1629,Jaen,TINTAS,2016,0,Viníferas
+1630,Lagrein,TINTAS,2016,0,Viníferas
+1631,Lambrusco,TINTAS,2016,19784,Viníferas
+1632,Malbec,TINTAS,2016,267885,Viníferas
+1633,Marzemina,TINTAS,2016,0,Viníferas
+1634,Merlot,TINTAS,2016,3286035,Viníferas
+1635,Marselan,TINTAS,2016,205095,Viníferas
+1636,Molinera,TINTAS,2016,324,Viníferas
+1637,Montepulciano,TINTAS,2016,13330,Viníferas
+1638,Moscato Bailey,TINTAS,2016,0,Viníferas
+1639,Napa Gamay,TINTAS,2016,0,Viníferas
+1640,Nebbiolo,TINTAS,2016,3117,Viníferas
+1641,Petit Verdot,TINTAS,2016,116266,Viníferas
+1642,Petite Sirah,TINTAS,2016,24564,Viníferas
+1643,Pinotage,TINTAS,2016,119773,Viníferas
+1644,Pinot Noir,TINTAS,2016,1279105,Viníferas
+1645,Pinot Saint George,TINTAS,2016,0,Viníferas
+1646,Piriquita,TINTAS,2016,0,Viníferas
+1647,Rebo,TINTAS,2016,12470,Viníferas
+1648,Refosco,TINTAS,2016,3260,Viníferas
+1649,Rondinella,TINTAS,2016,333,Viníferas
+1650,Ruby Cabernet,TINTAS,2016,220231,Viníferas
+1651,Sangiovese,TINTAS,2016,26601,Viníferas
+1652,Sira (falsa),TINTAS,2016,0,Viníferas
+1653,Tannat,TINTAS,2016,985207,Viníferas
+1654,Tempranillo,TINTAS,2016,210551,Viníferas
+1655,Teroldego,TINTAS,2016,34019,Viníferas
+1656,Torrontes,TINTAS,2016,1490,Viníferas
+1657,Tinta Barroca,TINTAS,2016,0,Viníferas
+1658,Touriga Francesa,TINTAS,2016,0,Viníferas
+1659,Touriga Nacional,TINTAS,2016,53552,Viníferas
+1660,Tinta Madeira,TINTAS,2016,0,Viníferas
+1661,Tintoria,TINTAS,2016,0,Viníferas
+1662,Trincdeira,TINTAS,2016,0,Viníferas
+1663,Trousseau,TINTAS,2016,0,Viníferas
+1664,Zinfandel,TINTAS,2016,0,Viníferas
+1665,Outras1,TINTAS,2016,0,Viníferas
+1666,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2016,18769366,Viníferas
+1667,Aliatico,BRANCAS E ROSADAS,2016,0,Viníferas
+1668,Aligote,BRANCAS E ROSADAS,2016,0,Viníferas
+1669,Altesse,BRANCAS E ROSADAS,2016,0,Viníferas
+1670,Alvarinho,BRANCAS E ROSADAS,2016,16369,Viníferas
+1671,Arriloba,BRANCAS E ROSADAS,2016,17070,Viníferas
+1672,Auxerrois,BRANCAS E ROSADAS,2016,0,Viníferas
+1673,Burger,BRANCAS E ROSADAS,2016,0,Viníferas
+1674,Chardonnay,BRANCAS E ROSADAS,2016,3070142,Viníferas
+1675,Chasselas,BRANCAS E ROSADAS,2016,0,Viníferas
+1676,Chenin Blanc,BRANCAS E ROSADAS,2016,60580,Viníferas
+1677,Clairette(1),BRANCAS E ROSADAS,2016,0,Viníferas
+1678,Colombard,BRANCAS E ROSADAS,2016,201659,Viníferas
+1679,Flora,BRANCAS E ROSADAS,2016,1050,Viníferas
+1680,Garganega,BRANCAS E ROSADAS,2016,0,Viníferas
+1681,Gewurztraminer,BRANCAS E ROSADAS,2016,85385,Viníferas
+1682,Gouveio,BRANCAS E ROSADAS,2016,0,Viníferas
+1683,Gros Manseng,BRANCAS E ROSADAS,2016,0,Viníferas
+1684,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2016,0,Viníferas
+1685,Maccabeo,BRANCAS E ROSADAS,2016,0,Viníferas
+1686,Malvasia,BRANCAS E ROSADAS,2016,0,Viníferas
+1687,Malvasia Amarela,BRANCAS E ROSADAS,2016,10100,Viníferas
+1688,Malvasia Bianca,BRANCAS E ROSADAS,2016,217177,Viníferas
+1689,Malvasia Chianti,BRANCAS E ROSADAS,2016,1314,Viníferas
+1690,Malvasia Verde,BRANCAS E ROSADAS,2016,2460,Viníferas
+1691,Malvasia di Candia,BRANCAS E ROSADAS,2016,1268750,Viníferas
+1692,Malvasia Istriana,BRANCAS E ROSADAS,2016,0,Viníferas
+1693,Moscato,BRANCAS E ROSADAS,2016,6068181,Viníferas
+1694,Moscato Canelli,BRANCAS E ROSADAS,2016,30378,Viníferas
+1695,Moscato Giallo,BRANCAS E ROSADAS,2016,813952,Viníferas
+1696,Moscato Nazareno,BRANCAS E ROSADAS,2016,361638,Viníferas
+1697,Moscato Bianco R2,BRANCAS E ROSADAS,2016,257647,Viníferas
+1698,Moscato de Alexandria,BRANCAS E ROSADAS,2016,53037,Viníferas
+1699,Moscato Rosado,BRANCAS E ROSADAS,2016,0,Viníferas
+1700,Muscat à Petits Grains,BRANCAS E ROSADAS,2016,0,Viníferas
+1701,Muller Thurgau,BRANCAS E ROSADAS,2016,0,Viníferas
+1702,Muscadelle,BRANCAS E ROSADAS,2016,0,Viníferas
+1703,Ora,BRANCAS E ROSADAS,2016,0,Viníferas
+1704,Palomino,BRANCAS E ROSADAS,2016,0,Viníferas
+1705,Petit Manseng,BRANCAS E ROSADAS,2016,0,Viníferas
+1706,Peverella,BRANCAS E ROSADAS,2016,5557,Viníferas
+1707,Pinot Blanc,BRANCAS E ROSADAS,2016,0,Viníferas
+1708,Pinot Gris,BRANCAS E ROSADAS,2016,67394,Viníferas
+1709,Prosecco,BRANCAS E ROSADAS,2016,1873735,Viníferas
+1710,Red Veltliner,BRANCAS E ROSADAS,2016,0,Viníferas
+1711,Riesling Italico,BRANCAS E ROSADAS,2016,1697248,Viníferas
+1712,Riesling Renano,BRANCAS E ROSADAS,2016,53550,Viníferas
+1713,Sauvignon Blanc(2),BRANCAS E ROSADAS,2016,295942,Viníferas
+1714,Sauvignon Gris,BRANCAS E ROSADAS,2016,0,Viníferas
+1715,Seara Nova,BRANCAS E ROSADAS,2016,0,Viníferas
+1716,Semillon,BRANCAS E ROSADAS,2016,57635,Viníferas
+1717,Schonburger,BRANCAS E ROSADAS,2016,0,Viníferas
+1718,Sylvaner,BRANCAS E ROSADAS,2016,0,Viníferas
+1719,Tocai Friulano,BRANCAS E ROSADAS,2016,0,Viníferas
+1720,Trebbiano,BRANCAS E ROSADAS,2016,2083491,Viníferas
+1721,Trebbiano Toscano,BRANCAS E ROSADAS,2016,2694,Viníferas
+1722,Verdea,BRANCAS E ROSADAS,2016,0,Viníferas
+1723,Verdelho,BRANCAS E ROSADAS,2016,0,Viníferas
+1724,Verdiso,BRANCAS E ROSADAS,2016,0,Viníferas
+1725,Vermentino,BRANCAS E ROSADAS,2016,0,Viníferas
+1726,Vernaccia,BRANCAS E ROSADAS,2016,0,Viníferas
+1727,Viognier,BRANCAS E ROSADAS,2016,95231,Viníferas
+1728,Outras(3),BRANCAS E ROSADAS,2016,0,Viníferas
+1729,TINTAS,TINTAS,2017,32850915,Viníferas
+1730,Alicante Bouschet,TINTAS,2017,2040198,Viníferas
+1731,Ancelota,TINTAS,2017,733907,Viníferas
+1732,Aramon,TINTAS,2017,0,Viníferas
+1733,Alfrocheiro,TINTAS,2017,0,Viníferas
+1734,Arinarnoa,TINTAS,2017,69757,Viníferas
+1735,Aspirant Bouschet,TINTAS,2017,18086,Viníferas
+1736,Barbera,TINTAS,2017,24218,Viníferas
+1737,Bonarda,TINTAS,2017,0,Viníferas
+1738,Cabernet Franc,TINTAS,2017,2116893,Viníferas
+1739,Cabernet Sauvignon,TINTAS,2017,7242258,Viníferas
+1740, Caladoc,TINTAS,2017,8500,Viníferas
+1741,Campanario,TINTAS,2017,0,Viníferas
+1742,Canaiolo,TINTAS,2017,0,Viníferas
+1743,Carignan,TINTAS,2017,0,Viníferas
+1744,Carmenere,TINTAS,2017,69275,Viníferas
+1745,Castelão,TINTAS,2017,0,Viníferas
+1746,Corvina,TINTAS,2017,1890,Viníferas
+1747,Croatina,TINTAS,2017,0,Viníferas
+1748,Cinsaut,TINTAS,2017,3430,Viníferas
+1749,Dom Felder,TINTAS,2017,0,Viníferas
+1750,Dolcetto,TINTAS,2017,0,Viníferas
+1751,Durif,TINTAS,2017,0,Viníferas
+1752,Freisa,TINTAS,2017,0,Viníferas
+1753,Egiodola,TINTAS,2017,1567341,Viníferas
+1754,Ekigaina,TINTAS,2017,1340,Viníferas
+1755,Festival (Sugraone),TINTAS,2017,0,Viníferas
+1756,Franconia,TINTAS,2017,0,Viníferas
+1757,Freisa,TINTAS,2017,22610,Viníferas
+1758,Gamay St Romain,TINTAS,2017,12835,Viníferas
+1759,Gamay Beaujolais,TINTAS,2017,150331,Viníferas
+1760,Grand Noir,TINTAS,2017,0,Viníferas
+1761,Grenache,TINTAS,2017,0,Viníferas
+1762,Jaen,TINTAS,2017,0,Viníferas
+1763,Lagrein,TINTAS,2017,1430,Viníferas
+1764,Lambrusco,TINTAS,2017,61779,Viníferas
+1765,Malbec,TINTAS,2017,740327,Viníferas
+1766,Marzemina,TINTAS,2017,0,Viníferas
+1767,Merlot,TINTAS,2017,8309646,Viníferas
+1768,Marselan,TINTAS,2017,385945,Viníferas
+1769,Molinera,TINTAS,2017,1480,Viníferas
+1770,Montepulciano,TINTAS,2017,28008,Viníferas
+1771,Moscato Bailey,TINTAS,2017,0,Viníferas
+1772,Napa Gamay,TINTAS,2017,0,Viníferas
+1773,Nebbiolo,TINTAS,2017,5494,Viníferas
+1774,Petit Verdot,TINTAS,2017,230640,Viníferas
+1775,Petite Sirah,TINTAS,2017,92818,Viníferas
+1776,Pinotage,TINTAS,2017,474105,Viníferas
+1777,Pinot Noir,TINTAS,2017,3676000,Viníferas
+1778,Pinot Saint George,TINTAS,2017,0,Viníferas
+1779,Piriquita,TINTAS,2017,0,Viníferas
+1780,Rebo,TINTAS,2017,44440,Viníferas
+1781,Refosco,TINTAS,2017,5240,Viníferas
+1782,Rondinella,TINTAS,2017,1899,Viníferas
+1783,Ruby Cabernet,TINTAS,2017,382994,Viníferas
+1784,Sangiovese,TINTAS,2017,89404,Viníferas
+1785,Sira (falsa),TINTAS,2017,0,Viníferas
+1786,Tannat,TINTAS,2017,3668851,Viníferas
+1787,Tempranillo,TINTAS,2017,357637,Viníferas
+1788,Teroldego,TINTAS,2017,87034,Viníferas
+1789,Torrontes,TINTAS,2017,14630,Viníferas
+1790,Tinta Barroca,TINTAS,2017,0,Viníferas
+1791,Touriga Francesa,TINTAS,2017,0,Viníferas
+1792,Touriga Nacional,TINTAS,2017,108245,Viníferas
+1793,Tinta Madeira,TINTAS,2017,0,Viníferas
+1794,Tintoria,TINTAS,2017,0,Viníferas
+1795,Trincdeira,TINTAS,2017,0,Viníferas
+1796,Trousseau,TINTAS,2017,0,Viníferas
+1797,Zinfandel,TINTAS,2017,0,Viníferas
+1798,Outras1,TINTAS,2017,0,Viníferas
+1799,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2017,44058213,Viníferas
+1800,Aliatico,BRANCAS E ROSADAS,2017,0,Viníferas
+1801,Aligote,BRANCAS E ROSADAS,2017,0,Viníferas
+1802,Altesse,BRANCAS E ROSADAS,2017,0,Viníferas
+1803,Alvarinho,BRANCAS E ROSADAS,2017,41225,Viníferas
+1804,Arriloba,BRANCAS E ROSADAS,2017,5280,Viníferas
+1805,Auxerrois,BRANCAS E ROSADAS,2017,0,Viníferas
+1806,Burger,BRANCAS E ROSADAS,2017,0,Viníferas
+1807,Chardonnay,BRANCAS E ROSADAS,2017,7856910,Viníferas
+1808,Chasselas,BRANCAS E ROSADAS,2017,0,Viníferas
+1809,Chenin Blanc,BRANCAS E ROSADAS,2017,266524,Viníferas
+1810,Clairette(1),BRANCAS E ROSADAS,2017,0,Viníferas
+1811,Colombard,BRANCAS E ROSADAS,2017,535573,Viníferas
+1812,Flora,BRANCAS E ROSADAS,2017,5810,Viníferas
+1813,Garganega,BRANCAS E ROSADAS,2017,0,Viníferas
+1814,Gewurztraminer,BRANCAS E ROSADAS,2017,223350,Viníferas
+1815,Gouveio,BRANCAS E ROSADAS,2017,0,Viníferas
+1816,Gros Manseng,BRANCAS E ROSADAS,2017,5680,Viníferas
+1817,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2017,180,Viníferas
+1818,Maccabeo,BRANCAS E ROSADAS,2017,0,Viníferas
+1819,Malvasia,BRANCAS E ROSADAS,2017,0,Viníferas
+1820,Malvasia Amarela,BRANCAS E ROSADAS,2017,44445,Viníferas
+1821,Malvasia Bianca,BRANCAS E ROSADAS,2017,629101,Viníferas
+1822,Malvasia Chianti,BRANCAS E ROSADAS,2017,0,Viníferas
+1823,Malvasia Verde,BRANCAS E ROSADAS,2017,10457,Viníferas
+1824,Malvasia di Candia,BRANCAS E ROSADAS,2017,2785543,Viníferas
+1825,Malvasia Istriana,BRANCAS E ROSADAS,2017,0,Viníferas
+1826,Moscato,BRANCAS E ROSADAS,2017,14475142,Viníferas
+1827,Moscato Canelli,BRANCAS E ROSADAS,2017,57083,Viníferas
+1828,Moscato Giallo,BRANCAS E ROSADAS,2017,2091933,Viníferas
+1829,Moscato Nazareno,BRANCAS E ROSADAS,2017,890655,Viníferas
+1830,Moscato Bianco R2,BRANCAS E ROSADAS,2017,868260,Viníferas
+1831,Moscato de Alexandria,BRANCAS E ROSADAS,2017,115910,Viníferas
+1832,Moscato Rosado,BRANCAS E ROSADAS,2017,0,Viníferas
+1833,Muscat à Petits Grains,BRANCAS E ROSADAS,2017,0,Viníferas
+1834,Muller Thurgau,BRANCAS E ROSADAS,2017,0,Viníferas
+1835,Muscadelle,BRANCAS E ROSADAS,2017,0,Viníferas
+1836,Ora,BRANCAS E ROSADAS,2017,0,Viníferas
+1837,Palomino,BRANCAS E ROSADAS,2017,0,Viníferas
+1838,Petit Manseng,BRANCAS E ROSADAS,2017,0,Viníferas
+1839,Peverella,BRANCAS E ROSADAS,2017,16350,Viníferas
+1840,Pinot Blanc,BRANCAS E ROSADAS,2017,0,Viníferas
+1841,Pinot Gris,BRANCAS E ROSADAS,2017,165697,Viníferas
+1842,Prosecco,BRANCAS E ROSADAS,2017,3342655,Viníferas
+1843,Red Veltliner,BRANCAS E ROSADAS,2017,0,Viníferas
+1844,Riesling Italico,BRANCAS E ROSADAS,2017,4283929,Viníferas
+1845,Riesling Renano,BRANCAS E ROSADAS,2017,105100,Viníferas
+1846,Sauvignon Blanc(2),BRANCAS E ROSADAS,2017,677028,Viníferas
+1847,Sauvignon Gris,BRANCAS E ROSADAS,2017,0,Viníferas
+1848,Seara Nova,BRANCAS E ROSADAS,2017,0,Viníferas
+1849,Semillon,BRANCAS E ROSADAS,2017,188211,Viníferas
+1850,Schonburger,BRANCAS E ROSADAS,2017,7454,Viníferas
+1851,Sylvaner,BRANCAS E ROSADAS,2017,0,Viníferas
+1852,Tocai Friulano,BRANCAS E ROSADAS,2017,0,Viníferas
+1853,Trebbiano,BRANCAS E ROSADAS,2017,3892478,Viníferas
+1854,Trebbiano Toscano,BRANCAS E ROSADAS,2017,100047,Viníferas
+1855,Verdea,BRANCAS E ROSADAS,2017,0,Viníferas
+1856,Verdelho,BRANCAS E ROSADAS,2017,0,Viníferas
+1857,Verdiso,BRANCAS E ROSADAS,2017,0,Viníferas
+1858,Vermentino,BRANCAS E ROSADAS,2017,0,Viníferas
+1859,Vernaccia,BRANCAS E ROSADAS,2017,5100,Viníferas
+1860,Viognier,BRANCAS E ROSADAS,2017,365103,Viníferas
+1861,Outras(3),BRANCAS E ROSADAS,2017,0,Viníferas
+1862,TINTAS,TINTAS,2018,26868514,Viníferas
+1863,Alicante Bouschet,TINTAS,2018,2103844,Viníferas
+1864,Ancelota,TINTAS,2018,492106,Viníferas
+1865,Aramon,TINTAS,2018,0,Viníferas
+1866,Alfrocheiro,TINTAS,2018,0,Viníferas
+1867,Arinarnoa,TINTAS,2018,44775,Viníferas
+1868,Aspirant Bouschet,TINTAS,2018,12830,Viníferas
+1869,Barbera,TINTAS,2018,21863,Viníferas
+1870,Bonarda,TINTAS,2018,0,Viníferas
+1871,Cabernet Franc,TINTAS,2018,1524191,Viníferas
+1872,Cabernet Sauvignon,TINTAS,2018,6004627,Viníferas
+1873, Caladoc,TINTAS,2018,4740,Viníferas
+1874,Campanario,TINTAS,2018,0,Viníferas
+1875,Canaiolo,TINTAS,2018,0,Viníferas
+1876,Carignan,TINTAS,2018,0,Viníferas
+1877,Carmenere,TINTAS,2018,241808,Viníferas
+1878,Castelão,TINTAS,2018,0,Viníferas
+1879,Corvina,TINTAS,2018,0,Viníferas
+1880,Croatina,TINTAS,2018,0,Viníferas
+1881,Cinsaut,TINTAS,2018,0,Viníferas
+1882,Dom Felder,TINTAS,2018,0,Viníferas
+1883,Dolcetto,TINTAS,2018,0,Viníferas
+1884,Durif,TINTAS,2018,0,Viníferas
+1885,Freisa,TINTAS,2018,0,Viníferas
+1886,Egiodola,TINTAS,2018,1047960,Viníferas
+1887,Ekigaina,TINTAS,2018,2070,Viníferas
+1888,Festival (Sugraone),TINTAS,2018,0,Viníferas
+1889,Franconia,TINTAS,2018,0,Viníferas
+1890,Freisa,TINTAS,2018,14020,Viníferas
+1891,Gamay St Romain,TINTAS,2018,12675,Viníferas
+1892,Gamay Beaujolais,TINTAS,2018,152384,Viníferas
+1893,Grand Noir,TINTAS,2018,0,Viníferas
+1894,Grenache,TINTAS,2018,0,Viníferas
+1895,Jaen,TINTAS,2018,0,Viníferas
+1896,Lagrein,TINTAS,2018,2700,Viníferas
+1897,Lambrusco,TINTAS,2018,44511,Viníferas
+1898,Malbec,TINTAS,2018,628780,Viníferas
+1899,Marzemina,TINTAS,2018,0,Viníferas
+1900,Merlot,TINTAS,2018,6257492,Viníferas
+1901,Marselan,TINTAS,2018,384278,Viníferas
+1902,Molinera,TINTAS,2018,1900,Viníferas
+1903,Montepulciano,TINTAS,2018,23306,Viníferas
+1904,Moscato Bailey,TINTAS,2018,152136,Viníferas
+1905,Napa Gamay,TINTAS,2018,0,Viníferas
+1906,Nebbiolo,TINTAS,2018,9236,Viníferas
+1907,Petit Verdot,TINTAS,2018,83552,Viníferas
+1908,Petite Sirah,TINTAS,2018,110361,Viníferas
+1909,Pinotage,TINTAS,2018,398794,Viníferas
+1910,Pinot Noir,TINTAS,2018,3240209,Viníferas
+1911,Pinot Saint George,TINTAS,2018,0,Viníferas
+1912,Piriquita,TINTAS,2018,0,Viníferas
+1913,Rebo,TINTAS,2018,94480,Viníferas
+1914,Refosco,TINTAS,2018,7320,Viníferas
+1915,Rondinella,TINTAS,2018,1990,Viníferas
+1916,Ruby Cabernet,TINTAS,2018,248992,Viníferas
+1917,Sangiovese,TINTAS,2018,63832,Viníferas
+1918,Sira (falsa),TINTAS,2018,0,Viníferas
+1919,Tannat,TINTAS,2018,2940306,Viníferas
+1920,Tempranillo,TINTAS,2018,278456,Viníferas
+1921,Teroldego,TINTAS,2018,77625,Viníferas
+1922,Torrontes,TINTAS,2018,16350,Viníferas
+1923,Tinta Barroca,TINTAS,2018,0,Viníferas
+1924,Touriga Francesa,TINTAS,2018,0,Viníferas
+1925,Touriga Nacional,TINTAS,2018,122015,Viníferas
+1926,Tinta Madeira,TINTAS,2018,0,Viníferas
+1927,Tintoria,TINTAS,2018,0,Viníferas
+1928,Trincdeira,TINTAS,2018,0,Viníferas
+1929,Trousseau,TINTAS,2018,0,Viníferas
+1930,Zinfandel,TINTAS,2018,0,Viníferas
+1931,Outras1,TINTAS,2018,0,Viníferas
+1932,BRANCAS E ROSADAS,BRANCAS E ROSADAS,2018,38722156,Viníferas
+1933,Aliatico,BRANCAS E ROSADAS,2018,0,Viníferas
+1934,Aligote,BRANCAS E ROSADAS,2018,0,Viníferas
+1935,Altesse,BRANCAS E ROSADAS,2018,0,Viníferas
+1936,Alvarinho,BRANCAS E ROSADAS,2018,32647,Viníferas
+1937,Arriloba,BRANCAS E ROSADAS,2018,2580,Viníferas
+1938,Auxerrois,BRANCAS E ROSADAS,2018,0,Viníferas
+1939,Burger,BRANCAS E ROSADAS,2018,0,Viníferas
+1940,Chardonnay,BRANCAS E ROSADAS,2018,6068902,Viníferas
+1941,Chasselas,BRANCAS E ROSADAS,2018,0,Viníferas
+1942,Chenin Blanc,BRANCAS E ROSADAS,2018,387360,Viníferas
+1943,Clairette(1),BRANCAS E ROSADAS,2018,0,Viníferas
+1944,Colombard,BRANCAS E ROSADAS,2018,522866,Viníferas
+1945,Flora,BRANCAS E ROSADAS,2018,2060,Viníferas
+1946,Garganega,BRANCAS E ROSADAS,2018,0,Viníferas
+1947,Gewurztraminer,BRANCAS E ROSADAS,2018,208171,Viníferas
+1948,Gouveio,BRANCAS E ROSADAS,2018,0,Viníferas
+1949,Gros Manseng,BRANCAS E ROSADAS,2018,2430,Viníferas
+1950,Italia (Pirovano 65) (PE),BRANCAS E ROSADAS,2018,2942,Viníferas
+1951,Maccabeo,BRANCAS E ROSADAS,2018,0,Viníferas
+1952,Malvasia,BRANCAS E ROSADAS,2018,0,Viníferas
+1953,Malvasia Amarela,BRANCAS E ROSADAS,2018,52936,Viníferas
+1954,Malvasia Bianca,BRANCAS E ROSADAS,2018,574521,Viníferas
+1955,Malvasia Chianti,BRANCAS E ROSADAS,2018,0,Viníferas
+1956,Malvasia Verde,BRANCAS E ROSADAS,2018,15220,Viníferas
+1957,Malvasia di Candia,BRANCAS E ROSADAS,2018,2557871,Viníferas
+1958,Malvasia Istriana,BRANCAS E ROSADAS,2018,0,Viníferas
+1959,Moscato,BRANCAS E ROSADAS,2018,11202231,Viníferas
+1960,Moscato Canelli,BRANCAS E ROSADAS,2018,121008,Viníferas
+1961,Moscato Giallo,BRANCAS E ROSADAS,2018,1590531,Viníferas
+1962,Moscato Nazareno,BRANCAS E ROSADAS,2018,639810,Viníferas
+1963,Moscato Bianco R2,BRANCAS E ROSADAS,2018,867445,Viníferas
+1964,Moscato de Alexandria,BRANCAS E ROSADAS,2018,95647,Viníferas
+1965,Moscato Rosado,BRANCAS E ROSADAS,2018,0,Viníferas
+1966,Muscat à Petits Grains,BRANCAS E ROSADAS,2018,3000,Viníferas
+1967,Muller Thurgau,BRANCAS E ROSADAS,2018,0,Viníferas
+1968,Muscadelle,BRANCAS E ROSADAS,2018,0,Viníferas
+1969,Ora,BRANCAS E ROSADAS,2018,0,Viníferas
+1970,Palomino,BRANCAS E ROSADAS,2018,0,Viníferas
+1971,Petit Manseng,BRANCAS E ROSADAS,2018,1430,Viníferas
+1972,Peverella,BRANCAS E ROSADAS,2018,33439,Viníferas
+1973,Pinot Blanc,BRANCAS E ROSADAS,2018,17028,Viníferas
+1974,Pinot Gris,BRANCAS E ROSADAS,2018,98728,Viníferas
+1975,Prosecco,BRANCAS E ROSADAS,2018,4018371,Viníferas
+1976,Red Veltliner,BRANCAS E ROSADAS,2018,0,Viníferas
+1977,Riesling Italico,BRANCAS E ROSADAS,2018,3724926,Viníferas
+1978,Riesling Renano,BRANCAS E ROSADAS,2018,121020,Viníferas
+1979,Sauvignon Blanc(2),BRANCAS E ROSADAS,2018,517760,Viníferas
+1980,Sauvignon Gris,BRANCAS E ROSADAS,2018,0,Viníferas
+1981,Seara Nova,BRANCAS E ROSADAS,2018,0,Viníferas
+1982,Semillon,BRANCAS E ROSADAS,2018,225952,Viníferas
+1983,Schonburger,BRANCAS E ROSADAS,2018,14354,Viníferas
+1984,Sylvaner,BRANCAS E ROSADAS,2018,0,Viníferas
+1985,Tocai Friulano,BRANCAS E ROSADAS,2018,0,Viníferas
+1986,Trebbiano,BRANCAS E ROSADAS,2018,4504485,Viníferas
+1987,Trebbiano Toscano,BRANCAS E ROSADAS,2018,18110,Viníferas
+1988,Verdea,BRANCAS E ROSADAS,2018,0,Viníferas
+1989,Verdelho,BRANCAS E ROSADAS,2018,1800,Viníferas
+1990,Verdiso,BRANCAS E ROSADAS,2018,0,Viníferas
+1991,Vermentino,BRANCAS E ROSADAS,2018,0,Viníferas
+1992,Vernaccia,BRANCAS E ROSADAS,2018,4020,Viníferas
+1993,Viognier,BRANCAS E ROSADAS,2018,470555,Viníferas
+1994,Outras(3),BRANCAS E ROSADAS,2018,0,Viníferas
